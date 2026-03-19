@@ -1,0 +1,2861 @@
+GEDCOM Deduplication Report
+============================================================
+
+Input:  /home/user/autoresearch-genealogy/Faulkner.ged
+Output: /home/user/autoresearch-genealogy/Faulkner_cleaned.ged
+
+Individuals: 2834 -> 2267 (567 removed)
+Families:    586 -> 532 (54 removed)
+Merge groups: 362
+
+------------------------------------------------------------
+MERGE DETAILS
+------------------------------------------------------------
+
+Group 1: Kept @I292531339015@
+  Primary names: Tabitha /Faulkner/
+  Removed @I292531040887@: Tabitha /Faulkner/
+  Removed @I292531045445@: Tabitha /Faulkner/
+  Reason: Matched: Tabitha /Faulkner/ <-> Tabitha /Faulkner/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Tabitha /Faulkner/ <-> Tabitha /Faulkner/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Tabitha /Faulkner/ <-> Tabitha /Faulkner/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 2: Kept @I292531046265@
+  Primary names: Isaac Stewart /Faulkner/
+  Removed @I292531353678@: Isaac /Faulkner/
+  Removed @I292531101521@: Isaac Stewart /Faulkner/
+  Reason: Matched: Isaac /Faulkner/ <-> Isaac Stewart /Faulkner/ (name=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: Isaac /Faulkner/ <-> Isaac Stewart /Faulkner/ (name=1.00, death_date=0.70, birth_place=0.33, death_place=1.00)
+  Reason: Matched: Isaac Stewart /Faulkner/ <-> Isaac Stewart /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 3: Kept @I292530921754@
+  Primary names: Mabel /Faulkner/
+  Removed @I292533398339@: Mabel /Faulkner/
+  Reason: Matched: Mabel /Faulkner/ <-> Mabel /Faulkner/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 4: Kept @I292531351792@
+  Primary names: James /Faulkner/
+  Removed @I292531047869@: James /Faulkner/
+  Reason: Matched: James /Faulkner/ <-> James /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 5: Kept @I292531324554@
+  Primary names: Charley Fount /Faulkner/, Charly F. /Faulkner/
+  Removed @I292529719397@: Charley Fount /Faulkner/
+  Removed @I292530921251@: Charley Fount /Faulkner/
+  Removed @I292531324230@: Charley Fount /Faulkner/
+  Reason: Matched: Charley Fount /Faulkner/ <-> Charley Fount /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.33, family=1.00)
+  Reason: Matched: Charley Fount /Faulkner/ <-> Charley Fount /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.75, death_place=0.75)
+  Reason: Matched: Charley Fount /Faulkner/ <-> Charley Fount /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.33)
+  Reason: Matched: Charley Fount /Faulkner/ <-> Charley Fount /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.33)
+  Reason: Matched: Charley Fount /Faulkner/ <-> Charley Fount /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Charley Fount /Faulkner/ <-> Charley Fount /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.33, family=1.00)
+  Confidence: 0.88
+
+Group 6: Kept @I292529719409@
+  Primary names: Abe /Faulkner/
+  Removed @I292531324720@: Abe /Faulkner/
+  Reason: Matched: Abe /Faulkner/ <-> Abe /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70)
+  Confidence: 0.80
+
+Group 7: Kept @I292531046269@
+  Primary names: Francis B /Faulkner/
+  Removed @I292531103500@: Francis /Faulkner/
+  Removed @I292531835162@: Thomas Francis /Faulkner/
+  Removed @I292531101526@: Francis /Faulkner/
+  Removed @I292531835218@: Francis B /Faulkner/
+  Reason: Matched: Francis B /Faulkner/ <-> Francis /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70)
+  Reason: Matched: Francis B /Faulkner/ <-> Francis /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.67)
+  Reason: Matched: Francis B /Faulkner/ <-> Thomas Francis /Faulkner/ (name=0.70, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=0.33, family=1.00)
+  Reason: Matched: Francis B /Faulkner/ <-> Francis B /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Francis /Faulkner/ <-> Francis /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70)
+  Reason: Matched: Francis /Faulkner/ <-> Thomas Francis /Faulkner/ (name=0.70, birth_date=0.70, death_date=0.70)
+  Reason: Matched: Francis /Faulkner/ <-> Francis B /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70)
+  Reason: Matched: Francis /Faulkner/ <-> Thomas Francis /Faulkner/ (name=0.70, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=0.67)
+  Reason: Matched: Francis /Faulkner/ <-> Francis B /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.67)
+  Reason: Matched: Thomas Francis /Faulkner/ <-> Francis B /Faulkner/ (name=0.70, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=0.33)
+  Confidence: 0.88
+
+Group 8: Kept @I292530921479@
+  Primary names: Donnie /Faulkner/
+  Removed @I292530921480@: Donnie /Faulkner/
+  Reason: Matched: Donnie /Faulkner/ <-> Donnie /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=1.00)
+  Confidence: 0.93
+
+Group 9: Kept @I292531829828@
+  Primary names: Mary Riley /Faulkner/, Mary /Faulkner/
+  Removed @I292531352139@: Mary Riley /Faulkner/
+  Removed @I292531047896@: Mary Riley /Faulkner/
+  Removed @I292531057166@: Mary Riley /Faulkner/
+  Reason: Matched: Mary Riley /Faulkner/ <-> Mary Riley /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary Riley /Faulkner/ <-> Mary Riley /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary Riley /Faulkner/ <-> Mary Riley /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: Mary Riley /Faulkner/ <-> Mary Riley /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: Mary Riley /Faulkner/ <-> Mary Riley /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary Riley /Faulkner/ <-> Mary Riley /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 10: Kept @I292531835091@
+  Primary names: Moses /Faulkner/
+  Removed @I292531835227@: Moses /Faulkner/
+  Reason: Matched: Moses /Faulkner/ <-> Moses /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.88
+
+Group 11: Kept @I292529275481@
+  Primary names: Henrietta Clemintine  /Crum/, H C /Crumm/, Henrietta /Faulkner/
+  Removed @I292531323760@: Henrietta Clemintine  /Crum/, Heneritta Climintine Crum /Faulkner/, Henrietta Climintine /Faulkner/, Henrietta Climintine /Crum/, Henrietta /Faulkner/, Redy /Crumb/
+  Reason: Matched: Henrietta Clemintine  /Crum/ <-> Henrietta Clemintine  /Crum/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 12: Kept @I292531040910@
+  Primary names: Joseph Marcus /Faulkner/
+  Removed @I292531339031@: Joseph Marcus /Faulkner/
+  Reason: Matched: Joseph Marcus /Faulkner/ <-> Joseph Marcus /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 13: Kept @I292529720924@
+  Primary names: Lois /Faulkner/, Delois /Faulkner/, Lois /Reynolds/
+  Removed @I292529278941@: Delois /Faulkner/
+  Removed @I292531337471@: Delois /Faulkner/
+  Reason: Matched: Delois /Faulkner/ <-> Delois /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Reason: Matched: Delois /Faulkner/ <-> Delois /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Reason: Matched: Delois /Faulkner/ <-> Delois /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.88
+
+Group 14: Kept @I292531047894@
+  Primary names: Mary Jane /Faulkner/
+  Removed @I292531057165@: Mary Jane /Faulkner/
+  Removed @I292531829827@: Mary Jane /Faulkner/
+  Reason: Matched: Mary Jane /Faulkner/ <-> Mary Jane /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary Jane /Faulkner/ <-> Mary Jane /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary Jane /Faulkner/ <-> Mary Jane /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.94
+
+Group 15: Kept @I292531041325@
+  Primary names: Joseph Eugene /Faulkner/
+  Removed @I292531339390@: Joseph Eugene /Faulkner/
+  Removed @I292531045420@: Joseph Eugene /Faulkner/
+  Reason: Matched: Joseph Eugene /Faulkner/ <-> Joseph Eugene /Faulkner/ (name=1.00, birth_date=0.70, death_place=1.00)
+  Reason: Matched: Joseph Eugene /Faulkner/ <-> Joseph Eugene /Faulkner/ (name=1.00, birth_date=0.70, death_place=1.00)
+  Reason: Matched: Joseph Eugene /Faulkner/ <-> Joseph Eugene /Faulkner/ (name=1.00, birth_date=0.70, death_place=1.00)
+  Confidence: 0.90
+
+Group 16: Kept @I292531339378@
+  Primary names: Emmanuel Ford /Faulkner/ Jr
+  Removed @I292531045405@: Emmanuel Ford /Faulkner/ Jr
+  Removed @I292531041313@: Emmanuel Ford /Faulkner/ Jr
+  Reason: Matched: Emmanuel Ford /Faulkner/ Jr <-> Emmanuel Ford /Faulkner/ Jr (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Emmanuel Ford /Faulkner/ Jr <-> Emmanuel Ford /Faulkner/ Jr (name=1.00, birth_date=1.00, death_date=1.00, birth_place=0.25, death_place=1.00)
+  Reason: Matched: Emmanuel Ford /Faulkner/ Jr <-> Emmanuel Ford /Faulkner/ Jr (name=1.00, birth_date=1.00, death_date=1.00, birth_place=0.25, death_place=1.00)
+  Confidence: 1.00
+
+Group 17: Kept @I292531835234@
+  Primary names: Winniford /Faulkner/
+  Removed @I292531835098@: Winniford /Faulkner/
+  Reason: Matched: Winniford /Faulkner/ <-> Winniford /Faulkner/ (name=1.00, birth_date=0.70, family=0.80)
+  Confidence: 0.83
+
+Group 18: Kept @I292531339377@
+  Primary names: John /Faulkner/
+  Removed @I292531041311@: John /Faulkner/
+  Removed @I292531045403@: John /Faulkner/
+  Reason: Matched: John /Faulkner/ <-> John /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: John /Faulkner/ <-> John /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: John /Faulkner/ <-> John /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 19: Kept @I292531339576@
+  Primary names: James /Faulkner/
+  Removed @I292531103505@: James /Faulkner/
+  Reason: Matched: James /Faulkner/ <-> James /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Confidence: 0.85
+
+Group 20: Kept @I292531834016@
+  Primary names: Charles (Tobe) /Faulkner/
+  Removed @I292531834020@: Charles Cooley /Faulkner/
+  Removed @I292531338066@: Charlie /Faulkner/
+  Removed @I292531053176@: Charlie /Faulkner/
+  Reason: Matched: Charles (Tobe) /Faulkner/ <-> Charles Cooley /Faulkner/ (name=1.00, family=1.00)
+  Reason: Matched: Charles (Tobe) /Faulkner/ <-> Charlie /Faulkner/ (name=0.86, birth_place=1.00)
+  Reason: Matched: Charlie /Faulkner/ <-> Charlie /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 1.00
+
+Group 21: Kept @I292529274572@
+  Primary names: Joseph Marcus /Faulkner/, Joe M /Falkner/
+  Removed @I292533398338@: Joe /Faulkner/
+  Removed @I292529724062@: Joe /Faulkner/
+  Removed @I292531323759@: Joseph Marcus /Faulkner/, Joe /Faulkner/
+  Removed @I292530920512@: George /Faulkner/
+  Removed @I292531314740@: George /Faulkner/
+  Removed @I292531323765@: George Joseph /Faulkner/, Joe /Faulkner/
+  Reason: Matched: Joe /Faulkner/ <-> Joe /Faulkner/ (name=1.00, birth_date=0.90, birth_place=1.00)
+  Reason: Matched: Joe /Faulkner/ <-> Joe /Faulkner/ (name=1.00, birth_date=0.90, birth_place=1.00)
+  Reason: Matched: Joe /Faulkner/ <-> Joe /Faulkner/ (name=1.00, birth_place=1.00)
+  Reason: Matched: George /Faulkner/ <-> George Joseph /Faulkner/ (name=1.00, birth_date=1.00, birth_place=1.00, death_place=0.50)
+  Reason: Matched: Joe M /Falkner/ <-> Joe /Faulkner/ (name=1.00, birth_place=1.00)
+  Reason: Matched: Joe /Faulkner/ <-> Joe /Faulkner/ (name=1.00, birth_date=0.90, birth_place=1.00, family=1.00)
+  Reason: Matched: George /Faulkner/ <-> George Joseph /Faulkner/ (name=1.00, birth_date=1.00, birth_place=0.33, death_place=1.00)
+  Confidence: 1.00
+
+Group 22: Kept @I292529724068@
+  Primary names: Donald /Faulkner/
+  Removed @I292531314745@: Donald  "Donnie" /Faulkner/
+  Removed @I292531323771@: Donald /Faulkner/, Donald (Donnie) /Faulkner/
+  Removed @I292530921478@: Donnie /Faulkner/
+  Reason: Matched: Donald /Faulkner/ <-> Donald /Faulkner/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=0.25)
+  Reason: Matched: Donald /Faulkner/ <-> Donald  "Donnie" /Faulkner/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=0.50, death_place=0.25)
+  Reason: Matched: Donald /Faulkner/ <-> Donald  "Donnie" /Faulkner/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=0.50, death_place=0.75)
+  Reason: Matched: Donald  "Donnie" /Faulkner/ <-> Donnie /Faulkner/ (name=0.70, birth_date=0.30, death_date=1.00, birth_place=0.50, death_place=1.00)
+  Confidence: 0.83
+
+Group 23: Kept @I292531339379@
+  Primary names: William Hardy /Faulkner/
+  Removed @I292531041315@: William Hardy /Faulkner/
+  Removed @I292531045408@: William Hardy /Faulkner/
+  Reason: Matched: William Hardy /Faulkner/ <-> William Hardy /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: William Hardy /Faulkner/ <-> William Hardy /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: William Hardy /Faulkner/ <-> William Hardy /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 24: Kept @I292531316547@
+  Primary names: Alma Mae /Faulkner/, Alma /Kerlee/
+  Removed @I292589009042@: Alma Mae /Faulkner/
+  Reason: Matched: Alma Mae /Faulkner/ <-> Alma Mae /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 25: Kept @I292531353679@
+  Primary names: Eve /Faulkner/
+  Removed @I292531047900@: Eve /Faulkner/
+  Removed @I292531103470@: Eve /Faulkner/
+  Reason: Matched: Eve /Faulkner/ <-> Eve /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Eve /Faulkner/ <-> Eve /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Eve /Faulkner/ <-> Eve /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 26: Kept @I292531339022@
+  Primary names: Vincent /Faulkner/
+  Removed @I292531040884@: Vincent /Faulkner/
+  Removed @I292531040899@: Vincent /Faulkner/
+  Removed @I292531045424@: Vincent /Faulkner/
+  Reason: Matched: Vincent /Faulkner/ <-> Vincent /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Vincent /Faulkner/ <-> Vincent /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Vincent /Faulkner/ <-> Vincent /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Vincent /Faulkner/ <-> Vincent /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Vincent /Faulkner/ <-> Vincent /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Vincent /Faulkner/ <-> Vincent /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.93
+
+Group 27: Kept @I292529278386@
+  Primary names: Lilly Mae /Faulkner Latch/, Lilly Mae /Faulkner/, Lillie Mae /Latch/, Lulu M /Faulkner/
+  Removed @I292531316548@: Lilly Mae /Faulkner/
+  Removed @I292589009043@: Lilly Mae /Faulkner/
+  Reason: Matched: Lilly Mae /Faulkner/ <-> Lilly Mae /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Lilly Mae /Faulkner/ <-> Lilly Mae /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Lilly Mae /Faulkner/ <-> Lilly Mae /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.90
+
+Group 28: Kept @I292531351793@
+  Primary names: William /Faulkner/
+  Removed @I292531047872@: William /Faulkner/
+  Reason: Matched: William /Faulkner/ <-> William /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=0.50)
+  Confidence: 0.78
+
+Group 29: Kept @I292531042301@
+  Primary names: Margary Anne /Stewart (END)/, Ann /Faulkner/
+  Removed @I292531339701@: Margary Anne /Stewart Faulkner (END)/ Faulkner, Ann /Faulkner/
+  Reason: Matched: Ann /Faulkner/ <-> Ann /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.25, death_place=1.00)
+  Confidence: 0.73
+
+Group 30: Kept @I292530920513@
+  Primary names: Ola /Faulkner/
+  Removed @I292531314741@: Ola /Faulkner/
+  Reason: Matched: Ola /Faulkner/ <-> Ola /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=0.50, death_place=1.00)
+  Confidence: 0.84
+
+Group 31: Kept @I292531046278@
+  Primary names: Thomas /Faulkner/
+  Removed @I292531103503@: Thomas /Faulkner/
+  Reason: Matched: Thomas /Faulkner/ <-> Thomas /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 32: Kept @I292531339690@
+  Primary names: Thomas /Faulkner/, Thomas /Faulkner/, Thomas /Faulkner/
+  Removed @I292531042207@: Thomas /Faulkner/, Thomas Fortner /Falconer\Faulkner/, John /Faulkner/, Thos /Faulkner/
+  Reason: Matched: Thomas /Faulkner/ <-> Thomas /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 33: Kept @I292531061774@
+  Primary names: Edward /Faulkner/
+  Removed @I292531061775@: Edward /Faulkner/
+  Reason: Matched: Edward /Faulkner/ <-> Edward /Faulkner/ (name=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 34: Kept @I292531324702@
+  Primary names: Franklin /Faulkner/, Franklin /Falkner/
+  Removed @I292529719383@: Franklin /Faulkner/
+  Reason: Matched: Franklin /Faulkner/ <-> Franklin /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.50, death_place=1.00)
+  Confidence: 0.78
+
+Group 35: Kept @I292533347931@
+  Primary names: Jane /Faulkner/
+  Removed @I292531058594@: Jane /Faulkner/
+  Reason: Matched: Jane /Faulkner/ <-> Jane /Faulkner/ (name=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 36: Kept @I292531339383@
+  Primary names: Aaron /Faulkner/
+  Removed @I292531045413@: Aaron /Faulkner/
+  Removed @I292531041318@: Aaron /Faulkner/
+  Reason: Matched: Aaron /Faulkner/ <-> Aaron /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Aaron /Faulkner/ <-> Aaron /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Aaron /Faulkner/ <-> Aaron /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 37: Kept @I292531324229@
+  Primary names: Julia A. /Faulkner/
+  Removed @I292529719399@: Julia A /Faulkner/
+  Reason: Matched: Julia A /Faulkner/ <-> Julia A. /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 38: Kept @I292531041316@
+  Primary names: Shugar /Faulkner/
+  Removed @I292531045410@: Shugar /Faulkner/
+  Removed @I292531339381@: Shugar /Faulkner/
+  Reason: Matched: Shugar /Faulkner/ <-> Shugar /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Shugar /Faulkner/ <-> Shugar /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Shugar /Faulkner/ <-> Shugar /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 39: Kept @I292531339008@
+  Primary names: Beady /Faulkner/
+  Removed @I292531045426@: Beady /Faulkner/
+  Removed @I292531040877@: Beady /Faulkner/
+  Reason: Matched: Beady /Faulkner/ <-> Beady /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Beady /Faulkner/ <-> Beady /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Beady /Faulkner/ <-> Beady /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 40: Kept @I292531339287@
+  Primary names: Emanuel Ford /Faulkner/ Sr, Emanuel Ford /Faulkner/ Sr, Emanuel Ford /Faulkner/, Emanuel /Faulkner/, Emanuel /Falkner/, Emanuel /Faulkner/
+  Removed @I292531041308@: Emanuel Ford /Faulkner/ Sr, Emmanuel - Emanuel Ford /Forkner/ Sr
+  Removed @I292531103493@: Emanuel Ford /Faulkner/ Sr
+  Removed @I292531352149@: Emanuel /Faulkner/
+  Removed @I292531101359@: Emanuel /Faulkner/
+  Reason: Matched: Emanuel /Faulkner/ <-> Emanuel Ford /Faulkner/ Sr (name=1.00, birth_date=0.70, birth_place=0.33, death_place=0.67)
+  Reason: Matched: Emanuel /Faulkner/ <-> Emanuel Ford /Faulkner/ Sr (name=1.00, birth_date=0.70, birth_place=0.50, death_place=0.50)
+  Reason: Matched: Emanuel /Faulkner/ <-> Emanuel Ford /Faulkner/ Sr (name=1.00, birth_date=0.70, birth_place=1.00, death_place=0.33)
+  Reason: Matched: Emanuel /Faulkner/ <-> Emanuel /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Emanuel Ford /Faulkner/ Sr <-> Emanuel Ford /Faulkner/ Sr (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.50, death_place=0.50)
+  Reason: Matched: Emanuel Ford /Faulkner/ Sr <-> Emanuel Ford /Faulkner/ Sr (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.33)
+  Reason: Matched: Emanuel Ford /Faulkner/ Sr <-> Emanuel /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.33, death_place=0.67)
+  Reason: Matched: Emanuel Ford /Faulkner/ Sr <-> Emanuel Ford /Faulkner/ Sr (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.50, death_place=0.50)
+  Reason: Matched: Emanuel Ford /Faulkner/ Sr <-> Emanuel /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.50, death_place=0.50)
+  Reason: Matched: Emanuel Ford /Faulkner/ Sr <-> Emanuel /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=0.33)
+  Confidence: 0.93
+
+Group 41: Kept @I292531044286@
+  Primary names: Elizabeth /Faulkner/
+  Removed @I292531339597@: Elizabeth /Faulkner/
+  Reason: Matched: Elizabeth /Faulkner/ <-> Elizabeth /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 42: Kept @I292531339438@
+  Primary names: John Thomas /Faulkner/, John Pleasant /Falconar\Forkner\Fortner\Falkner\Falconer/ Jr., John Pleasant /Falconar\Forkner\Fortner\Falkner\Falconer/ Jr., John Thomas (Pleasant) /Faulkner/, John Pleasant /Faulkner/ Sr., John /Falkner/
+  Removed @I292531101523@: John Thomas Pleasant /Faulkner/
+  Removed @I292531041653@: John Pleasant /Faulkner/, John /Faulkner/ Jr
+  Removed @I292531355832@: Thomas /Faulkner/, Thomas /Faulkner/
+  Reason: Matched: Thomas /Faulkner/ <-> John Thomas /Faulkner/ (name=0.70, birth_date=0.30, birth_place=0.33, death_place=1.00, family=1.00)
+  Reason: Matched: John Thomas /Faulkner/ <-> John Thomas Pleasant /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.33, death_place=1.00)
+  Reason: Matched: John Thomas /Faulkner/ <-> John Pleasant /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: John Thomas Pleasant /Faulkner/ <-> John Pleasant /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.33, death_place=1.00)
+  Confidence: 0.93
+
+Group 43: Kept @I292592277416@
+  Primary names: William Joseph /Faulkner/ Sr
+  Removed @I292531053997@: William /Faulkner/
+  Removed @I292531835193@: William /Faulkner/
+  Removed @I292531835023@: William Joseph /Faulkner/
+  Reason: Matched: William /Faulkner/ <-> William /Faulkner/ (name=1.00, death_date=0.70)
+  Reason: Matched: William Joseph /Faulkner/ Sr <-> William /Faulkner/ (name=1.00, death_date=0.30, family=1.00)
+  Reason: Matched: William Joseph /Faulkner/ <-> William /Faulkner/ (name=1.00, death_date=0.30, family=1.00)
+  Confidence: 0.85
+
+Group 44: Kept @I292531339387@
+  Primary names: Francis /Faulkner/
+  Removed @I292531045418@: Francis /Faulkner/
+  Removed @I292531041324@: Francis /Faulkner/
+  Reason: Matched: Francis /Faulkner/ <-> Francis /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Francis /Faulkner/ <-> Francis /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Francis /Faulkner/ <-> Francis /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 45: Kept @I292529718593@
+  Primary names: Bulah V /Faulkner/, Beulah /Chandler/
+  Removed @I292589009041@: Bulah V /Faulkner/
+  Reason: Matched: Bulah V /Faulkner/ <-> Bulah V /Faulkner/ (name=1.00, birth_date=0.30, birth_place=1.00)
+  Confidence: 0.77
+
+Group 46: Kept @I292531040905@
+  Primary names: Tabitha /Faulkner/
+  Removed @I292531040895@: Tabatha /FAULKNER/
+  Removed @I292531339024@: Tabitha /Faulkner/
+  Reason: Matched: Tabitha /Faulkner/ <-> Tabatha /FAULKNER/ (name=0.86, birth_date=0.70, death_date=0.70)
+  Reason: Matched: Tabitha /Faulkner/ <-> Tabitha /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Tabatha /FAULKNER/ <-> Tabitha /Faulkner/ (name=0.86, birth_date=0.70, death_date=0.70, family=1.00)
+  Confidence: 0.88
+
+Group 47: Kept @I292531339011@
+  Primary names: Mary /Faulkner/
+  Removed @I292531045441@: Mary /Faulkner/
+  Removed @I292531040881@: Mary /Faulkner/
+  Reason: Matched: Mary /Faulkner/ <-> Mary /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary /Faulkner/ <-> Mary /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary /Faulkner/ <-> Mary /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 48: Kept @I292531041317@
+  Primary names: Elizabeth /Faulkner/
+  Removed @I292531045412@: Elizabeth /Faulkner/
+  Removed @I292531339382@: Elizabeth /Faulkner/
+  Reason: Matched: Elizabeth /Faulkner/ <-> Elizabeth /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Elizabeth /Faulkner/ <-> Elizabeth /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Elizabeth /Faulkner/ <-> Elizabeth /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 49: Kept @I292529724060@
+  Primary names: Maggie /Faulkner/
+  Removed @I292531314739@: Maggie /Faulkner/
+  Removed @I292531323762@: Maggie /Faulkner/
+  Reason: Matched: Maggie /Faulkner/ <-> Maggie /Faulkner/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=0.50, death_place=0.75)
+  Reason: Matched: Maggie /Faulkner/ <-> Maggie /Faulkner/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=0.50, death_place=0.75)
+  Confidence: 0.83
+
+Group 50: Kept @I290022238061@
+  Primary names: Raymond Lee /Faulkner/, Raymond L /Faulkner/
+  Removed @I292531338068@: Georgie Lee /Faulkner/
+  Removed @I292531053180@: George L /Faulkner/
+  Removed @I292529278830@: Rudolph Marcus /Faulkner/, Rudolph /Faulkner/, Rudolph /Faulkner/
+  Removed @I292531053191@: R Luther /Faulkner/
+  Reason: Matched: Raymond L /Faulkner/ <-> George L /Faulkner/ (name=0.70, birth_place=1.00)
+  Reason: Matched: Raymond Lee /Faulkner/ <-> R Luther /Faulkner/ (name=0.80, birth_place=1.00)
+  Reason: Matched: George L /Faulkner/ <-> Georgie Lee /Faulkner/ (name=0.92, birth_date=0.30, birth_place=1.00)
+  Reason: Matched: Rudolph Marcus /Faulkner/ <-> R Luther /Faulkner/ (name=0.80, birth_place=1.00)
+  Confidence: 0.90
+
+Group 51: Kept @I292531835028@
+  Primary names: Anne /Faulkner/
+  Removed @I292531103498@: Ann /Faulkner/
+  Reason: Matched: Ann /Faulkner/ <-> Anne /Faulkner/ (name=0.86, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.85
+
+Group 52: Kept @I292531339386@
+  Primary names: Hardy /Faulkner/, Hardy /Falkner/
+  Removed @I292531045417@: Hardy /Faulkner/
+  Removed @I292531041322@: Hardy /Faulkner/
+  Reason: Matched: Hardy /Faulkner/ <-> Hardy /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Hardy /Faulkner/ <-> Hardy /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Hardy /Faulkner/ <-> Hardy /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 53: Kept @I292531351794@
+  Primary names: John /Faulkner/
+  Removed @I292531047875@: John /Faulkner/
+  Reason: Matched: John /Faulkner/ <-> John /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 54: Kept @I292529719405@
+  Primary names: Robert "Bob" /Faulkner/
+  Removed @I292531324716@: Robert "Bob" /Faulkner/
+  Reason: Matched: Robert "Bob" /Faulkner/ <-> Robert "Bob" /Faulkner/ (name=1.00, birth_date=1.00, death_date=0.90, birth_place=1.00, death_place=1.00)
+  Confidence: 0.98
+
+Group 55: Kept @I292531339009@
+  Primary names: Cursey Kizziah /Faulkner/, Cursey /Faulkner/
+  Removed @I292531045432@: Cursey Kizziah /Faulkner/
+  Removed @I292531040878@: Cursey Kizziah /Faulkner/
+  Reason: Matched: Cursey Kizziah /Faulkner/ <-> Cursey Kizziah /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Cursey Kizziah /Faulkner/ <-> Cursey Kizziah /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Cursey Kizziah /Faulkner/ <-> Cursey Kizziah /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 56: Kept @I292531057145@
+  Primary names: Lady Elizabeth  /Filmer/, Elizabeth /Faulkner/, Elizabeth /Faulkner/
+  Removed @I292531363336@: Elizabeth /Filmer/
+  Removed @I292531352803@: Lady Elizabeth /Filmer/
+  Removed @I292531354752@: Elizabeth  /Filmer/, Lady Elizabeth /Filmer/, ELIZABETH  /(FILMER) Faulkner / 🌸, Elizabeth /Faulkner/
+  Removed @I292533348236@: Elizabeth /Filmer/
+  Removed @I292531047280@: Lady Elizabeth  /Filmer/
+  Reason: Matched: Lady Elizabeth /Filmer/ <-> Lady Elizabeth  /Filmer/ (name=1.00, birth_date=0.30, death_date=1.00, birth_place=1.00, death_place=0.50)
+  Reason: Matched: Lady Elizabeth  /Filmer/ <-> Lady Elizabeth /Filmer/ (name=1.00, birth_date=1.00, birth_place=1.00, death_place=0.50)
+  Reason: Matched: Lady Elizabeth  /Filmer/ <-> Lady Elizabeth  /Filmer/ (name=1.00, birth_date=1.00, birth_place=1.00, death_place=0.50)
+  Reason: Matched: Lady Elizabeth  /Filmer/ <-> Elizabeth /Filmer/ (name=0.70, birth_date=0.30, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Elizabeth /Filmer/ <-> Lady Elizabeth /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Elizabeth /Filmer/ <-> Lady Elizabeth  /Filmer/ (name=1.00, birth_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Elizabeth /Filmer/ <-> Elizabeth /Filmer/ (name=0.70, birth_date=1.00, birth_place=1.00, death_place=0.50)
+  Reason: Matched: Lady Elizabeth /Filmer/ <-> Lady Elizabeth  /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Elizabeth  /Filmer/ <-> Elizabeth /Filmer/ (name=0.70, birth_date=1.00, birth_place=1.00, death_place=0.50, family=1.00)
+  Reason: Matched: Elizabeth /Filmer/ <-> Elizabeth /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=0.50)
+  Confidence: 1.00
+
+Group 57: Kept @I292531353676@
+  Primary names: Benjamin /Faulkner/
+  Removed @I292531103469@: Benjamin /Faulkner/
+  Reason: Matched: Benjamin /Faulkner/ <-> Benjamin /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 58: Kept @I292531324286@
+  Primary names: Abel F /Faulkner/, Abel / Falkner/, Abel /Faulkner/, Abel /Faulkner/, Able /Falkner/, Abel /Faulkner/, Albert /Falkner/
+  Removed @I292531045423@: Abel F /Faulkner/
+  Removed @I292529719216@: Abel /Faulkner (Forkner)/, Abel /Falkner/
+  Reason: Matched: Abel F /Faulkner/ <-> Abel F /Faulkner/ (name=1.00, birth_date=0.30, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Abel /Falkner/ <-> Abel F /Faulkner/ (name=1.00, birth_date=0.30, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.80
+
+Group 59: Kept @I292531339010@
+  Primary names: Moses /Faulkner/
+  Removed @I292531045443@: Moses /Faulkner/
+  Removed @I292531040879@: Moses /Faulkner/
+  Reason: Matched: Moses /Faulkner/ <-> Moses /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Moses /Faulkner/ <-> Moses /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Moses /Faulkner/ <-> Moses /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 60: Kept @I292531353685@
+  Primary names: Joseph /Faulkner/
+  Removed @I292531103476@: Joseph /Faulkner/
+  Removed @I292531047906@: Joseph /Faulkner/
+  Reason: Matched: Joseph /Faulkner/ <-> Joseph /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Joseph /Faulkner/ <-> Joseph /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Joseph /Faulkner/ <-> Joseph /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 61: Kept @I292531339979@
+  Primary names: Thomas /Falconer/, John Thomas /Faulkner/  Sr., John Thomas /Fortner/, John Thomas /Fortner/, John /Faulkner/, Thomas /Falconer/, John /Faulkner/, John /Faulkner/
+  Removed @I292531047010@: John Thomas /Faulkner/, John Thomas /Fortner/
+  Reason: Matched: John Thomas /Faulkner/  Sr. <-> John Thomas /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=0.50, death_place=1.00)
+  Confidence: 0.84
+
+Group 62: Kept @I292531353686@
+  Primary names: Jacob /Faulkner/
+  Removed @I292531046944@: Jacob /Faulkner/
+  Removed @I292531101524@: Jacob /Faulkner/
+  Reason: Matched: Jacob /Faulkner/ <-> Jacob /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Jacob /Faulkner/ <-> Jacob /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Jacob /Faulkner/ <-> Jacob /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 63: Kept @I292531353692@
+  Primary names: Francis /Faulkner/
+  Removed @I292531103485@: Francis /Faulkner/
+  Reason: Matched: Francis /Faulkner/ <-> Francis /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 64: Kept @I292531324231@
+  Primary names: Hiram Frank /Faulkner/, Hiram F. /Faulkner/
+  Removed @I292529719391@: Hiram Frank /Faulkner/
+  Reason: Matched: Hiram Frank /Faulkner/ <-> Hiram Frank /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 65: Kept @I292531829823@
+  Primary names: Mary /Faulkner/, Mary Moore /Faulkner/
+  Removed @I292531047886@: Mary /Faulkner/
+  Reason: Matched: Mary /Faulkner/ <-> Mary /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 66: Kept @I292531829810@
+  Primary names: Mary Elizabeth /Faulkner/, Elizabeth /Faulconer/, Elizabeth /Faulkner/
+  Removed @I292531057151@: Mary Elizabeth /Faulkner/
+  Reason: Matched: Mary Elizabeth /Faulkner/ <-> Mary Elizabeth /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 67: Kept @I292531339385@
+  Primary names: Anna /Faulkner/
+  Removed @I292531041321@: Anna /Faulkner/
+  Removed @I292531835090@: Anna /Faulkner/
+  Removed @I292531045415@: Anna /Faulkner/
+  Removed @I292531835226@: Anna /Faulkner/
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.50)
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.50)
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.50)
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.50)
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.50)
+  Reason: Matched: Anna /Faulkner/ <-> Anna /Faulkner/ (name=1.00, birth_date=0.70, birth_place=0.50)
+  Confidence: 0.93
+
+Group 68: Kept @I292531046280@
+  Primary names: Temperance /Faulkner/
+  Removed @I292531103502@: Temperance /Faulkner/
+  Reason: Matched: Temperance /Faulkner/ <-> Temperance /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 69: Kept @I292531339002@
+  Primary names: Moses /Faulkner (Fortner)/, Moses Sr /FAULKNER/, Moses /Faulkner/, Moses /Faulkner/, Moses /Falconar/, Moses /Faulkner/, Moses /Faulkner/, Moses /Faulkner/, Moses /Faulkner/, Moses /Falkner/
+  Removed @I292531040870@: Moses /Faulkner/ Sr, Moses /Faulkner/ Sr
+  Reason: Matched: Moses Sr /FAULKNER/ <-> Moses /Faulkner/ Sr (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 70: Kept @I292531053186@
+  Primary names: Sarah Ethel /Faulkner/
+  Removed @I292531338065@: sarah ethel /faulkner/
+  Reason: Matched: Sarah Ethel /Faulkner/ <-> sarah ethel /faulkner/ (name=1.00, birth_date=1.00, death_date=1.00, death_place=0.25)
+  Confidence: 0.81
+
+Group 71: Kept @I292531353684@
+  Primary names: Susannah /Faulkner/
+  Removed @I292531103475@: Susannah /Faulkner/
+  Removed @I292531047905@: Susannah /Faulkner/
+  Reason: Matched: Susannah /Faulkner/ <-> Susannah /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Reason: Matched: Susannah /Faulkner/ <-> Susannah /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Reason: Matched: Susannah /Faulkner/ <-> Susannah /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Confidence: 0.85
+
+Group 72: Kept @I292531835099@
+  Primary names: William Joseph /Faulkner/
+  Removed @I292531835238@: William Joseph /Faulkner/
+  Reason: Matched: William Joseph /Faulkner/ <-> William Joseph /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.88
+
+Group 73: Kept @I292531040889@
+  Primary names: Obediance "Beady" /Faulkner/
+  Removed @I292531339017@: Obediance "Beady" /Faulkner/
+  Reason: Matched: Obediance "Beady" /Faulkner/ <-> Obediance "Beady" /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 74: Kept @I292529273353@
+  Primary names: Arthur Lee /Faulkner/, Author /Faulkner/, Arthur /Faulkner/, Author /Faulkner/, Arthur /Faulkner/, Auther /Faulkner/
+  Removed @I292529281430@: Arthur Lee /Faulkner/
+  Reason: Matched: Arthur Lee /Faulkner/ <-> Arthur Lee /Faulkner/ (name=1.00, birth_date=0.30, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.86
+
+Group 75: Kept @I292531353681@
+  Primary names: Mary Catharine /Faulkner/
+  Removed @I292531047902@: Mary Catharine /Faulkner/
+  Reason: Matched: Mary Catharine /Faulkner/ <-> Mary Catharine /Faulkner/ (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 76: Kept @I292531324709@
+  Primary names: Marcus Layfette /Faulkner/
+  Removed @I292529719387@: Marcus Layfette /Faulkner/
+  Reason: Matched: Marcus Layfette /Faulkner/ <-> Marcus Layfette /Faulkner/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 77: Kept @I292531352148@
+  Primary names: James /Faulkner/
+  Removed @I292531101358@: James /Faulkner/
+  Reason: Matched: James /Faulkner/ <-> James /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 78: Kept @I292531829813@
+  Primary names: John Robert /Faulkner/
+  Removed @I292531057155@: John Robert /Faulkner/
+  Reason: Matched: John Robert /Faulkner/ <-> John Robert /Faulkner/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 79: Kept @I292529724061@
+  Primary names: Julie /Faulkner/
+  Removed @I292531323764@: Julie /Faulkner/
+  Reason: Matched: Julie /Faulkner/ <-> Julie /Faulkner/ (name=1.00, birth_date=0.90, birth_place=1.00)
+  Confidence: 0.97
+
+Group 80: Kept @I292531835244@
+  Primary names: Lewis /Faulkner/
+  Removed @I292531835102@: Lewis /Faulkner/
+  Reason: Matched: Lewis /Faulkner/ <-> Lewis /Faulkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.92
+
+Group 81: Kept @I292531835068@
+  Primary names: John /Faulkner/
+  Removed @I292531103495@: John /Faulkner/
+  Reason: Matched: John /Faulkner/ <-> John /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 82: Kept @I292531324718@
+  Primary names: Quay Dock /Faulkner/
+  Removed @I292529719408@: Quay Dock /Faulkner/
+  Reason: Matched: Quay Dock /Faulkner/ <-> Quay Dock /Faulkner/ (name=1.00, birth_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 83: Kept @I292531339599@
+  Primary names: Temperance "Tempy" /Faulkner/
+  Removed @I292531044294@: Temperance "Tempy" /Faulkner/
+  Reason: Matched: Temperance "Tempy" /Faulkner/ <-> Temperance "Tempy" /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 84: Kept @I292531046275@
+  Primary names: Ann /Faulkner/
+  Removed @I292531101538@: Ann /Faulkner/
+  Reason: Matched: Ann /Faulkner/ <-> Ann /Faulkner/ (name=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 85: Kept @I292531353683@
+  Primary names: Jesse /Faulkner/
+  Removed @I292531103473@: Jesse /Faulkner/
+  Removed @I292531047903@: Jesse /Faulkner/
+  Reason: Matched: Jesse /Faulkner/ <-> Jesse /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Jesse /Faulkner/ <-> Jesse /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Jesse /Faulkner/ <-> Jesse /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 86: Kept @I292531046945@
+  Primary names: Thomas /Faulkner/
+  Removed @I292531103468@: Thomas /Faulkner/
+  Reason: Matched: Thomas /Faulkner/ <-> Thomas /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=1.00, death_place=0.50)
+  Confidence: 0.82
+
+Group 87: Kept @I292529675512@
+  Primary names: Charles C /Faulkner/
+  Removed @I292531323883@: Charles C /Faulkner/, C. C. /Faulkner/
+  Reason: Matched: Charles C /Faulkner/ <-> Charles C /Faulkner/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=0.67)
+  Confidence: 0.74
+
+Group 88: Kept @I292531353693@
+  Primary names: James /Faulkner/
+  Removed @I292531103504@: James /Faulkner/
+  Reason: Matched: James /Faulkner/ <-> James /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 89: Kept @I292531316544@
+  Primary names: Mattie George /Faulkner/, Mattie /Parvin/, Mattie G /Faulkner/
+  Removed @I292589009040@: Mattie George /Faulkner/
+  Reason: Matched: Mattie George /Faulkner/ <-> Mattie George /Faulkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 90: Kept @I292531339020@
+  Primary names: Betsy /Faulkner/
+  Removed @I292531040897@: Betsy /Faulkner/
+  Reason: Matched: Betsy /Faulkner/ <-> Betsy /Faulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 91: Kept @I292529719655@
+  Primary names: Martin /Hedrich/
+  Removed @I292529674900@: Martin /Hedrich/
+  Reason: Matched: Martin /Hedrich/ <-> Martin /Hedrich/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 92: Kept @I292529674904@
+  Primary names: Barbara /Hedrich/
+  Removed @I292529721630@: Barbara /Hedrich/
+  Reason: Matched: Barbara /Hedrich/ <-> Barbara /Hedrich/ (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.92
+
+Group 93: Kept @I292529674906@
+  Primary names: Martin /Hedrich/
+  Removed @I292529721632@: Martin /Hedrich/
+  Reason: Matched: Martin /Hedrich/ <-> Martin /Hedrich/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.97
+
+Group 94: Kept @I292529326246@
+  Primary names: Philippina /Hedrich/
+  Removed @I292531043227@: Phlipina  /Hedrich/
+  Reason: Matched: Phlipina  /Hedrich/ <-> Philippina /Hedrich/ (name=0.89, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.98
+
+Group 95: Kept @I292529674908@
+  Primary names: Wilhelm /Hedrich/
+  Removed @I292529721634@: Wilhelm /Hedrich/
+  Reason: Matched: Wilhelm /Hedrich/ <-> Wilhelm /Hedrich/ (name=1.00, birth_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.96
+
+Group 96: Kept @I292530907346@
+  Primary names: Peyton Nathan /Hale/, Peyton N /Hail/, Payton N /Hale/
+  Removed @I292533351768@: Capt. Peyton N. /Hale/
+  Reason: Matched: Capt. Peyton N. /Hale/ <-> Peyton Nathan /Hale/ (name=0.70, birth_place=0.75, death_place=0.67)
+  Confidence: 0.71
+
+Group 97: Kept @I292531847848@
+  Primary names: William Jack /Hale/
+  Removed @I292531847735@: William Jack /Hale/
+  Removed @I292532444477@: William Jack /Hale/
+  Reason: Matched: William Jack /Hale/ <-> William Jack /Hale/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: William Jack /Hale/ <-> William Jack /Hale/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: William Jack /Hale/ <-> William Jack /Hale/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.98
+
+Group 98: Kept @I292529675549@
+  Primary names: Thomas Lewis /Hail,/, Lewis /Hail Jr/, Thomas Lewis /Hail/ Jr, Lewis /Hale/ II, Lewis /Hale/ Captain (5th Great Uncle), Lewis /Hale/ Captain (5th Great Uncle)
+  Removed @I292529718115@: Thomas Lewis /Hail,/ Captain (5th Great Uncle)
+  Removed @I292532441880@: Lewis /Hale/ -Jr and Capt
+  Removed @I292533351762@: Lewis /Hale  / Jr
+  Removed @I292529718110@: Lewis /Hale/ Jr., Thomas Lewis /Hail,/ Captain (5th Great Uncle), Thomas Lewis /Hail/ Jr.
+  Reason: Matched: Thomas Lewis /Hail,/ <-> Thomas Lewis /Hail,/ Captain (5th Great Uncle) (name=1.00, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00, family=1.00)
+  Reason: Matched: Lewis /Hale/ II <-> Lewis /Hale/ -Jr and Capt (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=0.75, family=1.00)
+  Reason: Matched: Lewis /Hale/ II <-> Lewis /Hale  / Jr (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: Lewis /Hale/ Jr. <-> Lewis /Hale/ -Jr and Capt (name=1.00, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=0.75, family=1.00)
+  Reason: Matched: Lewis /Hale/ Jr. <-> Lewis /Hale  / Jr (name=1.00, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00, family=1.00)
+  Reason: Matched: Lewis /Hale/ -Jr and Capt <-> Lewis /Hale  / Jr (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=0.75, family=1.00)
+  Reason: Matched: Thomas Lewis /Hail,/ Captain (5th Great Uncle) <-> Thomas Lewis /Hail,/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: Thomas Lewis /Hail,/ Captain (5th Great Uncle) <-> Thomas Lewis /Hail,/ Captain (5th Great Uncle) (name=1.00, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 99: Kept @I292531847742@
+  Primary names: James /Hale/
+  Removed @I292532444488@: James /Hale/
+  Removed @I292531847857@: James /Hale/
+  Reason: Matched: James /Hale/ <-> James /Hale/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: James /Hale/ <-> James /Hale/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: James /Hale/ <-> James /Hale/ (name=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 1.00
+
+Group 100: Kept @I292531853268@
+  Primary names: Mildred "Milly" /Hale/ (1stC5X)
+  Removed @I292531853263@: Permelia Mildred (Millie) /Hale/ (1stC5X)
+  Removed @I292533257257@: Mildred "Milly" /Hale/ (1stC5X)
+  Removed @I292533257233@: Permelia Mildred (milly) /Hale/
+  Reason: Matched: Permelia Mildred (Millie) /Hale/ (1stC5X) <-> Permelia Mildred (milly) /Hale/ (name=1.00, birth_place=1.00)
+  Reason: Matched: Mildred "Milly" /Hale/ (1stC5X) <-> Permelia Mildred (milly) /Hale/ (name=0.70, birth_place=0.67, family=1.00)
+  Reason: Matched: Mildred "Milly" /Hale/ (1stC5X) <-> Mildred "Milly" /Hale/ (1stC5X) (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Permelia Mildred (milly) /Hale/ <-> Mildred "Milly" /Hale/ (1stC5X) (name=0.70, birth_place=0.67)
+  Confidence: 1.00
+
+Group 101: Kept @I292529677729@
+  Primary names: Andrew Jackson /Hale/ va- -tx, A J /Hale/ va- -tx
+  Removed @I292529677703@: Jackson /Hale/
+  Removed @I292531853274@: Andrew Jackson /Hale/ (1stC5X)
+  Removed @I292531853262@: Jackson /Hale/ (1stC5X)
+  Removed @I292533257238@: Samuel j /Hale/
+  Removed @I292531853276@: Samuel Jackson /Hale/ (1stC5X)
+  Removed @I292533257246@: Andrew jackson /Hale/
+  Reason: Matched: Andrew Jackson /Hale/ va- -tx <-> Andrew jackson /Hale/ (name=1.00, family=1.00)
+  Reason: Matched: Andrew Jackson /Hale/ va- -tx <-> Andrew Jackson /Hale/ (1stC5X) (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: A J /Hale/ va- -tx <-> Samuel j /Hale/ (name=0.70, birth_place=0.67, death_place=1.00, family=1.00)
+  Reason: Matched: Andrew jackson /Hale/ <-> Jackson /Hale/ (name=0.70, family=1.00)
+  Reason: Matched: Jackson /Hale/ (1stC5X) <-> Jackson /Hale/ (name=1.00, birth_date=0.70)
+  Reason: Matched: Samuel j /Hale/ <-> Samuel Jackson /Hale/ (1stC5X) (name=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 102: Kept @I292531847850@
+  Primary names: Mary Ellen /Hale/ alab-alab-alab
+  Removed @I292531847737@: Mary Ellen /Hale/ alab-alab-alab
+  Removed @I292532444479@: Mary Ellen /Hale/
+  Reason: Matched: Mary Ellen /Hale/ alab-alab-alab <-> Mary Ellen /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary Ellen /Hale/ alab-alab-alab <-> Mary Ellen /Hale/ alab-alab-alab (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: Mary Ellen /Hale/ <-> Mary Ellen /Hale/ alab-alab-alab (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 103: Kept @I292529678104@
+  Primary names: William Reese /Hale/, Reece /Hale/, Wm. R. /Hale/
+  Removed @I292532441871@: William Richard /Hale/
+  Removed @I292530898458@: William C /Hale/
+  Removed @I292530898431@: Richard /Hale/
+  Removed @I292533351753@: William M. /Hale/
+  Reason: Matched: William M. /Hale/ <-> William C /Hale/ (name=1.00, birth_place=1.00)
+  Reason: Matched: William M. /Hale/ <-> William Richard /Hale/ (name=1.00, birth_place=0.50, death_place=0.50, family=1.00)
+  Reason: Matched: Richard /Hale/ <-> William Richard /Hale/ (name=0.70, birth_place=0.33, death_place=0.33, family=1.00)
+  Reason: Matched: William Reese /Hale/ <-> William Richard /Hale/ (name=1.00, birth_place=1.00, death_place=0.25)
+  Confidence: 1.00
+
+Group 104: Kept @I292529802915@
+  Primary names: Francis Edward /Hale/ Col, Francis /Haile/ Col, Francis /Haile/ Col, Francis /Haile/ Col
+  Removed @I292529718096@: Francis  /Hale/
+  Removed @I292529718055@: Francis Bourne /Hale/, Francis /Hale/
+  Removed @I292531853351@: Francis /Hale/ (1stC5X)
+  Removed @I292533351772@: Frances Bourne /Hale/
+  Removed @I292533257237@: Rufus marion /Hale/
+  Removed @I292533257254@: Francis Marion "Frank" /Hale/ Jr.
+  Removed @I292530898432@: Francis /Hale/
+  Removed @I292533351760@: Francis Marion /Hale/ Sr
+  Reason: Matched: Francis /Hale/ (1stC5X) <-> Francis Marion "Frank" /Hale/ Jr. (name=1.00, birth_date=0.70, death_date=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: Francis /Hale/ (1stC5X) <-> Francis Bourne /Hale/ (name=1.00, birth_place=0.67, death_place=1.00)
+  Reason: Matched: Francis Edward /Hale/ Col <-> Francis Bourne /Hale/ (name=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: Francis /Hale/ <-> Francis Bourne /Hale/ (name=1.00, birth_place=0.33, death_place=0.67, family=1.00)
+  Reason: Matched: Francis /Hale/ <-> Francis Marion /Hale/ Sr (name=1.00, birth_date=1.00, birth_place=0.33, death_place=0.33, family=1.00)
+  Reason: Matched: Francis  /Hale/ <-> Francis Bourne /Hale/ (name=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: Rufus marion /Hale/ <-> Francis Marion "Frank" /Hale/ Jr. (name=0.70, family=1.00)
+  Reason: Matched: Francis Marion "Frank" /Hale/ Jr. <-> Francis Bourne /Hale/ (name=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: Francis Bourne /Hale/ <-> Francis Marion /Hale/ Sr (name=1.00, birth_place=0.67, death_place=0.67, family=1.00)
+  Reason: Matched: Francis Bourne /Hale/ <-> Frances Bourne /Hale/ (name=0.86, birth_place=0.67, death_place=0.67, family=1.00)
+  Confidence: 1.00
+
+Group 105: Kept @I292529675553@
+  Primary names: 🧬Elizabeth /Bourne/, Elizabeth /Hale/, 🧬Elizabeth /Bourne/, Elizabeth /Hale/
+  Removed @I292529677691@: Elizabeth /Hale/ va- -va
+  Removed @I292530898459@: Elizabeth Caroline "Callie" /Hale/
+  Removed @I292530919891@: Elizabeth Virginia /Hale/
+  Removed @I292530916193@: Elizabeth Virginia /Hale/
+  Removed @I292531853258@: Elizabeth  /Bourne/
+  Removed @I292531846731@: Elizabeth Virginia /Hale/
+  Removed @I292531848991@: Nancy Elizabeth /Hale/
+  Reason: Matched: Elizabeth /Hale/ <-> Elizabeth /Hale/ va- -va (name=1.00, birth_place=0.50, death_place=0.67, family=1.00)
+  Reason: Matched: Elizabeth Virginia /Hale/ <-> Elizabeth /Hale/ va- -va (name=1.00, birth_place=0.67, death_place=0.33)
+  Reason: Matched: Elizabeth Virginia /Hale/ <-> Elizabeth /Hale/ va- -va (name=1.00, birth_place=0.67, death_place=0.33)
+  Reason: Matched: Nancy Elizabeth /Hale/ <-> Elizabeth /Hale/ va- -va (name=0.70, birth_place=1.00, death_place=0.25)
+  Reason: Matched: Elizabeth Virginia /Hale/ <-> Elizabeth /Hale/ va- -va (name=1.00, birth_place=0.67, death_place=0.33)
+  Reason: Matched: Elizabeth Caroline "Callie" /Hale/ <-> Elizabeth /Hale/ va- -va (name=1.00, birth_place=0.67, death_place=0.67)
+  Reason: Matched: 🧬Elizabeth /Bourne/ <-> Elizabeth  /Bourne/ (name=0.95, death_date=1.00, birth_place=0.50, death_place=1.00)
+  Confidence: 0.86
+
+Group 106: Kept @I292531847844@
+  Primary names: Duncan Peyton /Hale/ Alab-al -alab
+  Removed @I292532444471@: Duncan Peyton /Hale/
+  Removed @I292531847731@: Duncan Peyton /Hale/ Alab-al -alab
+  Reason: Matched: Duncan Peyton /Hale/ Alab-al -alab <-> Duncan Peyton /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Duncan Peyton /Hale/ Alab-al -alab <-> Duncan Peyton /Hale/ Alab-al -alab (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: Duncan Peyton /Hale/ <-> Duncan Peyton /Hale/ Alab-al -alab (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 107: Kept @I292529718032@
+  Primary names: Thomas B /HAIL\HALE/ (5th Grt. Uncle), Thomas B. (Hail) /Hale/ (5th Grt. Uncle)
+  Removed @I292533351767@: Thomas B /Hale/
+  Removed @I292531852883@: Thomas B /Hale/
+  Reason: Matched: Thomas B. (Hail) /Hale/ (5th Grt. Uncle) <-> Thomas B /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: Thomas B. (Hail) /Hale/ (5th Grt. Uncle) <-> Thomas B /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: Thomas B /Hale/ <-> Thomas B /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 108: Kept @I292531847750@
+  Primary names: John Fielden /Hale/ va- -Alab
+  Removed @I292532444490@: J Fielden /Hale/
+  Removed @I292531847861@: J Fielden /Hale/
+  Removed @I292531847745@: J Fielden /Hale/
+  Removed @I292532444493@: John Fielden /Hale/
+  Removed @I292531847866@: John Fielden /Hale/ va- -Alab
+  Reason: Matched: John Fielden /Hale/ va- -Alab <-> John Fielden /Hale/ va- -Alab (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: John Fielden /Hale/ va- -Alab <-> J Fielden /Hale/ (name=0.80, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00, family=0.80)
+  Reason: Matched: John Fielden /Hale/ va- -Alab <-> John Fielden /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: John Fielden /Hale/ va- -Alab <-> J Fielden /Hale/ (name=0.80, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00, family=0.80)
+  Reason: Matched: John Fielden /Hale/ va- -Alab <-> J Fielden /Hale/ (name=0.80, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: John Fielden /Hale/ va- -Alab <-> J Fielden /Hale/ (name=0.80, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00, family=0.80)
+  Reason: Matched: John Fielden /Hale/ va- -Alab <-> John Fielden /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: John Fielden /Hale/ va- -Alab <-> J Fielden /Hale/ (name=0.80, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00, family=0.80)
+  Reason: Matched: John Fielden /Hale/ va- -Alab <-> J Fielden /Hale/ (name=0.80, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: J Fielden /Hale/ <-> John Fielden /Hale/ (name=0.80, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: J Fielden /Hale/ <-> J Fielden /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: J Fielden /Hale/ <-> J Fielden /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: John Fielden /Hale/ <-> J Fielden /Hale/ (name=0.80, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: John Fielden /Hale/ <-> J Fielden /Hale/ (name=0.80, birth_date=1.00, death_date=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: J Fielden /Hale/ <-> J Fielden /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 109: Kept @I292529325899@
+  Primary names: George Washington /Hale/ Sr, George Washington  /Hale/ I, George W /Hale/ Sr, G W /Hale/ Sr
+  Removed @I292530916176@: George Washington /Hale/, George W /Hale/, Geo W /Hale/
+  Removed @I292533257250@: George Washington /Hale/
+  Removed @I292533257236@: George Washington  /Hale/
+  Removed @I292530917031@: Washington /Hale/
+  Reason: Matched: George Washington /Hale/ <-> George Washington  /Hale/ (name=1.00, birth_place=0.75, family=1.00)
+  Reason: Matched: George Washington /Hale/ <-> George Washington /Hale/ (name=1.00, birth_place=0.25, death_place=0.75, family=1.00)
+  Reason: Matched: George Washington /Hale/ <-> George Washington /Hale/ Sr (name=1.00, birth_place=0.75, death_place=0.50, family=1.00)
+  Reason: Matched: George Washington  /Hale/ <-> Washington /Hale/ (name=0.70, birth_place=0.67, family=1.00)
+  Reason: Matched: George Washington  /Hale/ <-> George Washington /Hale/ (name=1.00, birth_place=0.25, family=1.00)
+  Reason: Matched: George Washington  /Hale/ <-> George Washington /Hale/ Sr (name=1.00, birth_place=0.50, family=1.00)
+  Confidence: 0.92
+
+Group 110: Kept @I292531847851@
+  Primary names: Celia Catherine /Hale/ Alab- alab-A
+  Removed @I292532444481@: Celia Catherine /Hale/
+  Removed @I292531847738@: Celia Catherine /Hale/ Alab- alab-A
+  Reason: Matched: Celia Catherine /Hale/ Alab- alab-A <-> Celia Catherine /Hale/ Alab- alab-A (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: Celia Catherine /Hale/ Alab- alab-A <-> Celia Catherine /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Celia Catherine /Hale/ Alab- alab-A <-> Celia Catherine /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 111: Kept @I292530898429@
+  Primary names: John W. /Hale/
+  Removed @I292529677956@: John /Hale/
+  Removed @I292533351750@: John /Hale/
+  Reason: Matched: John /Hale/ <-> John /Hale/ (name=1.00, birth_date=0.70)
+  Reason: Matched: John /Hale/ <-> John W. /Hale/ (name=1.00, birth_date=0.70)
+  Reason: Matched: John /Hale/ <-> John W. /Hale/ (name=1.00, birth_date=0.70, family=1.00)
+  Confidence: 0.90
+
+Group 112: Kept @I292530907351@
+  Primary names: Elvira /Hale/
+  Removed @I292531853278@: Elvira B /Hale/ (1stC5X)
+  Reason: Matched: Elvira B /Hale/ (1stC5X) <-> Elvira /Hale/ (name=1.00, birth_place=0.25, death_place=0.67)
+  Confidence: 0.64
+
+Group 113: Kept @I292529676174@
+  Primary names: Georgia Elizbeth /Hale/
+  Removed @I292529289717@: Georgia /Hale/
+  Reason: Matched: Georgia /Hale/ <-> Georgia Elizbeth /Hale/ (name=1.00, birth_date=0.30, birth_place=1.00, family=0.80)
+  Confidence: 0.77
+
+Group 114: Kept @I292530916175@
+  Primary names: Rufus Marion /Hale/
+  Removed @I292585327291@: Rufus M /Hale/ va- -alab
+  Reason: Matched: Rufus M /Hale/ va- -alab <-> Rufus Marion /Hale/ (name=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Rufus Marion /Hale/ <-> Rufus marion /Hale/ (name=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 115: Kept @I292529273253@
+  Primary names: George Washington /Hale/ Jr
+  Removed @I292531848995@: George Washington /Hale/ Jr
+  Reason: Matched: George Washington /Hale/ Jr <-> George Washington /Hale/ Jr (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 116: Kept @I292529718100@
+  Primary names: Elizabeth /Hale/
+  Removed @I292533351758@: Elizabeth D /Hale/
+  Reason: Matched: Elizabeth D /Hale/ <-> Elizabeth /Hale/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=0.33, death_place=0.75, family=1.00)
+  Confidence: 0.80
+
+Group 117: Kept @I292533351761@
+  Primary names: Mary C. "Polly" /Hale/
+  Removed @I292533351769@: Mary /Hale/
+  Removed @I292529718056@: Mary /Hale/
+  Reason: Matched: Mary C. "Polly" /Hale/ <-> Mary /Hale/ (name=1.00, family=1.00)
+  Reason: Matched: Mary C. "Polly" /Hale/ <-> Mary /Hale/ (name=1.00, family=1.00)
+  Reason: Matched: Mary /Hale/ <-> Mary /Hale/ (name=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 118: Kept @I292530907355@
+  Primary names: Margaret Jane /Hale/
+  Removed @I292530907370@: Helena Jane /Hale/
+  Reason: Matched: Helena Jane /Hale/ <-> Margaret Jane /Hale/ (name=0.70, birth_place=0.33, death_place=0.33, family=0.80)
+  Confidence: 0.54
+
+Group 119: Kept @I292531847842@
+  Primary names: Lewis F. /Hale/ Ala-Ark-Tx
+  Removed @I292531847730@: Lewis F. /Hale/ Ala-Ark-Tx
+  Removed @I292532444469@: Lewis F. /Hale/
+  Reason: Matched: Lewis F. /Hale/ <-> Lewis F. /Hale/ Ala-Ark-Tx (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lewis F. /Hale/ <-> Lewis F. /Hale/ Ala-Ark-Tx (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lewis F. /Hale/ Ala-Ark-Tx <-> Lewis F. /Hale/ Ala-Ark-Tx (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 1.00
+
+Group 120: Kept @I292531847740@
+  Primary names: Emily N. /Hale/ al- -alab
+  Removed @I292531847854@: Emily N. /Hale/ al- -alab
+  Removed @I292532444485@: Emily N. /Hale/
+  Reason: Matched: Emily N. /Hale/ al- -alab <-> Emily N. /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Emily N. /Hale/ al- -alab <-> Emily N. /Hale/ al- -alab (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: Emily N. /Hale/ <-> Emily N. /Hale/ al- -alab (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 121: Kept @I292531853319@
+  Primary names: Lucinda /Hale/ (1stC5X)
+  Removed @I292533257258@: Lucinda /Hale/ (1stC5X)
+  Reason: Matched: Lucinda /Hale/ (1stC5X) <-> Lucinda /Hale/ (1stC5X) (name=1.00, birth_date=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 122: Kept @I292529718092@
+  Primary names: Stephen /Hale/
+  Removed @I292533351771@: Stephen /Hale/
+  Reason: Matched: Stephen /Hale/ <-> Stephen /Hale/ (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 0.95
+
+Group 123: Kept @I292529289705@
+  Primary names: Millard Morris /Hale/
+  Removed @I292529676173@: Millard M /Hale/
+  Reason: Matched: Millard Morris /Hale/ <-> Millard M /Hale/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.84
+
+Group 124: Kept @I292531847841@
+  Primary names: Laura Grace /Hale/ ala-ala -Alab
+  Removed @I292532444466@: Laura Grace /Hale/
+  Removed @I292531847728@: Laura Grace /Hale/ ala-ala -Alab
+  Reason: Matched: Laura Grace /Hale/ <-> Laura Grace /Hale/ ala-ala -Alab (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Laura Grace /Hale/ <-> Laura Grace /Hale/ ala-ala -Alab (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Laura Grace /Hale/ ala-ala -Alab <-> Laura Grace /Hale/ ala-ala -Alab (name=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 1.00
+
+Group 125: Kept @I292531853282@
+  Primary names: Captain Stephen M /Hale/ (1stC5X)
+  Removed @I292530917170@: Captain Stephen M /Hale/ (1stC5X)
+  Reason: Matched: Captain Stephen M /Hale/ (1stC5X) <-> Captain Stephen M /Hale/ (1stC5X) (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 126: Kept @I292532444449@
+  Primary names: Lewis Franklin /Hale/
+  Removed @I292531853292@: Lewis Franklin /Hale/ (1stC5X)
+  Removed @I292533257253@: Lewis Eduard /Hale/
+  Reason: Matched: Lewis Franklin /Hale/ (1stC5X) <-> Lewis Franklin /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lewis Franklin /Hale/ <-> Lewis Eduard /Hale/ (name=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 127: Kept @I292531847748@
+  Primary names: Sallie /Hale/ Alan-
+  Removed @I292531847864@: Sallie /Hale/ Alan-
+  Removed @I292532444492@: Sallie /Hale/
+  Reason: Matched: Sallie /Hale/ Alan- <-> Sallie /Hale/ Alan- (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, family=0.80)
+  Reason: Matched: Sallie /Hale/ Alan- <-> Sallie /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00)
+  Reason: Matched: Sallie /Hale/ Alan- <-> Sallie /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 128: Kept @I292531847845@
+  Primary names: Elvira Elizabeth /Hale/ ala- -geo
+  Removed @I292532444472@: Elvira Elizabeth /Hale/
+  Removed @I292531847732@: Elvira Elizabeth /Hale/ ala- -geo
+  Reason: Matched: Elvira Elizabeth /Hale/ ala- -geo <-> Elvira Elizabeth /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Elvira Elizabeth /Hale/ ala- -geo <-> Elvira Elizabeth /Hale/ ala- -geo (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: Elvira Elizabeth /Hale/ <-> Elvira Elizabeth /Hale/ ala- -geo (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 129: Kept @I292531847853@
+  Primary names: Justin P /Hale/ va- -tx
+  Removed @I292531847739@: Justin P /Hale/ va- -tx
+  Removed @I292532444482@: Justin P /Hale/
+  Reason: Matched: Justin P /Hale/ <-> Justin P /Hale/ va- -tx (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Justin P /Hale/ <-> Justin P /Hale/ va- -tx (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Justin P /Hale/ va- -tx <-> Justin P /Hale/ va- -tx (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.88
+
+Group 130: Kept @I292530917015@
+  Primary names: Celia Elizabeth /Hale/
+  Removed @I292533257232@: Celia Elizabeth /Hale/
+  Reason: Matched: Celia Elizabeth /Hale/ <-> Celia Elizabeth /Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=0.67, family=1.00)
+  Confidence: 0.94
+
+Group 131: Kept @I292529289729@
+  Primary names: Hinkle /Hale/
+  Removed @I292529676175@: Hinkle E /Hale/
+  Reason: Matched: Hinkle /Hale/ <-> Hinkle E /Hale/ (name=1.00, birth_date=0.30, birth_place=1.00, family=1.00)
+  Confidence: 0.82
+
+Group 132: Kept @I292531853267@
+  Primary names: Cynthia G /Hale/ (1stC5X)
+  Removed @I292533257235@: Cynthia g /Hale/
+  Reason: Matched: Cynthia G /Hale/ (1stC5X) <-> Cynthia g /Hale/ (name=1.00, birth_place=0.67)
+  Confidence: 0.83
+
+Group 133: Kept @I292531847744@
+  Primary names: William Jackson  /Hale/
+  Removed @I292532444489@: William Jackson  /Hale/
+  Removed @I292531847859@: William Jackson  /Hale/
+  Reason: Matched: William Jackson  /Hale/ <-> William Jackson  /Hale/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: William Jackson  /Hale/ <-> William Jackson  /Hale/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: William Jackson  /Hale/ <-> William Jackson  /Hale/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.94
+
+Group 134: Kept @I292531853265@
+  Primary names: Franklin /Hale/ (1stC5X)
+  Removed @I292533257256@: Franklin /Hale/ (1stC5X)
+  Reason: Matched: Franklin /Hale/ (1stC5X) <-> Franklin /Hale/ (1stC5X) (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 135: Kept @I292530916192@
+  Primary names: Emmett L /Hale/
+  Removed @I292531846729@: Emmett L /Hale/
+  Removed @I292530919890@: Emmett L /Hale/
+  Reason: Matched: Emmett L /Hale/ <-> Emmett L /Hale/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Emmett L /Hale/ <-> Emmett L /Hale/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Emmett L /Hale/ <-> Emmett L /Hale/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 136: Kept @I292529718099@
+  Primary names: Dudley /Hale/
+  Removed @I292533351754@: Dudley /Hale/
+  Reason: Matched: Dudley /Hale/ <-> Dudley /Hale/ (name=1.00, birth_date=0.70, birth_place=0.75, death_place=1.00, family=1.00)
+  Confidence: 0.89
+
+Group 137: Kept @I292529676177@
+  Primary names: Howard A /Hale/
+  Removed @I292529289749@: Howard /Hale/
+  Reason: Matched: Howard /Hale/ <-> Howard A /Hale/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.88
+
+Group 138: Kept @I292529316793@
+  Primary names: Elsie Marie /Bowles/
+  Removed @I290193578616@: Elsie /Bowles/
+  Reason: Matched: Elsie /Bowles/ <-> Elsie Marie /Bowles/ (name=1.00, family=0.80)
+  Confidence: 0.90
+
+Group 139: Kept @I292531339007@
+  Primary names: James /Falkner/, James /Faulkner/
+  Removed @I292531040876@: James /Falkner/
+  Removed @I292531045438@: James /Falkner/
+  Reason: Matched: James /Falkner/ <-> James /Falkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: James /Falkner/ <-> James /Falkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: James /Falkner/ <-> James /Falkner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 140: Kept @I292531339016@
+  Primary names: Temperance /Falkner/, Temperance Ann /Faulkner/
+  Removed @I292531045429@: Temperance /Falkner/
+  Removed @I292531040888@: Temperance /Falkner/
+  Reason: Matched: Temperance /Falkner/ <-> Temperance /Falkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Temperance /Falkner/ <-> Temperance /Falkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Temperance /Falkner/ <-> Temperance /Falkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 141: Kept @I292530921466@
+  Primary names: Elizabeth /Crum/
+  Removed @I292531324908@: Elizabeth E. /Crum/
+  Reason: Matched: Elizabeth /Crum/ <-> Elizabeth E. /Crum/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 142: Kept @I292531052872@
+  Primary names: Rufus Stevenson /Crum/
+  Removed @I292531361867@: Rufus Stevenson /Crum/
+  Reason: Matched: Rufus Stevenson /Crum/ <-> Rufus Stevenson /Crum/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 143: Kept @I292531043469@
+  Primary names: Peter Jospeh "Pete" /Crum/ Jr.
+  Removed @I292531324898@: Peter Jospeh "Pete" /Crum/ Jr.
+  Reason: Matched: Peter Jospeh "Pete" /Crum/ Jr. <-> Peter Jospeh "Pete" /Crum/ Jr. (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 144: Kept @I292531324557@
+  Primary names: Virgie A /Crum/
+  Removed @I292530921253@: Virgie A /Crum/
+  Reason: Matched: Virgie A /Crum/ <-> Virgie A /Crum/ (name=1.00, birth_date=0.90, birth_place=1.00)
+  Confidence: 0.97
+
+Group 145: Kept @I292529803101@
+  Primary names: Joseph Allen /Crum/
+  Removed @I292531324256@: Joseph Allen /Crum/
+  Reason: Matched: Joseph Allen /Crum/ <-> Joseph Allen /Crum/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=1.00, death_place=1.00)
+  Confidence: 0.92
+
+Group 146: Kept @I292531324560@
+  Primary names: Mamey /Crum/
+  Removed @I292530921256@: Mamey /Crum/
+  Reason: Matched: Mamey /Crum/ <-> Mamey /Crum/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 147: Kept @I292531043488@
+  Primary names: Jane Abigail "Abbie" /Crum/
+  Removed @I292531324920@: Jane Abigail "Abbie" /Crum/
+  Reason: Matched: Jane Abigail "Abbie" /Crum/ <-> Jane Abigail "Abbie" /Crum/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 148: Kept @I292531324227@
+  Primary names: Martha Levona /Faulkner/, Martha Levona /Crum/, Martha L. /Faulkner/
+  Removed @I292529719401@: Martha Levona /Crum/
+  Reason: Matched: Martha Levona /Crum/ <-> Martha Levona /Crum/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=0.75)
+  Confidence: 0.95
+
+Group 149: Kept @I292529719257@
+  Primary names: Martha Melinda Linda /CRUM/, Linda /Smith/
+  Removed @I292531324321@: Martha Melinda Linda /CRUM/
+  Reason: Matched: Martha Melinda Linda /CRUM/ <-> Martha Melinda Linda /CRUM/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 150: Kept @I292530920800@
+  Primary names: Peter Joseph /Crum/
+  Removed @I292531324438@: Peter Joseph /Crum/ Sr🧬
+  Reason: Matched: Peter Joseph /Crum/ Sr🧬 <-> Peter Joseph /Crum/ (name=1.00, birth_date=1.00, death_date=0.90, birth_place=0.67, death_place=0.75)
+  Confidence: 0.86
+
+Group 151: Kept @I292531361863@
+  Primary names: Joseph Jode /Crum/
+  Removed @I292531052867@: Joseph Jode /Crum/
+  Reason: Matched: Joseph Jode /Crum/ <-> Joseph Jode /Crum/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 152: Kept @I292531324894@
+  Primary names: Leonard C. /Crum/
+  Removed @I292531043464@: Leonard C. /Crum/
+  Reason: Matched: Leonard C. /Crum/ <-> Leonard C. /Crum/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 153: Kept @I292530921462@
+  Primary names: Peter Shadrack /Crum/
+  Removed @I292531324905@: Peter Shadrach /Crum/
+  Reason: Matched: Peter Shadrack /Crum/ <-> Peter Shadrach /Crum/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.33)
+  Confidence: 0.61
+
+Group 154: Kept @I292531043487@
+  Primary names: Evaline /Crum/
+  Removed @I292531324918@: Evaline /Crum/
+  Reason: Matched: Evaline /Crum/ <-> Evaline /Crum/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 155: Kept @I292531324561@
+  Primary names: Jewel /Crum/
+  Removed @I292530921257@: Jewel /Crum/
+  Reason: Matched: Jewel /Crum/ <-> Jewel /Crum/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 156: Kept @I292531043462@
+  Primary names: Madison Decatur /Crum/
+  Removed @I292531324893@: Madison Decatur /Crum/
+  Reason: Matched: Madison Decatur /Crum/ <-> Madison Decatur /Crum/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 157: Kept @I292531324897@
+  Primary names: Elizabeth "Betsy" /Crum/
+  Removed @I292531043466@: Elizabeth "Betsy" /Crum/
+  Reason: Matched: Elizabeth "Betsy" /Crum/ <-> Elizabeth "Betsy" /Crum/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 158: Kept @I292531052880@
+  Primary names: Thomas Lee /Crum/
+  Removed @I292531361874@: Thomas Lee /Crum/
+  Reason: Matched: Thomas Lee /Crum/ <-> Thomas Lee /Crum/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 159: Kept @I292531324896@
+  Primary names: Mary /Crum/
+  Removed @I292531043465@: Mary /Crum/
+  Reason: Matched: Mary /Crum/ <-> Mary /Crum/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 160: Kept @I292529803078@
+  Primary names: Jacob Johann Heinrich /CRUM/
+  Removed @I292531101703@: Jacob /Crum/
+  Reason: Matched: Jacob /Crum/ <-> Jacob Johann Heinrich /CRUM/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 161: Kept @I292530921675@
+  Primary names: Leonard /Crum/
+  Removed @I292531324916@: Leonard G. /Crum/
+  Reason: Matched: Leonard /Crum/ <-> Leonard G. /Crum/ (name=1.00, birth_date=0.30, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.80
+
+Group 162: Kept @I292531361869@
+  Primary names: Joseph H. /Crum/
+  Removed @I292531052873@: Joseph H. /Crum/
+  Reason: Matched: Joseph H. /Crum/ <-> Joseph H. /Crum/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 163: Kept @I292531361871@
+  Primary names: Warren Albert /Crum/
+  Removed @I292531052878@: Warren Albert /Crum/
+  Reason: Matched: Warren Albert /Crum/ <-> Warren Albert /Crum/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 164: Kept @I292531361873@
+  Primary names: James B /Crum/
+  Removed @I292531052879@: James B /Crum/
+  Reason: Matched: James B /Crum/ <-> James B /Crum/ (name=1.00, birth_date=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 165: Kept @I292531043470@
+  Primary names: Eliza A. /Crum/
+  Removed @I292531324900@: Eliza A. /Crum/
+  Reason: Matched: Eliza A. /Crum/ <-> Eliza A. /Crum/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 166: Kept @I292531340015@
+  Primary names: Pamela /Hamilton/, Lady Pamela /Hamilton (END)/
+  Removed @I292531046513@: Lady Pamela /Hamilton/
+  Reason: Matched: Pamela /Hamilton/ <-> Lady Pamela /Hamilton/ (name=0.70, birth_date=0.70, birth_place=0.67, death_place=1.00)
+  Confidence: 0.77
+
+Group 167: Kept @I292529307392@
+  Primary names: Eliza M. /Joyce/
+  Removed @I292529307381@: Eliza M. /Joyce/
+  Reason: Matched: Eliza M. /Joyce/ <-> Eliza M. /Joyce/ (name=1.00, birth_date=0.70, birth_place=1.00, family=1.00)
+  Confidence: 0.93
+
+Group 168: Kept @I292529307391@
+  Primary names: Joseph C /Joyce/
+  Removed @I292529307379@: Joseph C. /Joyce/
+  Reason: Matched: Joseph C /Joyce/ <-> Joseph C. /Joyce/ (name=1.00, birth_date=0.70, family=1.00)
+  Confidence: 0.90
+
+Group 169: Kept @I292529323134@
+  Primary names: Harford /MCKINNEY/
+  Removed @I292530865571@: Heaford /Mckinney/
+  Reason: Matched: Harford /MCKINNEY/ <-> Heaford /Mckinney/ (name=0.86, birth_date=0.30, death_date=1.00, birth_place=0.67, death_place=0.75, family=1.00)
+  Confidence: 0.76
+
+Group 170: Kept @I292529323131@
+  Primary names: Alice L /MCKINNEY/
+  Removed @I292530865565@: Alis L /Mckinney/
+  Reason: Matched: Alice L /MCKINNEY/ <-> Alis L /Mckinney/ (name=0.70, birth_date=0.30, birth_place=0.50, family=1.00)
+  Confidence: 0.62
+
+Group 171: Kept @I292530866267@
+  Primary names: Hugh Johnson /McKinney/
+  Removed @I292530866278@: Hugh Johnson /McKinney/
+  Reason: Matched: Hugh Johnson /McKinney/ <-> Hugh Johnson /McKinney/ (name=1.00, birth_place=0.33, death_place=0.33, family=1.00)
+  Confidence: 0.67
+
+Group 172: Kept @I292530865622@
+  Primary names: Maudie /McKinney/
+  Removed @I292530865603@: Maudie /McKinney/
+  Reason: Matched: Maudie /McKinney/ <-> Maudie /McKinney/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.88
+
+Group 173: Kept @I292530865600@
+  Primary names: Arlie /McKinney/
+  Removed @I292530865620@: Arlie /McKinney/
+  Reason: Matched: Arlie /McKinney/ <-> Arlie /McKinney/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.97
+
+Group 174: Kept @I292530892729@
+  Primary names: Polly /McKinney/
+  Removed @I292530892723@: Polly /McKinney/
+  Reason: Matched: Polly /McKinney/ <-> Polly /McKinney/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 0.90
+
+Group 175: Kept @I292530866269@
+  Primary names: George Rhinehart /McKinney/ Sr
+  Removed @I292530866296@: George R /McKinney/
+  Reason: Matched: George Rhinehart /McKinney/ Sr <-> George R /McKinney/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 0.95
+
+Group 176: Kept @I292530866284@
+  Primary names: Martha Ann /McKinney/
+  Removed @I292530866281@: Mary Ann /McKinney/
+  Reason: Matched: Martha Ann /McKinney/ <-> Mary Ann /McKinney/ (name=0.70, birth_place=0.33, death_place=0.33, family=1.00)
+  Confidence: 0.59
+
+Group 177: Kept @I292529323119@
+  Primary names: Luke Graham /MCKINNEY/
+  Removed @I292530866301@: Luke /McKinney/
+  Reason: Matched: Luke /McKinney/ <-> Luke Graham /MCKINNEY/ (name=1.00, birth_date=0.70, birth_place=1.00, family=1.00)
+  Confidence: 0.93
+
+Group 178: Kept @I292530865586@
+  Primary names: Lora /McKinney/
+  Removed @I292530865610@: Lora /Mckinney/
+  Reason: Matched: Lora /McKinney/ <-> Lora /Mckinney/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 0.94
+
+Group 179: Kept @I292529719983@
+  Primary names: Fannie Urilda /Smith/
+  Removed @I292531336218@: Fannie Urilda /Smith/
+  Reason: Matched: Fannie Urilda /Smith/ <-> Fannie Urilda /Smith/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 180: Kept @I292529719982@
+  Primary names: Lenora /Smith/
+  Removed @I292531336214@: Lenora /Smith/
+  Reason: Matched: Lenora /Smith/ <-> Lenora /Smith/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 181: Kept @I292529719985@
+  Primary names: Harm Marion /Smith/
+  Removed @I292531336223@: Harm Marion /Smith/
+  Reason: Matched: Harm Marion /Smith/ <-> Harm Marion /Smith/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=1.00, death_place=1.00)
+  Confidence: 0.92
+
+Group 182: Kept @I292529719246@
+  Primary names: Joseph M Joe /SMITH/
+  Removed @I292531324315@: Joseph M Joe /SMITH/
+  Reason: Matched: Joseph M Joe /SMITH/ <-> Joseph M Joe /SMITH/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 183: Kept @I292529719986@
+  Primary names: Joseph L /Smith/
+  Removed @I292531336228@: Joseph L /Smith/
+  Reason: Matched: Joseph L /Smith/ <-> Joseph L /Smith/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 184: Kept @I292529719984@
+  Primary names: Joseph Henry /Smith/
+  Removed @I292531336221@: Joseph Henry /Smith/
+  Reason: Matched: Joseph Henry /Smith/ <-> Joseph Henry /Smith/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 185: Kept @I292529719981@
+  Primary names: Martha Jane /Smith/
+  Removed @I292531336210@: Martha Jane /Smith/
+  Reason: Matched: Martha Jane /Smith/ <-> Martha Jane /Smith/ (name=1.00, birth_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 186: Kept @I292529675526@
+  Primary names: Julia Ann /Smith/
+  Removed @I292531323895@: Julia Ann /Smith/, Julie Ann /Smith/, Julia /Faulkner/
+  Reason: Matched: Julia Ann /Smith/ <-> Julia Ann /Smith/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 187: Kept @I292530866114@
+  Primary names: Rhoda /Basham/
+  Removed @I292530885937@: Rhoda /Basham/
+  Reason: Matched: Rhoda /Basham/ <-> Rhoda /Basham/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 188: Kept @I292530865932@
+  Primary names: William Blaine /Basham/
+  Removed @I292530885939@: William Blane /Basham/
+  Removed @I292530886151@: William Lloyd /Basham/
+  Reason: Matched: William Blane /Basham/ <-> William Blaine /Basham/ (name=1.00, birth_place=0.33, death_place=1.00, family=0.80)
+  Reason: Matched: William Lloyd /Basham/ <-> William Blaine /Basham/ (name=1.00, birth_place=1.00, death_place=0.33)
+  Confidence: 0.78
+
+Group 189: Kept @I292529325872@
+  Primary names: Martha A. /Clay/, Martha A. /Clay/
+  Removed @I292531848993@: Martha A /Clay/
+  Reason: Matched: Martha A. /Clay/ <-> Martha A /Clay/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 190: Kept @I292530297819@
+  Primary names: William (Browne) /Bourne/ II, William /Bourne/, WILLIAM /BOURNE/ II
+  Removed @I292530891022@: William /Bourne/
+  Reason: Matched: William /Bourne/ <-> William (Browne) /Bourne/ II (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.50, family=1.00)
+  Confidence: 0.71
+
+Group 191: Kept @I292530891020@
+  Primary names: Stephen /Bourne/
+  Removed @I292530891024@: Stephen /Bourne/
+  Reason: Matched: Stephen /Bourne/ <-> Stephen /Bourne/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, family=1.00)
+  Confidence: 0.94
+
+Group 192: Kept @I292533377081@
+  Primary names: Nathaniel /Burwell/
+  Removed @I292533377082@: Nathaniel /Burwell/
+  Reason: Matched: Nathaniel /Burwell/ <-> Nathaniel /Burwell/ (name=1.00, birth_place=0.33, death_place=0.50, family=1.00)
+  Confidence: 0.71
+
+Group 193: Kept @I292529675914@
+  Primary names: Rosamond Rosa /Jones/
+  Removed @I292530893034@: Rosamond "Rosa" /Jones/
+  Reason: Matched: Rosamond Rosa /Jones/ <-> Rosamond "Rosa" /Jones/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=0.75)
+  Confidence: 0.95
+
+Group 194: Kept @I292530893051@
+  Primary names: Martha Powell /Jones/
+  Removed @I292529722502@: Martha Powell /Jones/
+  Reason: Matched: Martha Powell /Jones/ <-> Martha Powell /Jones/ (name=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 195: Kept @I292530893021@
+  Primary names: John /MONROE/
+  Removed @I292533352203@: John H /Monroe/
+  Reason: Matched: John H /Monroe/ <-> John /MONROE/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=1.00)
+  Confidence: 0.81
+
+Group 196: Kept @I292530893025@
+  Primary names: Anne /MONROE/
+  Removed @I292533352225@: Anne /Monroe/
+  Reason: Matched: Anne /Monroe/ <-> Anne /MONROE/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Confidence: 0.85
+
+Group 197: Kept @I292530892216@
+  Primary names: Margaret /Monroe/
+  Removed @I292530893037@: Margaret /Monroe/
+  Reason: Matched: Margaret /Monroe/ <-> Margaret /Monroe/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.25, death_place=0.50)
+  Confidence: 0.63
+
+Group 198: Kept @I292530892498@
+  Primary names: Spence /Monroe/
+  Removed @I292533352190@: Andrew spence /Monroe/
+  Reason: Matched: Spence /Monroe/ <-> Andrew spence /Monroe/ (name=0.70, birth_date=0.70, death_date=0.70)
+  Confidence: 0.70
+
+Group 199: Kept @I292529722497@
+  Primary names: Joseph Jones /Monroe/
+  Removed @I292530893041@: Col. Joseph Jones /Monroe/
+  Reason: Matched: Joseph Jones /Monroe/ <-> Col. Joseph Jones /Monroe/ (name=0.70, birth_date=0.70, death_date=1.00, birth_place=0.75, death_place=1.00)
+  Confidence: 0.83
+
+Group 200: Kept @I292529683727@
+  Primary names: Eliza /Monroe/
+  Removed @I292529682122@: Eliza /Monroe/
+  Reason: Matched: Eliza /Monroe/ <-> Eliza /Monroe/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.97
+
+Group 201: Kept @I292533352214@
+  Primary names: Eleanor /Monroe/
+  Removed @I292530893015@: Eleanor /MONROE/
+  Reason: Matched: Eleanor /Monroe/ <-> Eleanor /MONROE/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 202: Kept @I292529681753@
+  Primary names: James /Monroe/, President James /Monroe/
+  Removed @I292530893038@: James /Monroe/ , 5th President of The USA
+  Removed @I292530893057@: James /Monroe/
+  Reason: Matched: James /Monroe/ <-> James /Monroe/ , 5th President of The USA (name=1.00, birth_place=1.00, death_place=0.67)
+  Reason: Matched: James /Monroe/ <-> James /Monroe/ , 5th President of The USA (name=1.00, birth_place=0.25, death_place=0.67, family=1.00)
+  Confidence: 0.89
+
+Group 203: Kept @I292530893023@
+  Primary names: Susannah /MONROE/
+  Removed @I292533352205@: Susannah /Monroe/
+  Reason: Matched: Susannah /Monroe/ <-> Susannah /MONROE/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=1.00, death_place=1.00)
+  Confidence: 0.92
+
+Group 204: Kept @I292529722505@
+  Primary names: Andrew Augustine /Monroe/
+  Removed @I292530893036@: Andrew Augustine /Monroe/
+  Reason: Matched: Andrew Augustine /Monroe/ <-> Andrew Augustine /Monroe/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 205: Kept @I292533352501@
+  Primary names: Rachel /Monroe/
+  Removed @I292530893019@: Rachel /MONROE/
+  Removed @I292533352227@: Rachel /Monroe/
+  Reason: Matched: Rachel /Monroe/ <-> Rachel /Monroe/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.67)
+  Reason: Matched: Rachel /Monroe/ <-> Rachel /MONROE/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Rachel /Monroe/ <-> Rachel /MONROE/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.67)
+  Confidence: 0.88
+
+Group 206: Kept @I292533352218@
+  Primary names: George A /Monroe/
+  Removed @I292533352172@: George /Monroe/
+  Reason: Matched: George A /Monroe/ <-> George /Monroe/ (name=1.00, birth_date=0.70, death_date=0.70)
+  Confidence: 0.80
+
+Group 207: Kept @I292529682127@
+  Primary names: James Spence /Monroe/
+  Removed @I292529683729@: James Spence /Monroe/
+  Reason: Matched: James Spence /Monroe/ <-> James Spence /Monroe/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.97
+
+Group 208: Kept @I292529682124@
+  Primary names: Maria /Monroe/
+  Removed @I292529683728@: Maria /Monroe/
+  Reason: Matched: Maria /Monroe/ <-> Maria /Monroe/ (name=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.95
+
+Group 209: Kept @I292533352215@
+  Primary names: Jane 'Aunt of Pres James' /Monroe/
+  Removed @I292530893016@: Jane /MONROE/
+  Reason: Matched: Jane 'Aunt of Pres James' /Monroe/ <-> Jane /MONROE/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=0.33, death_place=0.33)
+  Confidence: 0.67
+
+Group 210: Kept @I292529722501@
+  Primary names: Elizabeth /Monroe/
+  Removed @I292530893044@: Elizabeth /Monroe/
+  Removed @I292530893049@: Elizabeth /Monroe/
+  Reason: Matched: Elizabeth /Monroe/ <-> Elizabeth /Monroe/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=0.33)
+  Reason: Matched: Elizabeth /Monroe/ <-> Elizabeth /Monroe/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=1.00, family=1.00)
+  Reason: Matched: Elizabeth /Monroe/ <-> Elizabeth /Monroe/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.33, death_place=0.33)
+  Confidence: 0.79
+
+Group 211: Kept @I292531044268@
+  Primary names: William /Dickenson/
+  Removed @I292531339809@: William /Dickenson/
+  Reason: Matched: William /Dickenson/ <-> William /Dickenson/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=1.00, death_place=1.00)
+  Confidence: 0.92
+
+Group 212: Kept @I292529677670@
+  Primary names: Stephen /Bourn/ va- -va
+  Removed @I292530892710@: Stephen /Bourn/
+  Reason: Matched: Stephen /Bourn/ va- -va <-> Stephen /Bourn/ (name=1.00, birth_place=0.75, death_place=0.50, family=1.00)
+  Confidence: 0.81
+
+Group 213: Kept @I292530922836@
+  Primary names: Elizabeth Alice? /Freeman/
+  Removed @I292530923033@: Elizabeth Alice? /Freeman/
+  Reason: Matched: Elizabeth Alice? /Freeman/ <-> Elizabeth Alice? /Freeman/ (name=1.00, birth_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 214: Kept @I292529682121@
+  Primary names: Elizabeth /Kortright/
+  Removed @I292529683726@: Elizabeth /Kortright/
+  Reason: Matched: Elizabeth /Kortright/ <-> Elizabeth /Kortright/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 215: Kept @I292529718039@
+  Primary names: William Richard /HAIL\Hale/
+  Removed @I292531853256@: William Richard /HAIL\Hale/
+  Reason: Matched: William Richard /HAIL\Hale/ <-> William Richard /HAIL\Hale/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 216: Kept @I292531567216@
+  Primary names: Roger Dale /Parvin/ Sr
+  Removed @I292529719022@: Roger Dale /Parvin/ Sr
+  Removed @I292530920570@: Roger Dale /Parvin/ Sr
+  Reason: Matched: Roger Dale /Parvin/ Sr <-> Roger Dale /Parvin/ Sr (name=1.00, birth_date=1.00, death_date=1.00)
+  Reason: Matched: Roger Dale /Parvin/ Sr <-> Roger Dale /Parvin/ Sr (name=1.00, birth_date=1.00, death_date=1.00)
+  Reason: Matched: Roger Dale /Parvin/ Sr <-> Roger Dale /Parvin/ Sr (name=1.00, birth_date=1.00, death_date=1.00)
+  Confidence: 1.00
+
+Group 217: Kept @I292531567218@
+  Primary names: Ancle Ray /Parvin/
+  Removed @I292529719023@: Ancle Ray /Parvin/
+  Removed @I292530920571@: Ancle Ray /Parvin/
+  Reason: Matched: Ancle Ray /Parvin/ <-> Ancle Ray /Parvin/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Ancle Ray /Parvin/ <-> Ancle Ray /Parvin/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Ancle Ray /Parvin/ <-> Ancle Ray /Parvin/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 218: Kept @I292529719021@
+  Primary names: Phill P /Parvin/
+  Removed @I292531567215@: Phill P /Parvin/
+  Reason: Matched: Phill P /Parvin/ <-> Phill P /Parvin/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 219: Kept @I292529719402@
+  Primary names: Nancy Ann /Simpson/, Ann /Falkner/
+  Removed @I292531324714@: Nancy Ann /Simpson/
+  Reason: Matched: Nancy Ann /Simpson/ <-> Nancy Ann /Simpson/ (name=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 220: Kept @I292533258474@
+  Primary names: Christiana /Tyler/
+  Removed @I292530893010@: Christiana /Tyler/
+  Reason: Matched: Christiana /Tyler/ <-> Christiana /Tyler/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 221: Kept @I292531325423@
+  Primary names: Shadrack George /Briley/
+  Removed @I292531101718@: Shadrack George /Briley/
+  Reason: Matched: Shadrack George /Briley/ <-> Shadrack George /Briley/ (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 222: Kept @I292529803107@
+  Primary names: Catherine Elizabeth /Briley/
+  Removed @I292531324260@: Catherine Elizabeth /Briley/
+  Reason: Matched: Catherine Elizabeth /Briley/ <-> Catherine Elizabeth /Briley/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 223: Kept @I292533257000@
+  Primary names: Mary /Fullerton/
+  Removed @I292533256997@: Mary /Fullerton/
+  Reason: Matched: Mary /Fullerton/ <-> Mary /Fullerton/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 0.90
+
+Group 224: Kept @I292530902653@
+  Primary names: Abigail (Vallence) /Kirby/
+  Removed @I292530902657@: Increase (Vallence) /Kirby/
+  Reason: Matched: Abigail (Vallence) /Kirby/ <-> Increase (Vallence) /Kirby/ (name=0.70, birth_date=1.00, death_date=1.00, birth_place=0.67, death_place=0.67, family=1.00)
+  Confidence: 0.84
+
+Group 225: Kept @I292530902651@
+  Primary names: Richard (Vallence) /Kirby/ Jr
+  Removed @I292530902659@: Thomas (Vallence) /Kirby/
+  Reason: Matched: Thomas (Vallence) /Kirby/ <-> Richard (Vallence) /Kirby/ Jr (name=0.70, birth_place=0.33, family=1.00)
+  Confidence: 0.68
+
+Group 226: Kept @I292530885922@
+  Primary names: Nancy /Wiley/
+  Removed @I292530885931@: Nancy /Wiley/
+  Reason: Matched: Nancy /Wiley/ <-> Nancy /Wiley/ (name=1.00, birth_place=1.00, family=0.80)
+  Confidence: 0.93
+
+Group 227: Kept @I292530885928@
+  Primary names: Lucinda /Wiley/
+  Removed @I292530885919@: Lucinda /Wiley/
+  Reason: Matched: Lucinda /Wiley/ <-> Lucinda /Wiley/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.88
+
+Group 228: Kept @I292530885924@
+  Primary names: Rebecca /Wiley/
+  Removed @I292530885936@: Rebecca /Wiley/
+  Reason: Matched: Rebecca /Wiley/ <-> Rebecca /Wiley/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.92
+
+Group 229: Kept @I292530885929@
+  Primary names: Justus /Wiley/
+  Removed @I292530885920@: Justus /Wiley/
+  Reason: Matched: Justus /Wiley/ <-> Justus /Wiley/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.90
+
+Group 230: Kept @I292530870820@
+  Primary names: Beatrice  /Colvin/
+  Removed @I292530888899@: Beatrice  /Colvin/
+  Reason: Matched: Beatrice  /Colvin/ <-> Beatrice  /Colvin/ (name=1.00)
+  Confidence: 1.00
+
+Group 231: Kept @I292530885916@
+  Primary names: Sarah Rebecca /Maddy/
+  Removed @I292530885926@: Sarah Rebecca /Maddy/
+  Reason: Matched: Sarah Rebecca /Maddy/ <-> Sarah Rebecca /Maddy/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 232: Kept @I292592278527@
+  Primary names: Barnabus American /Arthur/
+  Removed @I292592278529@: Barnabas /Arthur/
+  Reason: Matched: Barnabus American /Arthur/ <-> Barnabas /Arthur/ (name=0.88, birth_place=0.50, death_place=0.33, family=1.00)
+  Confidence: 0.68
+
+Group 233: Kept @I292530902463@
+  Primary names: Robert Abraham (Pottes) /Vallence/
+  Removed @I292530902464@: Harry Flynn (Pottes) /Vallence/
+  Reason: Matched: Robert Abraham (Pottes) /Vallence/ <-> Harry Flynn (Pottes) /Vallence/ (name=0.70, family=1.00)
+  Confidence: 0.85
+
+Group 234: Kept @I292533352207@
+  Primary names: Mary Henrietta /Green/
+  Removed @I292530893022@: Mary Henrietta /GREEN/
+  Reason: Matched: Mary Henrietta /Green/ <-> Mary Henrietta /GREEN/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.50, death_place=0.75)
+  Confidence: 0.73
+
+Group 235: Kept @I292530902164@
+  Primary names: Anna "Ann" /Stone (Vallence)/
+  Removed @I292530902148@: Anna "Ann" /Stone (Vallence)/
+  Reason: Matched: Anna "Ann" /Stone (Vallence)/ <-> Anna "Ann" /Stone (Vallence)/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 236: Kept @I292530916190@
+  Primary names: Amanda Rosamond /Cornett/, Rosamond Amanda /Cornett/
+  Removed @I292530919889@: Amanda Rosamond /Cornett/
+  Reason: Matched: Amanda Rosamond /Cornett/ <-> Amanda Rosamond /Cornett/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 237: Kept @I292530916342@
+  Primary names: Minnie Florence /Buchanan/
+  Removed @I292530916344@: M /Buchanan/
+  Removed @I292530916337@: Martha J. /Buchanan/
+  Reason: Matched: Martha J. /Buchanan/ <-> M /Buchanan/ (name=0.80, family=1.00)
+  Reason: Matched: Minnie Florence /Buchanan/ <-> M /Buchanan/ (name=0.80, family=1.00)
+  Confidence: 0.90
+
+Group 238: Kept @I292530918997@
+  Primary names: John Dickson /Buchanan/
+  Removed @I292530916338@: Dickson /Buchanan/
+  Reason: Matched: Dickson /Buchanan/ <-> John Dickson /Buchanan/ (name=0.70, birth_place=1.00)
+  Confidence: 0.85
+
+Group 239: Kept @I292530919194@
+  Primary names: Arleanna /Gann/
+  Removed @I292530916643@: Arleanna /Gann/
+  Reason: Matched: Arleanna /Gann/ <-> Arleanna /Gann/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.88
+
+Group 240: Kept @I292530919197@
+  Primary names: Martin Luther /Gann/
+  Removed @I292530916640@: Luther /Gann/
+  Reason: Matched: Luther /Gann/ <-> Martin Luther /Gann/ (name=0.70, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.80
+
+Group 241: Kept @I292530919188@
+  Primary names: Sara Arbanner /Gann/
+  Removed @I292530919195@: Sarah "Rebecca" /Gann/
+  Removed @I292530916637@: Rebecca /Gann/
+  Reason: Matched: Sara Arbanner /Gann/ <-> Sarah "Rebecca" /Gann/ (name=0.89, birth_date=0.30, family=1.00)
+  Reason: Matched: Sarah "Rebecca" /Gann/ <-> Rebecca /Gann/ (name=0.70, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.80
+
+Group 242: Kept @I292530919190@
+  Primary names: David Franklin /Gann/
+  Removed @I292530916638@: Franklin /Gann/
+  Reason: Matched: Franklin /Gann/ <-> David Franklin /Gann/ (name=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.83
+
+Group 243: Kept @I292531362538@
+  Primary names: Otis William /Kellum/
+  Removed @I292530921579@: Otis William /Kellum/
+  Reason: Matched: Otis William /Kellum/ <-> Otis William /Kellum/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 244: Kept @I292531362533@
+  Primary names: Paul /Kellum/
+  Removed @I292530921576@: Paul /Kellum/
+  Reason: Matched: Paul /Kellum/ <-> Paul /Kellum/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 245: Kept @I292531362537@
+  Primary names: Mae Kellum /Reed/
+  Removed @I292530921578@: Mae Kellum /Reed/
+  Reason: Matched: Mae Kellum /Reed/ <-> Mae Kellum /Reed/ (name=1.00, birth_date=1.00, death_date=0.90, birth_place=1.00)
+  Confidence: 0.97
+
+Group 246: Kept @I292530922241@
+  Primary names: Elizabeth /Seebolt/
+  Removed @I292530922494@: Elizabeth /Seebolt/
+  Reason: Matched: Elizabeth /Seebolt/ <-> Elizabeth /Seebolt/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=0.33)
+  Confidence: 0.75
+
+Group 247: Kept @I292530922244@
+  Primary names: George /Seebolt/
+  Removed @I292530922495@: George /Seebolt/
+  Reason: Matched: George /Seebolt/ <-> George /Seebolt/ (name=1.00, family=0.80)
+  Confidence: 0.90
+
+Group 248: Kept @I292530922851@
+  Primary names: *JOHN /THOMPSON^/
+  Removed @I292530923017@: *JOHN /THOMPSON^/
+  Reason: Matched: *JOHN /THOMPSON^/ <-> *JOHN /THOMPSON^/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 249: Kept @I292530923124@
+  Primary names: Margaret Mary /Edwards/
+  Removed @I292530923891@: Margaret Mary /Edwards/
+  Reason: Matched: Margaret Mary /Edwards/ <-> Margaret Mary /Edwards/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 250: Kept @I292589010801@
+  Primary names: Robert /Gates/
+  Removed @I292589010811@: Robert /Gates/
+  Reason: Matched: Robert /Gates/ <-> Robert /Gates/ (name=1.00, family=0.80)
+  Confidence: 0.90
+
+Group 251: Kept @I292530923217@
+  Primary names: Susannah Mary /Gates/
+  Removed @I292589010810@: Mary /Gates/
+  Reason: Matched: Mary /Gates/ <-> Susannah Mary /Gates/ (name=0.70, family=0.80)
+  Confidence: 0.75
+
+Group 252: Kept @I292746361231@
+  Primary names: Louisa /Gates/
+  Removed @I292746361227@: Louisa /Gates/
+  Reason: Matched: Louisa /Gates/ <-> Louisa /Gates/ (name=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 253: Kept @I292530923444@
+  Primary names: Elizabeth Ann /Wyatt/
+  Removed @I292530923365@: Elizabeth Ann /Wyatt/
+  Reason: Matched: Elizabeth Ann /Wyatt/ <-> Elizabeth Ann /Wyatt/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 254: Kept @I292531040871@
+  Primary names: Susannah /Saulter/
+  Removed @I292531041143@: Susannah /Saulter/
+  Removed @I292531339084@: Susannah /Saulter/
+  Reason: Matched: Susannah /Saulter/ <-> Susannah /Saulter/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Susannah /Saulter/ <-> Susannah /Saulter/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.50, death_place=0.33)
+  Reason: Matched: Susannah /Saulter/ <-> Susannah /Saulter/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.50, death_place=0.33)
+  Confidence: 0.88
+
+Group 255: Kept @I292531339014@
+  Primary names: Elizabeth /Faulconer/, Elizabeth /Faulkner/
+  Removed @I292531040886@: Elizabeth /Faulconer/
+  Removed @I292531045436@: Elizabeth /Faulconer/
+  Reason: Matched: Elizabeth /Faulconer/ <-> Elizabeth /Faulconer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Elizabeth /Faulconer/ <-> Elizabeth /Faulconer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Elizabeth /Faulconer/ <-> Elizabeth /Faulconer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 256: Kept @I292531835105@
+  Primary names: Joseph /Forkner/
+  Removed @I292531835246@: Joseph /Forkner/
+  Reason: Matched: Joseph /Forkner/ <-> Joseph /Forkner/ (name=1.00, birth_date=0.70, family=0.80)
+  Confidence: 0.83
+
+Group 257: Kept @I292531041319@
+  Primary names: Temperance /Forkner/
+  Removed @I292531045414@: Temperance /Forkner/
+  Reason: Matched: Temperance /Forkner/ <-> Temperance /Forkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 258: Kept @I292531040909@
+  Primary names: Charles /Forkner/
+  Removed @I292531339029@: Charles /Forkner/
+  Reason: Matched: Charles /Forkner/ <-> Charles /Forkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 259: Kept @I292531339820@
+  Primary names: Moses /Forkner/
+  Removed @I292531044291@: Moses /Forkner/
+  Reason: Matched: Moses /Forkner/ <-> Moses /Forkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 260: Kept @I292531044292@
+  Primary names: Emanul /Forkner/
+  Removed @I292531339821@: Emanul /Forkner/
+  Reason: Matched: Emanul /Forkner/ <-> Emanul /Forkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 261: Kept @I292531044289@
+  Primary names: Aaron /Forkner/
+  Removed @I292531339594@: Aaron /Forkner/
+  Reason: Matched: Aaron /Forkner/ <-> Aaron /Forkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Confidence: 0.85
+
+Group 262: Kept @I292531339023@
+  Primary names: Harriet /Faulkner Tate/, Harriet /Tate/
+  Removed @I292531040904@: Harriet /Faulkner Tate/
+  Reason: Matched: Harriet /Faulkner Tate/ <-> Harriet /Faulkner Tate/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 263: Kept @I292531041130@
+  Primary names: Moses /Fortner (Faulkner)/
+  Removed @I292531339082@: Moses /Fortner (Faulkner)/
+  Reason: Matched: Moses /Fortner (Faulkner)/ <-> Moses /Fortner (Faulkner)/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 264: Kept @I292531041888@
+  Primary names: Archibald "Archer" /Dickerson/
+  Removed @I292531339806@: Archibald /Dickerson/
+  Reason: Matched: Archibald /Dickerson/ <-> Archibald "Archer" /Dickerson/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=0.50, death_place=1.00)
+  Confidence: 0.84
+
+Group 265: Kept @I292531339291@
+  Primary names: Elizabeth Violet /Dickerson/, Elizabeth /Dickerson/, Elizabeth /Dickerson/, Elizabeth /Dickerson/, Elizabeth Violet /Faulkner/
+  Removed @I292531045402@: Elizabeth Violet /Dickerson/
+  Reason: Matched: Elizabeth Violet /Dickerson/ <-> Elizabeth Violet /Dickerson/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 266: Kept @I292531041695@
+  Primary names: John Henry /Dickerson/ I
+  Removed @I292531339670@: John Henry /Dickerson/ I
+  Reason: Matched: John Henry /Dickerson/ I <-> John Henry /Dickerson/ I (name=1.00, birth_date=0.70, death_date=0.90, birth_place=1.00, death_place=1.00)
+  Confidence: 0.92
+
+Group 267: Kept @I292531041894@
+  Primary names: Martin Henry /Dickerson/
+  Removed @I292531339800@: Martin /Dickerson/
+  Reason: Matched: Martin Henry /Dickerson/ <-> Martin /Dickerson/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 268: Kept @I292531041892@
+  Primary names: John /Dickerson/ II
+  Removed @I292531339798@: John /Dickerson/
+  Reason: Matched: John /Dickerson/ <-> John /Dickerson/ II (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 269: Kept @I292531041890@
+  Primary names: Lewis /Dickerson/
+  Removed @I292531339811@: Lewis /Dickerson/
+  Reason: Matched: Lewis /Dickerson/ <-> Lewis /Dickerson/ (name=1.00, birth_date=0.70)
+  Confidence: 0.85
+
+Group 270: Kept @I292531041901@
+  Primary names: Keziah Smith /Dickerson/
+  Removed @I292531339808@: Keziah /Dickerson/
+  Reason: Matched: Keziah Smith /Dickerson/ <-> Keziah /Dickerson/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 271: Kept @I292531835224@
+  Primary names: Elizabeth /Dickerson/
+  Removed @I292531835089@: Elizabeth /Dickerson/
+  Reason: Matched: Elizabeth /Dickerson/ <-> Elizabeth /Dickerson/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 272: Kept @I292531339794@
+  Primary names: William /Dickerson/
+  Removed @I292531041893@: William /Dickerson/
+  Reason: Matched: William /Dickerson/ <-> William /Dickerson/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 273: Kept @I292531044270@
+  Primary names: Elizabeth /Dickerson/
+  Removed @I292531339812@: Elizabeth /Dickerson/
+  Reason: Matched: Elizabeth /Dickerson/ <-> Elizabeth /Dickerson/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 274: Kept @I292531041898@
+  Primary names: Jeremiah /Dickerson/
+  Removed @I292531339795@: Jeremiah /Dickerson/
+  Reason: Matched: Jeremiah /Dickerson/ <-> Jeremiah /Dickerson/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=0.50, death_place=1.00)
+  Confidence: 0.82
+
+Group 275: Kept @I292531041886@
+  Primary names: Valentine /Dickerson/
+  Removed @I292531339801@: Valentine /Dickerson/
+  Reason: Matched: Valentine /Dickerson/ <-> Valentine /Dickerson/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=0.33, death_place=1.00)
+  Confidence: 0.81
+
+Group 276: Kept @I292531041338@
+  Primary names: Dorcas /Martin/
+  Removed @I292531045446@: Dorcas /Martin/
+  Removed @I292531339403@: Dorcas /Martin/
+  Reason: Matched: Dorcas /Martin/ <-> Dorcas /Martin/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Dorcas /Martin/ <-> Dorcas /Martin/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Dorcas /Martin/ <-> Dorcas /Martin/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 277: Kept @I292531339463@
+  Primary names: Sarah Elizabeth /Ford/, Sarah Elizabeth /(Forde)  Ford Falconer Faulkner/, Sarah /Falkner/
+  Removed @I292531041667@: Sarah Elizabeth /Ford/, Sarah /Faulkner/
+  Removed @I292531352142@: Sarah Elizabeth /Ford/
+  Removed @I292531101353@: Sarah Elizabeth /Ford/
+  Reason: Matched: Sarah Elizabeth /Ford/ <-> Sarah Elizabeth /Ford/ (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=0.33)
+  Reason: Matched: Sarah Elizabeth /Ford/ <-> Sarah Elizabeth /Ford/ (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=0.33)
+  Reason: Matched: Sarah Elizabeth /Ford/ <-> Sarah Elizabeth /Ford/ (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=0.33)
+  Reason: Matched: Sarah Elizabeth /Ford/ <-> Sarah Elizabeth /Ford/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sarah Elizabeth /Ford/ <-> Sarah Elizabeth /Ford/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sarah Elizabeth /Ford/ <-> Sarah Elizabeth /Ford/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 278: Kept @I292531041715@
+  Primary names: Rebecca Molly /Thomas/
+  Removed @I292531339682@: Rebecca Molly /Thomas/
+  Reason: Matched: Rebecca Molly /Thomas/ <-> Rebecca Molly /Thomas/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 279: Kept @I292531042547@
+  Primary names: Deborah /Garland/
+  Removed @I292531042568@: Deborah /Garland/
+  Removed @I292531042572@: Deborah /Garland/
+  Removed @I292531042575@: Deborah /Garland/
+  Removed @I292531042554@: Deborah /Garland/
+  Removed @I292531042570@: Deborah /Garland/
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Deborah /Garland/ <-> Deborah /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Confidence: 0.90
+
+Group 280: Kept @I292531042573@
+  Primary names: Edward /Garland/
+  Removed @I292531042514@: Edward /Garland/
+  Reason: Matched: Edward /Garland/ <-> Edward /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 0.90
+
+Group 281: Kept @I292531042557@
+  Primary names: Sarah /Garland/
+  Removed @I292531042563@: Sarah /Garland/
+  Reason: Matched: Sarah /Garland/ <-> Sarah /Garland/ (name=1.00, death_date=0.70, family=1.00)
+  Confidence: 0.90
+
+Group 282: Kept @I292531042565@
+  Primary names: John /Garland/
+  Removed @I292531042545@: John /Garland/
+  Removed @I292531042543@: John /Garland/
+  Removed @I292531042576@: John /Garland/
+  Reason: Matched: John /Garland/ <-> John /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: John /Garland/ <-> John /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: John /Garland/ <-> John /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: John /Garland/ <-> John /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: John /Garland/ <-> John /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: John /Garland/ <-> John /Garland/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Confidence: 0.88
+
+Group 283: Kept @I292531042559@
+  Primary names: Richard /Garland/
+  Removed @I292531042528@: Richard /Garland/
+  Reason: Matched: Richard /Garland/ <-> Richard /Garland/ (name=1.00, birth_date=0.70, family=1.00)
+  Confidence: 0.90
+
+Group 284: Kept @I292531352146@
+  Primary names: Ann /Fortner/
+  Removed @I292531101536@: Ann /Fortner/
+  Removed @I292531101356@: Ann /Fortner/
+  Reason: Matched: Ann /Fortner/ <-> Ann /Fortner/ (name=1.00, birth_date=0.70, birth_place=0.67)
+  Reason: Matched: Ann /Fortner/ <-> Ann /Fortner/ (name=1.00, birth_date=0.70, birth_place=0.67)
+  Reason: Matched: Ann /Fortner/ <-> Ann /Fortner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 285: Kept @I292531352144@
+  Primary names: Temperance /Fortner/
+  Removed @I292531101354@: Temperance /Fortner/
+  Reason: Matched: Temperance /Fortner/ <-> Temperance /Fortner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Confidence: 0.85
+
+Group 286: Kept @I292531835100@
+  Primary names: Lewis /Fortner/
+  Removed @I292531835242@: Lewis /Fortner/
+  Reason: Matched: Lewis /Fortner/ <-> Lewis /Fortner/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.92
+
+Group 287: Kept @I292531044288@
+  Primary names: Hardy /Fortner/
+  Removed @I292531339819@: Hardy /Fortner/
+  Reason: Matched: Hardy /Fortner/ <-> Hardy /Fortner/ (name=1.00, birth_date=0.70, death_date=0.70)
+  Confidence: 0.80
+
+Group 288: Kept @I292531044466@
+  Primary names: Catharine /Caldwell/
+  Removed @I292533350936@: Catharine /Caldwell/
+  Reason: Matched: Catharine /Caldwell/ <-> Catharine /Caldwell/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 289: Kept @I292531355704@
+  Primary names: Francis /Fawkner/
+  Removed @I292531046514@: Francis /Fawkner/
+  Reason: Matched: Francis /Fawkner/ <-> Francis /Fawkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 290: Kept @I292531355706@
+  Primary names: Anne /Jeffries/
+  Removed @I292531046515@: Anne /Jeffries/
+  Reason: Matched: Anne /Jeffries/ <-> Anne /Jeffries/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 291: Kept @I292531058019@
+  Primary names: Mary /Filmer/
+  Removed @I292531047281@: Mary /Filmer/
+  Removed @I292531352804@: Mary /Filmer/
+  Removed @I292531363360@: Mary /Filmer/
+  Reason: Matched: Mary /Filmer/ <-> Mary /Filmer/ (name=1.00, birth_date=0.70, death_date=1.00)
+  Reason: Matched: Mary /Filmer/ <-> Mary /Filmer/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary /Filmer/ <-> Mary /Filmer/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary /Filmer/ <-> Mary /Filmer/ (name=1.00, birth_date=0.70, death_date=1.00, family=1.00)
+  Reason: Matched: Mary /Filmer/ <-> Mary /Filmer/ (name=1.00, birth_date=0.70, death_date=1.00)
+  Reason: Matched: Mary /Filmer/ <-> Mary /Filmer/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 292: Kept @I292531057633@
+  Primary names: Jane /Filmer/
+  Removed @I292531354104@: Jane /Filmer/
+  Reason: Matched: Jane /Filmer/ <-> Jane /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=1.00)
+  Confidence: 0.81
+
+Group 293: Kept @I292531352836@
+  Primary names: Major Henry /Filmer/
+  Removed @I292531047306@: Major Henry /Filmer/
+  Removed @I292531363330@: Major Henry /Filmer/
+  Removed @I292531830534@: Major (Sir) Henry I /Filmer/
+  Removed @I292531354127@: Henry /Filmer/
+  Removed @I292531363362@: Henry /Filmer/
+  Removed @I292531057625@: Major Henry  /Filmer/
+  Removed @I292531354119@: Henry /Filmer/
+  Reason: Matched: Major (Sir) Henry I /Filmer/ <-> Major Henry /Filmer/ (name=1.00, birth_place=1.00, death_place=0.25)
+  Reason: Matched: Major (Sir) Henry I /Filmer/ <-> Major Henry /Filmer/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=0.25)
+  Reason: Matched: Major (Sir) Henry I /Filmer/ <-> Major Henry /Filmer/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=0.25)
+  Reason: Matched: Major Henry  /Filmer/ <-> Major Henry /Filmer/ (name=1.00, birth_place=1.00, death_place=0.50)
+  Reason: Matched: Major Henry /Filmer/ <-> Major Henry /Filmer/ (name=1.00, birth_place=1.00, death_place=0.50)
+  Reason: Matched: Major Henry /Filmer/ <-> Henry /Filmer/ (name=0.70, birth_place=0.67, death_place=0.50, family=1.00)
+  Reason: Matched: Major Henry /Filmer/ <-> Henry /Filmer/ (name=0.70, birth_place=0.67, death_place=0.50)
+  Reason: Matched: Major Henry /Filmer/ <-> Major Henry /Filmer/ (name=1.00, birth_place=1.00, death_place=0.50, family=1.00)
+  Reason: Matched: Major Henry /Filmer/ <-> Henry /Filmer/ (name=0.70, birth_place=0.67, death_place=0.67)
+  Reason: Matched: Major Henry /Filmer/ <-> Major Henry /Filmer/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.98
+
+Group 294: Kept @I292531057622@
+  Primary names: Richard /Filmer/
+  Removed @I292531352837@: Richard /Filmer/
+  Removed @I292531047308@: Richard /Filmer/
+  Removed @I292533348249@: Richard /Filmer/
+  Reason: Matched: Richard /Filmer/ <-> Richard /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Richard /Filmer/ <-> Richard /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Richard /Filmer/ <-> Richard /Filmer/ (name=1.00, family=1.00)
+  Reason: Matched: Richard /Filmer/ <-> Richard /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Richard /Filmer/ <-> Richard /Filmer/ (name=1.00, birth_date=0.70)
+  Confidence: 1.00
+
+Group 295: Kept @I292531363363@
+  Primary names: Lady Sarah /Filmer/
+  Removed @I292531354130@: Sarah /Filmer/
+  Removed @I292531363361@: Sarah /Filmer/
+  Reason: Matched: Lady Sarah /Filmer/ <-> Sarah /Filmer/ (name=0.70, birth_date=0.70, death_date=0.90, birth_place=0.67, family=1.00)
+  Reason: Matched: Lady Sarah /Filmer/ <-> Sarah /Filmer/ (name=0.70, birth_date=0.70, death_date=0.90, birth_place=0.67)
+  Reason: Matched: Sarah /Filmer/ <-> Sarah /Filmer/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=0.67)
+  Confidence: 0.82
+
+Group 296: Kept @I292531352834@
+  Primary names: Augustine /Filmer/
+  Removed @I292531363345@: Augustine "Agustus" /Filmer/
+  Removed @I292531047305@: Augustine /Filmer/
+  Reason: Matched: Augustine "Agustus" /Filmer/ <-> Augustine /Filmer/ (name=1.00, birth_date=0.30, death_date=0.70, birth_place=0.67, death_place=1.00)
+  Reason: Matched: Augustine "Agustus" /Filmer/ <-> Augustine /Filmer/ (name=1.00, birth_date=0.30, death_date=0.70, birth_place=0.67, death_place=1.00, family=1.00)
+  Reason: Matched: Augustine /Filmer/ <-> Augustine /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 297: Kept @I292531339988@
+  Primary names: Elizabeth Travis /Filmer/, Elizabeth /Filmer    (Faulkner)/, Eliza /Faulkner/, Elizabeth /Faulkner/
+  Removed @I292531047033@: Elizabeth Travis /Filmer/
+  Reason: Matched: Elizabeth Travis /Filmer/ <-> Elizabeth Travis /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 298: Kept @I292531057611@
+  Primary names: Anne /Filmer/
+  Removed @I292531047291@: Anne /Filmer/
+  Removed @I292531352816@: Anne /Filmer/
+  Removed @I292531363337@: Anne /Filmer/
+  Reason: Matched: Anne /Filmer/ <-> Anne /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Anne /Filmer/ <-> Anne /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: Anne /Filmer/ <-> Anne /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Anne /Filmer/ <-> Anne /Filmer/ (name=1.00, birth_date=0.30, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Anne /Filmer/ <-> Anne /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Anne /Filmer/ <-> Anne /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 299: Kept @I292531363364@
+  Primary names: Thomas /Filmer/ II
+  Removed @I292531352818@: Sir Thomas /Filmer/
+  Removed @I292531363368@: Thomas /Filmer/
+  Removed @I292531058005@: Thomas /Filmer/
+  Removed @I292531047292@: Sir Thomas /Filmer/
+  Reason: Matched: Thomas /Filmer/ II <-> Thomas /Filmer/ (name=1.00, family=1.00)
+  Reason: Matched: Thomas /Filmer/ II <-> Thomas /Filmer/ (name=1.00, death_date=0.90, birth_place=0.67, death_place=0.67)
+  Reason: Matched: Thomas /Filmer/ <-> Sir Thomas /Filmer/ (name=0.70, family=1.00)
+  Reason: Matched: Sir Thomas /Filmer/ <-> Sir Thomas /Filmer/ (name=1.00, death_date=0.90, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 300: Kept @I292531057634@
+  Primary names: SIR Robert /Filmer/ II
+  Removed @I292531047286@: Sir Robert (Edward) /Filmer/
+  Removed @I292531363366@: Sir Robert /Filmer/
+  Removed @I292531830538@: Sir John /Filmer/ IV
+  Removed @I292531352838@: Sir Edward /Filmer/
+  Removed @I292533348231@: Robert /Filmer/
+  Removed @I292531830519@: Sir Reginald /Filmer/ II
+  Removed @I292531363343@: Sir Edward /Filmer/
+  Removed @I292531047310@: Sir Edward /Filmer/
+  Removed @I292531830535@: Sir Robert /Filmer/
+  Reason: Matched: SIR Robert /Filmer/ II <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=1.00)
+  Reason: Matched: SIR Robert /Filmer/ II <-> Sir Robert /Filmer/ (name=1.00, birth_date=0.30, birth_place=0.75, death_place=1.00)
+  Reason: Matched: SIR Robert /Filmer/ II <-> Sir Robert (Edward) /Filmer/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: SIR Robert /Filmer/ II <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir John /Filmer/ IV <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=0.67)
+  Reason: Matched: Sir John /Filmer/ IV <-> Sir Robert /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=0.75, family=1.00)
+  Reason: Matched: Sir John /Filmer/ IV <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=0.67)
+  Reason: Matched: Robert /Filmer/ <-> Sir Robert /Filmer/ (name=0.70, birth_date=0.30, death_place=1.00)
+  Reason: Matched: Sir Reginald /Filmer/ II <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=0.67)
+  Reason: Matched: Sir Reginald /Filmer/ II <-> Sir Robert /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=0.67, family=1.00)
+  Reason: Matched: Sir Reginald /Filmer/ II <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=0.67)
+  Reason: Matched: Sir Edward /Filmer/ <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Edward /Filmer/ <-> Sir Robert /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Edward /Filmer/ <-> Sir Robert /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Edward /Filmer/ <-> Sir Robert (Edward) /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Edward /Filmer/ <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Edward /Filmer/ <-> Sir Robert /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Edward /Filmer/ <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: Sir Robert /Filmer/ <-> Sir Robert /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Robert /Filmer/ <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: Sir Robert /Filmer/ <-> Sir Robert (Edward) /Filmer/ (name=1.00, birth_date=0.30, birth_place=0.75, death_place=1.00)
+  Reason: Matched: Sir Robert /Filmer/ <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Robert (Edward) /Filmer/ <-> Sir Edward /Filmer/ (name=1.00, birth_date=0.30, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 0.94
+
+Group 301: Kept @I292531340119@
+  Primary names: Reginald /Filmer\Fylmer\Filmar/, Reginald Reynold /Filmer/
+  Removed @I292531363334@: Reginald /Filmer/
+  Removed @I292533348240@: Reginald /Filmer/
+  Removed @I292531047103@: Reginald /Filmer\Fylmer\Filmar/
+  Removed @I292531363354@: Reginald II /Filmer/
+  Reason: Matched: Reginald Reynold /Filmer/ <-> Reginald /Filmer/ (name=1.00, birth_date=0.30, death_date=0.70, birth_place=1.00, death_place=0.67)
+  Reason: Matched: Reginald Reynold /Filmer/ <-> Reginald II /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=1.00)
+  Reason: Matched: Reginald Reynold /Filmer/ <-> Reginald /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=1.00, family=1.00)
+  Reason: Matched: Reginald /Filmer/ <-> Reginald II /Filmer/ (name=1.00, birth_date=0.30, death_date=0.90, birth_place=0.67, death_place=0.67, family=1.00)
+  Reason: Matched: Reginald /Filmer/ <-> Reginald /Filmer/ (name=1.00, birth_date=0.30, death_date=0.90, birth_place=0.67, death_place=0.67)
+  Reason: Matched: Reginald II /Filmer/ <-> Reginald /Filmer/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=0.67, death_place=1.00)
+  Reason: Matched: Reginald /Filmer\Fylmer\Filmar/ <-> Reginald /Filmer\Fylmer\Filmar/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 302: Kept @I292531363352@
+  Primary names: Elizabeth /Filmer/
+  Removed @I292531058027@: Elizabeth /Filmer/
+  Reason: Matched: Elizabeth /Filmer/ <-> Elizabeth /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 303: Kept @I292531047290@
+  Primary names: Lady Sarah /Filmer/
+  Removed @I292531363339@: Sarah /Filmer/
+  Removed @I292531352815@: Lady Sarah /Filmer/
+  Reason: Matched: Lady Sarah /Filmer/ <-> Lady Sarah /Filmer/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Sarah /Filmer/ <-> Sarah /Filmer/ (name=0.70, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Sarah /Filmer/ <-> Sarah /Filmer/ (name=0.70, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 304: Kept @I292531352537@
+  Primary names: Anne /Filmer/
+  Removed @I292531047313@: Anne /Filmer/
+  Reason: Matched: Anne /Filmer/ <-> Anne /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 305: Kept @I292531829820@
+  Primary names: Elizabeth Travis /Filmer/
+  Removed @I292531057164@: Elizabeth Travis /Filmer/
+  Reason: Matched: Elizabeth Travis /Filmer/ <-> Elizabeth Travis /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 306: Kept @I292531057635@
+  Primary names: Susanna /Filmer/
+  Removed @I292531363340@: Susanna /Filmer/
+  Removed @I292533348246@: Susanna /Filmer/
+  Reason: Matched: Susanna /Filmer/ <-> Susanna /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Susanna /Filmer/ <-> Susanna /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Susanna /Filmer/ <-> Susanna /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=0.67)
+  Confidence: 0.88
+
+Group 307: Kept @I292531354102@
+  Primary names: Judith /Filmer/
+  Removed @I292533348239@: Judith /Filmer/
+  Removed @I292531363338@: Judith /Filmer/
+  Removed @I292531363365@: Judith /Filmer/
+  Reason: Matched: Judith /Filmer/ <-> Judith /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Reason: Matched: Judith /Filmer/ <-> Judith /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, family=1.00)
+  Reason: Matched: Judith /Filmer/ <-> Judith /Filmer/ (name=1.00, birth_place=1.00)
+  Reason: Matched: Judith /Filmer/ <-> Judith /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 308: Kept @I292531830540@
+  Primary names: Lady Katherine /Filmer/
+  Removed @I292531363333@: Lady Margaret /Filmer/
+  Removed @I292533348228@: Margaret /Filmer/
+  Removed @I292531354098@: Margaret /Filmer/
+  Removed @I292531830536@: Lady Margaret /Filmer/
+  Removed @I292531047297@: Lady Judithe /Filmer/
+  Removed @I292531057604@: Lady Katherine  /Filmer/
+  Removed @I292531047295@: Lady Margaret /Filmer/
+  Removed @I292531057609@: Margaret /Filmer/
+  Removed @I292531363329@: Lady Katherine  /Filmer/
+  Removed @I292531352824@: Lady Judithe /Filmer/
+  Removed @I292531354112@: Katherine /Filmer/
+  Reason: Matched: Lady Margaret /Filmer/ <-> Margaret /Filmer/ (name=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Margaret /Filmer/ <-> Margaret /Filmer/ (name=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Margaret /Filmer/ <-> Margaret /Filmer/ (name=0.70, death_date=0.70, birth_place=0.67, death_place=1.00)
+  Reason: Matched: Lady Margaret /Filmer/ <-> Lady Katherine /Filmer/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Margaret /Filmer/ <-> Lady Margaret /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Judithe /Filmer/ <-> Lady Katherine /Filmer/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Margaret /Filmer/ <-> Margaret /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Margaret /Filmer/ <-> Lady Margaret /Filmer/ (name=0.70, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Margaret /Filmer/ <-> Margaret /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=1.00)
+  Reason: Matched: Margaret /Filmer/ <-> Lady Margaret /Filmer/ (name=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Judithe /Filmer/ <-> Lady Katherine /Filmer/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Margaret /Filmer/ <-> Lady Margaret /Filmer/ (name=0.70, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Margaret /Filmer/ <-> Margaret /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=1.00, family=1.00)
+  Reason: Matched: Margaret /Filmer/ <-> Lady Margaret /Filmer/ (name=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Katherine  /Filmer/ <-> Lady Katherine /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=0.75)
+  Reason: Matched: Lady Katherine  /Filmer/ <-> Lady Katherine  /Filmer/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Margaret /Filmer/ <-> Margaret /Filmer/ (name=0.70, birth_date=0.70, death_date=0.70, birth_place=0.67, death_place=1.00)
+  Reason: Matched: Lady Margaret /Filmer/ <-> Lady Margaret /Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Margaret /Filmer/ <-> Lady Margaret /Filmer/ (name=0.70, death_date=0.70, birth_place=0.67, death_place=1.00)
+  Reason: Matched: Lady Katherine /Filmer/ <-> Katherine /Filmer/ (name=0.70, birth_date=0.30, birth_place=0.67, death_place=0.50)
+  Reason: Matched: Lady Katherine /Filmer/ <-> Lady Katherine  /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=0.75)
+  Reason: Matched: Lady Katherine /Filmer/ <-> Lady Margaret /Filmer/ (name=1.00, birth_place=0.75, death_place=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 309: Kept @I292531352833@
+  Primary names: John /Filmer/
+  Removed @I292531363335@: Sir John /Filmer/
+  Removed @I292531047298@: John /Filmer/
+  Reason: Matched: Sir John /Filmer/ <-> John /Filmer/ (name=0.70, birth_date=0.30, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir John /Filmer/ <-> John /Filmer/ (name=0.70, birth_date=0.30, death_date=0.70, birth_place=1.00, death_place=1.00, family=1.00)
+  Reason: Matched: John /Filmer/ <-> John /Filmer/ (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 310: Kept @I292531830544@
+  Primary names: Lady Mary /Filmer /, Lady Mary /Filmer (Knatchbull)/
+  Removed @I292531057628@: Mary  /Filmer /
+  Removed @I292531363332@: Mary Theodosia /Filmer/
+  Removed @I292533348226@: Mary /Filmer/
+  Reason: Matched: Mary /Filmer/ <-> Mary Theodosia /Filmer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary /Filmer/ <-> Lady Mary /Filmer / (name=0.70, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary /Filmer/ <-> Mary  /Filmer / (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary Theodosia /Filmer/ <-> Lady Mary /Filmer / (name=0.70, birth_date=0.70, birth_place=0.75, death_place=1.00)
+  Reason: Matched: Mary Theodosia /Filmer/ <-> Mary  /Filmer / (name=1.00, birth_date=0.70, birth_place=1.00, death_place=0.75)
+  Reason: Matched: Lady Mary /Filmer / <-> Mary  /Filmer / (name=0.70, birth_date=0.70, death_date=1.00, birth_place=0.75, death_place=0.75)
+  Confidence: 0.93
+
+Group 311: Kept @I292531047283@
+  Primary names: Susannah /Filmer/
+  Removed @I292531352806@: Susannah /Filmer/
+  Removed @I292531058018@: Susannah /Filmer/
+  Reason: Matched: Susannah /Filmer/ <-> Susannah /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Susannah /Filmer/ <-> Susannah /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Susannah /Filmer/ <-> Susannah /Filmer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 312: Kept @I292531352793@
+  Primary names: Sir Edward /Filmer/
+  Removed @I292531047278@: Sir Edward Henry /Filmer/
+  Reason: Matched: Sir Edward /Filmer/ <-> Sir Edward Henry /Filmer/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 313: Kept @I292531340125@
+  Primary names: Jane /Travis/
+  Removed @I292531047108@: Jane /Travis/
+  Reason: Matched: Jane /Travis/ <-> Jane /Travis/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 314: Kept @I292531352799@
+  Primary names: Dame Elizabeth /Argall, Countess of Kent/
+  Removed @I292531057602@: Lady Dame Elizabeth /Argall, Countess of Kent/
+  Removed @I292531047279@: Dame Elizabeth /Argall, Countess of Kent/
+  Reason: Matched: Lady Dame Elizabeth /Argall, Countess of Kent/ <-> Dame Elizabeth /Argall, Countess of Kent/ (name=0.70, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Dame Elizabeth /Argall, Countess of Kent/ <-> Dame Elizabeth /Argall, Countess of Kent/ (name=0.70, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Dame Elizabeth /Argall, Countess of Kent/ <-> Dame Elizabeth /Argall, Countess of Kent/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 315: Kept @I292531047289@
+  Primary names: Katherine /Barham/
+  Removed @I292531352814@: Katherine /Barham/
+  Reason: Matched: Katherine /Barham/ <-> Katherine /Barham/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 316: Kept @I292531057783@
+  Primary names: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton
+  Removed @I292531047456@: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton
+  Removed @I292531353006@: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton
+  Removed @I292533350532@: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton
+  Reason: Matched: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton <-> Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton <-> Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton <-> Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton <-> Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton <-> Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton <-> Sir Robert I /Filmer (Fylmer)/ 1st Baron Filmer of Sutton (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.98
+
+Group 317: Kept @I292531353026@
+  Primary names: Frances Ann (Lady; Baroness Filmer) /Chester/
+  Removed @I292531354293@: Frances Filmer /Chester/ Lady
+  Removed @I292533350494@: Frances Ann (Lady; Baroness Filmer) /Chester/
+  Removed @I292531047468@: Frances Ann (Lady; Baroness Filmer) /Chester/
+  Removed @I292531057788@: Frances Ann (Lady; Baroness Filmer) /Chester/
+  Removed @I292531058261@: Frances Filmer /Chester/ Lady
+  Reason: Matched: Frances Filmer /Chester/ Lady <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Filmer /Chester/ Lady <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Filmer /Chester/ Lady <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Filmer /Chester/ Lady <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Filmer /Chester/ Lady <-> Frances Filmer /Chester/ Lady (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Filmer /Chester/ Lady (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Filmer /Chester/ Lady (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Ann (Lady; Baroness Filmer) /Chester/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Filmer /Chester/ Lady (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Frances Ann (Lady; Baroness Filmer) /Chester/ <-> Frances Filmer /Chester/ Lady (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.98
+
+Group 318: Kept @I292531047542@
+  Primary names: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/
+  Removed @I292531047483@: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/
+  Removed @I292531353033@: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/
+  Removed @I292531831104@: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/
+  Reason: Matched: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ <-> Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ <-> Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ <-> Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ <-> Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ <-> Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ <-> Sir Richard II /Argall, Lord of East Sutton, High Sheriff of Kent/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.98
+
+Group 319: Kept @I292531047560@
+  Primary names: Mary (Lady; Royal Lineage back to King David of Judea) /Scott /
+  Removed @I292531353045@: Mary (Lady; Royal Lineage back to King David of Judea) /Scott /
+  Removed @I292531047503@: Mary (Lady; Royal Lineage back to King David of Judea) /Scott /
+  Reason: Matched: Mary (Lady; Royal Lineage back to King David of Judea) /Scott / <-> Mary (Lady; Royal Lineage back to King David of Judea) /Scott / (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary (Lady; Royal Lineage back to King David of Judea) /Scott / <-> Mary (Lady; Royal Lineage back to King David of Judea) /Scott / (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Mary (Lady; Royal Lineage back to King David of Judea) /Scott / <-> Mary (Lady; Royal Lineage back to King David of Judea) /Scott / (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 320: Kept @I292531351796@
+  Primary names: Anne /unk/
+  Removed @I292531047897@: Anne /unk/
+  Reason: Matched: Anne /unk/ <-> Anne /unk/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 321: Kept @I292531057159@
+  Primary names: William /Falconer/
+  Removed @I292533347927@: William /Falconer/
+  Reason: Matched: William /Falconer/ <-> William /Falconer/ (name=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 322: Kept @I292531355711@
+  Primary names: Burton Francis /Falconer/
+  Removed @I292531047917@: Burton Francis /Falconer/
+  Reason: Matched: Burton Francis /Falconer/ <-> Burton Francis /Falconer/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 323: Kept @I292531051976@
+  Primary names: Mary Catherine /Argall/
+  Removed @I292531831117@: Mary Catherine /Argall/
+  Reason: Matched: Mary Catherine /Argall/ <-> Mary Catherine /Argall/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 324: Kept @I292533348570@
+  Primary names: Sir Samuel /Argall/
+  Removed @I292531051980@: Sir Samuel /Argall/
+  Removed @I292531831127@: Sir Samuel /Argall/
+  Reason: Matched: Sir Samuel /Argall/ <-> Sir Samuel /Argall/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Samuel /Argall/ <-> Sir Samuel /Argall/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Samuel /Argall/ <-> Sir Samuel /Argall/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 325: Kept @I292531051979@
+  Primary names: Agnes  /Argall/
+  Removed @I292531831125@: Agnes /Argall  /
+  Reason: Matched: Agnes  /Argall/ <-> Agnes /Argall  / (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 326: Kept @I292531831107@
+  Primary names: Jane /Argall/
+  Removed @I292531051992@: Jane /Argall/
+  Removed @I292533348567@: Jane /Argall/
+  Reason: Matched: Jane /Argall/ <-> Jane /Argall/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Jane /Argall/ <-> Jane /Argall/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=0.33, death_place=1.00)
+  Reason: Matched: Jane /Argall/ <-> Jane /Argall/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=0.33, death_place=1.00)
+  Confidence: 0.94
+
+Group 327: Kept @I292531051993@
+  Primary names: Margaret /Argall/
+  Removed @I292533348566@: Margaret /Argall/
+  Removed @I292531831111@: Margaret /Argall/
+  Reason: Matched: Margaret /Argall/ <-> Margaret /Argall/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Margaret /Argall/ <-> Margaret /Argall/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Margaret /Argall/ <-> Margaret /Argall/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 328: Kept @I292533348565@
+  Primary names: Sir Reginald /Argall/
+  Removed @I292531051977@: Sir Reginald /Argall/
+  Removed @I292531831118@: Sir Reginald /Argall/
+  Reason: Matched: Sir Reginald /Argall/ <-> Sir Reginald /Argall/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Reginald /Argall/ <-> Sir Reginald /Argall/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Reginald /Argall/ <-> Sir Reginald /Argall/ (name=1.00, birth_date=0.90, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.98
+
+Group 329: Kept @I292531831115@
+  Primary names: Charles Richard /Argall/ II
+  Removed @I292531051989@: Charles Richard /Argall/ II
+  Reason: Matched: Charles Richard /Argall/ II <-> Charles Richard /Argall/ II (name=1.00, birth_date=1.00, death_date=1.00, birth_place=0.60, death_place=1.00)
+  Confidence: 0.92
+
+Group 330: Kept @I292531831123@
+  Primary names: Thomas /Argall/
+  Removed @I292531051990@: Thomas /Argall/
+  Reason: Matched: Thomas /Argall/ <-> Thomas /Argall/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 331: Kept @I292531831112@
+  Primary names: Sarah /Argall/
+  Removed @I292533348558@: Sarah /Argall/
+  Removed @I292531051983@: Sarah /Argall/
+  Reason: Matched: Sarah /Argall/ <-> Sarah /Argall/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Reason: Matched: Sarah /Argall/ <-> Sarah /Argall/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Reason: Matched: Sarah /Argall/ <-> Sarah /Argall/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Confidence: 0.85
+
+Group 332: Kept @I292531051986@
+  Primary names: Catherine /Argall/
+  Removed @I292533348562@: Catherine /Argall/
+  Removed @I292531831109@: Catherine /Argall/
+  Reason: Matched: Catherine /Argall/ <-> Catherine /Argall/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=1.00)
+  Reason: Matched: Catherine /Argall/ <-> Catherine /Argall/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=1.00)
+  Reason: Matched: Catherine /Argall/ <-> Catherine /Argall/ (name=1.00, birth_date=0.70, death_date=0.90, birth_place=1.00, death_place=1.00)
+  Confidence: 0.92
+
+Group 333: Kept @I292531361866@
+  Primary names: Merinda Adoline /Muse/
+  Removed @I292531052870@: Merinda Adoline /Muse/
+  Reason: Matched: Merinda Adoline /Muse/ <-> Merinda Adoline /Muse/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Confidence: 0.85
+
+Group 334: Kept @I292531057157@
+  Primary names: Elizabeth /Faulkner Faulconer Falkner/
+  Removed @I292531829814@: Elizabeth /Faulkner Faulconer Falkner/
+  Reason: Matched: Elizabeth /Faulkner Faulconer Falkner/ <-> Elizabeth /Faulkner Faulconer Falkner/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 335: Kept @I292531830060@
+  Primary names: Sir Edward I /Filmer, Earl of Kent, High Sheriff of Kent/, Sir Edward Henry /Filmer,  VII Knight of Chester and High Sheriff of Kent 14 times/
+  Removed @I292531057266@: Sir Edward I /Filmer, Earl of Kent, High Sheriff of Kent/
+  Reason: Matched: Sir Edward I /Filmer, Earl of Kent, High Sheriff of Kent/ <-> Sir Edward I /Filmer, Earl of Kent, High Sheriff of Kent/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=0.75)
+  Confidence: 0.95
+
+Group 336: Kept @I292531058226@
+  Primary names: James /Filmer of Otterdon/ Gent.
+  Removed @I292533350568@: James /Filmer of Otterdon/ Gentlemman
+  Removed @I292531353849@: James /Filmer of Otterdon/ Gentlemman
+  Reason: Matched: James /Filmer of Otterdon/ Gent. <-> James /Filmer of Otterdon/ Gentlemman (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: James /Filmer of Otterdon/ Gent. <-> James /Filmer of Otterdon/ Gentlemman (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: James /Filmer of Otterdon/ Gentlemman <-> James /Filmer of Otterdon/ Gentlemman (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 337: Kept @I292531354290@
+  Primary names: Lady Frances /Chester, Baroness Filmer/
+  Removed @I292531058258@: Lady Frances /Chester, Baroness Filmer/
+  Reason: Matched: Lady Frances /Chester, Baroness Filmer/ <-> Lady Frances /Chester, Baroness Filmer/ (name=1.00, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 338: Kept @I292531058260@
+  Primary names: Lady Frances /Chester, Baroness Filmer/
+  Removed @I292531363610@: Lady Frances /Chester, Baroness Filmer/
+  Removed @I292531354291@: Lady Frances /Chester, Baroness Filmer/
+  Reason: Matched: Lady Frances /Chester, Baroness Filmer/ <-> Lady Frances /Chester, Baroness Filmer/ (name=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Frances /Chester, Baroness Filmer/ <-> Lady Frances /Chester, Baroness Filmer/ (name=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Lady Frances /Chester, Baroness Filmer/ <-> Lady Frances /Chester, Baroness Filmer/ (name=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 339: Kept @I292531101517@
+  Primary names: John Thomas /Forde/
+  Removed @I292531339713@: John Thomas /Forde/
+  Reason: Matched: John Thomas /Forde/ <-> John Thomas /Forde/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 340: Kept @I292531363499@
+  Primary names: CATHERINE Katherine /Throckmorton/ \ Dame Chester
+  Removed @I292533350618@: CATHERINE Katherine /Throckmorton/ \ Dame Chester
+  Removed @I292531060043@: CATHERINE Katherine /Throckmorton/ \ Dame Chester
+  Removed @I292531354367@: CATHERINE Katherine /Throckmorton/ \ Dame Chester
+  Reason: Matched: CATHERINE Katherine /Throckmorton/ \ Dame Chester <-> CATHERINE Katherine /Throckmorton/ \ Dame Chester (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: CATHERINE Katherine /Throckmorton/ \ Dame Chester <-> CATHERINE Katherine /Throckmorton/ \ Dame Chester (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: CATHERINE Katherine /Throckmorton/ \ Dame Chester <-> CATHERINE Katherine /Throckmorton/ \ Dame Chester (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: CATHERINE Katherine /Throckmorton/ \ Dame Chester <-> CATHERINE Katherine /Throckmorton/ \ Dame Chester (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: CATHERINE Katherine /Throckmorton/ \ Dame Chester <-> CATHERINE Katherine /Throckmorton/ \ Dame Chester (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: CATHERINE Katherine /Throckmorton/ \ Dame Chester <-> CATHERINE Katherine /Throckmorton/ \ Dame Chester (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 341: Kept @I292531363506@
+  Primary names: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - /
+  Removed @I292531060079@: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - /
+  Removed @I292531354357@: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - /
+  Removed @I292533350600@: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - /
+  Reason: Matched: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / <-> Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / <-> Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / <-> Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / <-> Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / <-> Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / (name=1.00, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / <-> Sir Knight Robert /Chester - Lord Mayor of London - Gentleman Usher to King Henry VIII - / (name=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 342: Kept @I292531325446@
+  Primary names: Clarissa (Clara) /Mathis/
+  Removed @I292531101723@: Clarissa (Clara) /Mathis/
+  Reason: Matched: Clarissa (Clara) /Mathis/ <-> Clarissa (Clara) /Mathis/ (name=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 343: Kept @I292531362393@
+  Primary names: Vital /Davis/
+  Removed @I292531102658@: VITAL LEE /DAVIS/
+  Reason: Matched: Vital /Davis/ <-> VITAL LEE /DAVIS/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=0.67)
+  Confidence: 0.93
+
+Group 344: Kept @I292533397572@
+  Primary names: Charlie Warner /Davis/
+  Removed @I292533397587@: Charlie Warner /Davis/
+  Reason: Matched: Charlie Warner /Davis/ <-> Charlie Warner /Davis/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00, family=1.00)
+  Confidence: 1.00
+
+Group 345: Kept @I292531362379@
+  Primary names: James Thomas "Buddy" /Davis/
+  Removed @I292531102655@: JAMES THOMAS "BUDDY" /DAVIS/
+  Reason: Matched: JAMES THOMAS "BUDDY" /DAVIS/ <-> James Thomas "Buddy" /Davis/ (name=1.00, birth_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 346: Kept @I292531362396@
+  Primary names: Ruby Lucille /Davis/
+  Removed @I292531102698@: Ruby Lucille /Davis/
+  Reason: Matched: Ruby Lucille /Davis/ <-> Ruby Lucille /Davis/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+Group 347: Kept @I292531362389@
+  Primary names: Edgar Lee /Davis/
+  Removed @I292531102660@: Edgar Lee /Davis/
+  Reason: Matched: Edgar Lee /Davis/ <-> Edgar Lee /Davis/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=0.67, death_place=1.00)
+  Confidence: 0.93
+
+Group 348: Kept @I292531362402@
+  Primary names: Elmer /Davis/
+  Removed @I292531102696@: Elmer /Davis/
+  Reason: Matched: Elmer /Davis/ <-> Elmer /Davis/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 349: Kept @I292531362390@
+  Primary names: Myrtle Ivory /Davis/
+  Removed @I292531102665@: Myrtle Ivory /Davis/
+  Reason: Matched: Myrtle Ivory /Davis/ <-> Myrtle Ivory /Davis/ (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=0.67)
+  Confidence: 0.93
+
+Group 350: Kept @I292531362395@
+  Primary names: Mary Lillian /Davis/
+  Removed @I292531102690@: Mary Lillian /Davis/
+  Reason: Matched: Mary Lillian /Davis/ <-> Mary Lillian /Davis/ (name=1.00, birth_date=1.00, birth_place=1.00)
+  Confidence: 1.00
+
+Group 351: Kept @I292531835247@
+  Primary names: Priscilla /Spencer/
+  Removed @I292531835106@: Priscilla /Spencer/
+  Removed @I292531835092@: Priscilla /Spencer/
+  Removed @I292531835228@: Priscilla /Spencer/
+  Reason: Matched: Priscilla /Spencer/ <-> Priscilla /Spencer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Reason: Matched: Priscilla /Spencer/ <-> Priscilla /Spencer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Reason: Matched: Priscilla /Spencer/ <-> Priscilla /Spencer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Reason: Matched: Priscilla /Spencer/ <-> Priscilla /Spencer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Reason: Matched: Priscilla /Spencer/ <-> Priscilla /Spencer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Reason: Matched: Priscilla /Spencer/ <-> Priscilla /Spencer/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00)
+  Confidence: 0.85
+
+Group 352: Kept @I292531353863@
+  Primary names: Margerye Marjorie /Raynor Filmer Fylmer/
+  Removed @I292533350579@: Margerye Marjorie /Raynor Filmer Fylmer/
+  Reason: Matched: Margerye Marjorie /Raynor Filmer Fylmer/ <-> Margerye Marjorie /Raynor Filmer Fylmer/ (name=1.00, birth_date=0.70, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 0.94
+
+Group 353: Kept @I292531831520@
+  Primary names: Thomas /Falkener/
+  Removed @I292531831524@: Thomas /Falkener/
+  Reason: Matched: Thomas /Falkener/ <-> Thomas /Falkener/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=1.00)
+  Confidence: 0.88
+
+Group 354: Kept @I292531835097@
+  Primary names: John /FortnerFaulkner/
+  Removed @I292531835233@: John /FortnerFaulkner/
+  Reason: Matched: John /FortnerFaulkner/ <-> John /FortnerFaulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.87
+
+Group 355: Kept @I292531835096@
+  Primary names: Jane /FortnerFaulkner/
+  Removed @I292531835232@: Jane /FortnerFaulkner/
+  Reason: Matched: Jane /FortnerFaulkner/ <-> Jane /FortnerFaulkner/ (name=1.00, birth_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.88
+
+Group 356: Kept @I292531835103@
+  Primary names: Jonas /FortnerFaulkner/
+  Removed @I292531835245@: Jonas /FortnerFaulkner/
+  Reason: Matched: Jonas /FortnerFaulkner/ <-> Jonas /FortnerFaulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.87
+
+Group 357: Kept @I292531835095@
+  Primary names: Henry D /FortnerFaulkner/
+  Removed @I292531835231@: Henry D /FortnerFaulkner/
+  Reason: Matched: Henry D /FortnerFaulkner/ <-> Henry D /FortnerFaulkner/ (name=1.00, birth_date=1.00, death_date=0.70, birth_place=1.00, death_place=1.00, family=0.80)
+  Confidence: 0.92
+
+Group 358: Kept @I292531835229@
+  Primary names: Thos /FortnerFaulkner/
+  Removed @I292531835093@: Thos /FortnerFaulkner/
+  Reason: Matched: Thos /FortnerFaulkner/ <-> Thos /FortnerFaulkner/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, family=0.80)
+  Confidence: 0.84
+
+Group 359: Kept @I292531835108@
+  Primary names: Sarah /Terry/
+  Removed @I292531835248@: Sarah /Terry/
+  Reason: Matched: Sarah /Terry/ <-> Sarah /Terry/ (name=1.00, birth_date=0.70, birth_place=1.00)
+  Confidence: 0.90
+
+Group 360: Kept @I292531847724@
+  Primary names: Nancy Elizabeth /BURRIS/ va-e-ny
+  Removed @I292531847840@: Nancy Elizabeth /BURRIS/ va-e-ny
+  Removed @I292532444464@: Nancy Elizabeth /BURRIS/
+  Reason: Matched: Nancy Elizabeth /BURRIS/ va-e-ny <-> Nancy Elizabeth /BURRIS/ va-e-ny (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Nancy Elizabeth /BURRIS/ va-e-ny <-> Nancy Elizabeth /BURRIS/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Nancy Elizabeth /BURRIS/ va-e-ny <-> Nancy Elizabeth /BURRIS/ (name=1.00, birth_date=0.70, death_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.88
+
+Group 361: Kept @I292531847734@
+  Primary names: Rosamond /HALE HAIL/ Alab- -alab
+  Removed @I292531847846@: Rosamond /HALE HAIL/ Alab- -alab
+  Removed @I292532444474@: Rosamond /HALE HAIL/
+  Reason: Matched: Rosamond /HALE HAIL/ Alab- -alab <-> Rosamond /HALE HAIL/ Alab- -alab (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00, family=0.80)
+  Reason: Matched: Rosamond /HALE HAIL/ Alab- -alab <-> Rosamond /HALE HAIL/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Reason: Matched: Rosamond /HALE HAIL/ Alab- -alab <-> Rosamond /HALE HAIL/ (name=1.00, birth_date=0.70, birth_place=1.00, death_place=1.00)
+  Confidence: 0.93
+
+Group 362: Kept @I292531847747@
+  Primary names: Margaret /Isom/ va-va-alab
+  Removed @I292531847862@: Margaret /Isom/ va-va-alab
+  Reason: Matched: Margaret /Isom/ va-va-alab <-> Margaret /Isom/ va-va-alab (name=1.00, birth_date=1.00, death_date=1.00, birth_place=1.00, death_place=1.00)
+  Confidence: 1.00
+
+------------------------------------------------------------
+FAMILY MERGES
+------------------------------------------------------------
+
+  @F7@ -> @F4@
+  @F8@ -> @F9@
+  @F26@ -> @F9@
+  @F33@ -> @F4@
+  @F95@ -> @F93@
+  @F130@ -> @F129@
+  @F150@ -> @F145@
+  @F169@ -> @F9@
+  @F175@ -> @F4@
+  @F5@ -> @F184@
+  @F6@ -> @F185@
+  @F186@ -> @F4@
+  @F195@ -> @F194@
+  @F106@ -> @F213@
+  @F32@ -> @F219@
+  @F112@ -> @F230@
+  @F108@ -> @F241@
+  @F257@ -> @F250@
+  @F59@ -> @F273@
+  @F189@ -> @F291@
+  @F141@ -> @F292@
+  @F296@ -> @F138@
+  @F127@ -> @F308@
+  @F334@ -> @F4@
+  @F168@ -> @F354@
+  @F365@ -> @F366@
+  @F370@ -> @F352@
+  @F101@ -> @F374@
+  @F375@ -> @F230@
+  @F383@ -> @F378@
+  @F332@ -> @F392@
+  @F379@ -> @F394@
+  @F378@ -> @F395@
+  @F396@ -> @F395@
+  @F382@ -> @F397@
+  @F344@ -> @F409@
+  @F412@ -> @F283@
+  @F416@ -> @F177@
+  @F427@ -> @F24@
+  @F132@ -> @F430@
+  @F372@ -> @F435@
+  @F438@ -> @F230@
+  @F430@ -> @F442@
+  @F443@ -> @F425@
+  @F434@ -> @F445@
+  @F261@ -> @F457@
+  @F458@ -> @F221@
+  @F62@ -> @F460@
+  @F446@ -> @F462@
+  @F58@ -> @F477@
+  @F546@ -> @F563@
+  @F564@ -> @F565@
+  @F503@ -> @F575@
+  @F556@ -> @F576@
