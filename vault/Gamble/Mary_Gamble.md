@@ -4,7 +4,7 @@ name: "Mary Gamble"
 born: 1724
 died: 
 family: "Gamble"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

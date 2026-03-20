@@ -4,7 +4,7 @@ name: "Paul Kellum"
 born: 1901
 died: 
 family: "Kellum"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

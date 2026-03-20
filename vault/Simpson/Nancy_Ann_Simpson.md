@@ -4,7 +4,7 @@ name: "Nancy Ann Simpson"
 born: 9 Sept 1852
 died: 1897-10-17
 family: "Simpson"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

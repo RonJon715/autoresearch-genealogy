@@ -4,7 +4,7 @@ name: "George Monroe"
 born: 
 died: 
 family: "Monroe"
-confidence: low
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

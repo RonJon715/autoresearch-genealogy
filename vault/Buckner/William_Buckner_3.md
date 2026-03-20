@@ -4,7 +4,7 @@ name: "William Buckner"
 born: 
 died: 
 family: "Buckner"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

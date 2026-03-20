@@ -4,7 +4,7 @@ name: "Martha Faulkner"
 born: 1934
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: high
 sources:
   - "Tennessee, U.S., Marriage Records, 1780-2002"
   - "Tennessee State Library and Archives; Nashville, TN, USA; Tennessee State Marriages, 1780-2002"

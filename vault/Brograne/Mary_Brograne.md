@@ -4,7 +4,7 @@ name: "Mary Brograne"
 born: 1605
 died: 1669
 family: "Brograne"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

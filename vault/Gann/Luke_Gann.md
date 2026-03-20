@@ -4,7 +4,7 @@ name: "Luke Gann"
 born: 
 died: 
 family: "Gann"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

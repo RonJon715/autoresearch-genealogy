@@ -4,7 +4,7 @@ name: "Meree Hale"
 born: 1912
 died: 
 family: "Hale"
-confidence: moderate
+confidence: low
 sources:
   - "1920 United States Federal Census"
 created: 2026-03-20

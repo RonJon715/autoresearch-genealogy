@@ -4,7 +4,7 @@ name: "David Forde"
 born: 
 died: 
 family: "Forde"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

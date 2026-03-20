@@ -4,7 +4,7 @@ name: "Thomas Langford I"
 born: 1643
 died: 1705
 family: "Langford I"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

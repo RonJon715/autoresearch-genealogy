@@ -4,7 +4,7 @@ name: "John Fullerton"
 born: 1528
 died: 1583
 family: "Fullerton"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

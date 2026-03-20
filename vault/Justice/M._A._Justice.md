@@ -4,7 +4,7 @@ name: "M. A. Justice"
 born: 1826
 died: 1901
 family: "Justice"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

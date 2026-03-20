@@ -4,7 +4,7 @@ name: "George BOX"
 born: 1700
 died: 1806
 family: "BOX"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

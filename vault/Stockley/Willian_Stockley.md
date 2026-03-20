@@ -4,7 +4,7 @@ name: "Willian Stockley"
 born: 
 died: 
 family: "Stockley"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

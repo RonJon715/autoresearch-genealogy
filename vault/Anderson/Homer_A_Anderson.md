@@ -4,7 +4,7 @@ name: "Homer A Anderson"
 born: 1894
 died: 31 August 1973
 family: "Anderson"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

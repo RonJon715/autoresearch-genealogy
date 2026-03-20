@@ -4,7 +4,7 @@ name: "Delois Faulkner"
 born: 1925
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: high
 sources:
   - "1940 United States Federal Census"
   - "1930 United States Federal Census"

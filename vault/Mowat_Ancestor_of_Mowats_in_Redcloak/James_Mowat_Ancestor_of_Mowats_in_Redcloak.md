@@ -4,7 +4,7 @@ name: "James Mowat (Ancestor of Mowats in Redcloak)"
 born: 1525
 died: 1612-02-03
 family: "Mowat (Ancestor of Mowats in Redcloak)"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Magdalena MNU"
 born: 
 died: 
 family: "MNU"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

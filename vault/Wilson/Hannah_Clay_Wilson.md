@@ -4,7 +4,7 @@ name: "Hannah (Clay) Wilson"
 born: 1642-01
 died: 1706-08-02
 family: "Wilson"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

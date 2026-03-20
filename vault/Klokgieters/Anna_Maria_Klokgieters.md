@@ -4,7 +4,7 @@ name: "Anna Maria Klokgieters"
 born: 1720-05-13
 died: 1800-02-19
 family: "Klokgieters"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Abigail Bacon Smith"
 born: 11 March 1656
 died: 12 November 1692
 family: "Smith"
-confidence: high
+confidence: low
 sources:
   - "Geneanet Community Trees Index"
 created: 2026-03-20

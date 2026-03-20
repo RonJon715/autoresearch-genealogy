@@ -4,7 +4,7 @@ name: "Jane Lightfoot"
 born: 1697-12-03
 died: 1786
 family: "Lightfoot"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

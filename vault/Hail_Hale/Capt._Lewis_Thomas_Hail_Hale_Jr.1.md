@@ -4,7 +4,7 @@ name: "Capt. Lewis Thomas Hail, Hale Jr.(1*)"
 born: 1781-05-14
 died: 1842-05-24
 family: "Hail, Hale"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

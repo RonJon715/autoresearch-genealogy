@@ -4,7 +4,7 @@ name: "Hiram Frank Faulkner"
 born: 1864
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

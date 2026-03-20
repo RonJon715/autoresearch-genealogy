@@ -4,7 +4,7 @@ name: "Margaret Allison"
 born: 1603
 died: 1661
 family: "Allison"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

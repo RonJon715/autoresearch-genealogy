@@ -4,7 +4,7 @@ name: "William Grahame II Laird of Polder Duchray and Glennie; 1st Earl of Sterl
 born: 1560
 died: 1616-01-09
 family: "Grahame II Laird of Polder Duchray and Glennie; 1st Earl of Sterling"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

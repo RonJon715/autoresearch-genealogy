@@ -4,7 +4,7 @@ name: "Josiah Maxey Sr"
 born: 1739-08-02
 died: 1793
 family: "Maxey"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

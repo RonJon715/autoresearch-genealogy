@@ -4,7 +4,7 @@ name: "Elizabeth Jordan"
 born: 1643-11-09
 died: 1683-11-09
 family: "Jordan"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

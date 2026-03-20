@@ -4,7 +4,7 @@ name: "Elizabeth Heath Parsons"
 born: 1715
 died: December 23, 1810
 family: "Parsons"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Anthony Smith"
 born: 1630
 died: 1667
 family: "Smith"
-confidence: moderate
+confidence: low
 sources:
   - "Geneanet Community Trees Index"
 created: 2026-03-20

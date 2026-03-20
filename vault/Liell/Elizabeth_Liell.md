@@ -4,7 +4,7 @@ name: "Elizabeth Liell"
 born: 1584
 died: 1633-02-06
 family: "Liell"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

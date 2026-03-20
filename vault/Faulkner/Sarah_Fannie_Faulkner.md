@@ -4,7 +4,7 @@ name: "Sarah Fannie Faulkner"
 born: 1867
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "Walter Justinian Maxey Sr. Pvt. Revolutionary War"
 born: 1716
 died: 1791
 family: "Maxey Sr. Pvt. Revolutionary War"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

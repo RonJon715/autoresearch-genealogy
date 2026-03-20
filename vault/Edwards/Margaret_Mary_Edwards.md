@@ -4,7 +4,7 @@ name: "Margaret Mary Edwards"
 born: 1564
 died: Aft. 1605
 family: "Edwards"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

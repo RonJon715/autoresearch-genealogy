@@ -4,7 +4,7 @@ name: "Samuel Pottes"
 born: 
 died: 
 family: "Pottes"
-confidence: low
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

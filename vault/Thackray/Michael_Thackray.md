@@ -4,7 +4,7 @@ name: "Michael Thackray"
 born: 1701-02-19
 died: 1761-12-15
 family: "Thackray"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

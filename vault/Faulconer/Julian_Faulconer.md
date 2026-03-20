@@ -4,7 +4,7 @@ name: "Julian Faulconer"
 born: 
 died: 
 family: "Faulconer"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

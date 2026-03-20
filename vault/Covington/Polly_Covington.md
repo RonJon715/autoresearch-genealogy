@@ -4,7 +4,7 @@ name: "Polly Covington"
 born: 
 died: 
 family: "Covington"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

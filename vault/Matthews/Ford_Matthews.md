@@ -4,7 +4,7 @@ name: "Ford Matthews"
 born: 1761
 died: 03 June 1855
 family: "Matthews"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

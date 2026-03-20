@@ -4,7 +4,7 @@ name: "Sallie Sutherland"
 born: 
 died: 
 family: "Sutherland"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

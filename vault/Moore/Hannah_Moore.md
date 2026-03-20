@@ -4,7 +4,7 @@ name: "Hannah Moore"
 born: 1627-12-29
 died: 1686-02-16
 family: "Moore"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

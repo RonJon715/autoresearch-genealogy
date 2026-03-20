@@ -4,7 +4,7 @@ name: "Peter Tyler II"
 born: 20 January 1673
 died: 12 July 1744
 family: "Tyler"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

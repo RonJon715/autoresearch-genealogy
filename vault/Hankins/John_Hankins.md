@@ -4,7 +4,7 @@ name: "John Hankins"
 born: 1657
 died: 1718
 family: "Hankins"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

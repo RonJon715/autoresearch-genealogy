@@ -4,7 +4,7 @@ name: "Jason Scott Strojinc"
 born: Sep 6 1976
 died: 
 family: "Strojinc"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

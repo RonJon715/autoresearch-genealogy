@@ -4,7 +4,7 @@ name: "Hanna Pease"
 born: 1655-05
 died: 
 family: "Pease"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

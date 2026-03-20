@@ -4,7 +4,7 @@ name: "Seldon Welch Jr"
 born: Abt. 1930
 died: 
 family: "Welch"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

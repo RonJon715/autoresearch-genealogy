@@ -4,7 +4,7 @@ name: "William Darnall"
 born: 
 died: 
 family: "Darnall"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

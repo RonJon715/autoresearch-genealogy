@@ -4,7 +4,7 @@ name: "Abigail Garland"
 born: 
 died: 
 family: "Garland"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

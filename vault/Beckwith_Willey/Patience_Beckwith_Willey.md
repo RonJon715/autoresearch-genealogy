@@ -4,7 +4,7 @@ name: "Patience (Beckwith) Willey"
 born: 1718-06-01
 died: 1800-12-09
 family: "(Beckwith) Willey"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "William Briley"
 born: 1740
 died: 1800
 family: "Briley"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

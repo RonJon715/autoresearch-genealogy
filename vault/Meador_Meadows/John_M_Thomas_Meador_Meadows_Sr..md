@@ -4,7 +4,7 @@ name: "John M Thomas Meador Meadows Sr."
 born: 1658-07-31
 died: 21 November 1721
 family: "Meador Meadows"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

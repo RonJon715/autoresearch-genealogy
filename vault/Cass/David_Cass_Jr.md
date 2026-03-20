@@ -4,7 +4,7 @@ name: "David Cass Jr"
 born: 1722-05-27
 died: 30 November
 family: "Cass"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

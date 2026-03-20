@@ -4,7 +4,7 @@ name: "Sarah Monroe , Kitchen"
 born: 
 died: 
 family: "Monroe , Kitchen"
-confidence: low
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

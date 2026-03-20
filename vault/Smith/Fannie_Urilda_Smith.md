@@ -4,7 +4,7 @@ name: "Fannie Urilda Smith"
 born: 1842
 died: 
 family: "Smith"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

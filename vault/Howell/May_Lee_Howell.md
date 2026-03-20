@@ -4,7 +4,7 @@ name: "May Lee Howell"
 born: 1888-11-08
 died: 1969-03-21
 family: "Howell"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

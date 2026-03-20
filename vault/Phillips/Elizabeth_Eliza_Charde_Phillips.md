@@ -4,7 +4,7 @@ name: "Elizabeth (Eliza) Charde Phillips"
 born: 1625
 died: 1669
 family: "Phillips"
-confidence: high
+confidence: low
 sources:
   - "Geneanet Community Trees Index"
 created: 2026-03-20

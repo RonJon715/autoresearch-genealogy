@@ -4,7 +4,7 @@ name: "Joannes Franciscus Meador"
 born: 1697-06-10
 died: 1768-05-05
 family: "Meador"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

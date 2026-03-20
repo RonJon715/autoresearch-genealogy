@@ -4,7 +4,7 @@ name: "Elizabeth Hardy"
 born: 1640
 died: 1745
 family: "Hardy"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

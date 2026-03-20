@@ -4,7 +4,7 @@ name: "Richard Strojinc"
 born: 
 died: 
 family: "Strojinc"
-confidence: low
+confidence: high
 sources:
   - "Wisconsin, U.S., Marriage Records, 1820-2004"
   - "Wisconsin Department of Health Services; Madison, Wisconsin"

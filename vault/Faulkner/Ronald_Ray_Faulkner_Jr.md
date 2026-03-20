@@ -4,7 +4,7 @@ name: "Ronald Ray Faulkner Jr"
 born: 1982-07-15
 died: 
 family: "Faulkner"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

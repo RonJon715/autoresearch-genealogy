@@ -4,7 +4,7 @@ name: "Ann Forkner"
 born: 
 died: 
 family: "Forkner"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

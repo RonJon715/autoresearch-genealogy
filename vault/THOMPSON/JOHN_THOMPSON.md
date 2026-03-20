@@ -4,7 +4,7 @@ name: "*JOHN THOMPSON^"
 born: 30 January 1577
 died: 6 November 1626
 family: "THOMPSON^"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

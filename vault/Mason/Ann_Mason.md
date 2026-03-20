@@ -4,7 +4,7 @@ name: "Ann Mason"
 born: 
 died: 
 family: "Mason"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

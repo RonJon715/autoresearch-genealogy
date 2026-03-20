@@ -4,7 +4,7 @@ name: "Clyde C Faulkner"
 born: 1932
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: low
 sources:
   - "1950 United States Federal Census"
 created: 2026-03-20

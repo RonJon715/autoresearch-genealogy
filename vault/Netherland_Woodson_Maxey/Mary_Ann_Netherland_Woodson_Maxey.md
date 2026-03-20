@@ -4,7 +4,7 @@ name: "Mary Ann Netherland, Woodson Maxey"
 born: 1719
 died: 1799-05-20
 family: "Netherland, Woodson Maxey"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

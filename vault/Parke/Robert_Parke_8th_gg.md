@@ -4,7 +4,7 @@ name: "Robert Parke 8th gg"
 born: 15 February 1651
 died: 1707-09-11
 family: "Parke"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

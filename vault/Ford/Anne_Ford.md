@@ -4,7 +4,7 @@ name: "Anne Ford"
 born: 
 died: 
 family: "Ford"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

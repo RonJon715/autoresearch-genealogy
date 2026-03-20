@@ -4,7 +4,7 @@ name: "Nathan Franklin"
 born: 
 died: 
 family: "Franklin"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

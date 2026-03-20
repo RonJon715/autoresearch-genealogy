@@ -4,7 +4,7 @@ name: "Mary Nancy Burroughs"
 born: 1776
 died: 1832-02
 family: "Burroughs"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

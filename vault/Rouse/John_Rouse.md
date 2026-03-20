@@ -4,7 +4,7 @@ name: "John Rouse"
 born: 1579
 died: 1636
 family: "Rouse"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

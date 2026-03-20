@@ -4,7 +4,7 @@ name: "Dorothy Thompson"
 born: 1624-07-05
 died: 30 July 1709
 family: "Thompson"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

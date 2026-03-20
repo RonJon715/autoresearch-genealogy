@@ -4,7 +4,7 @@ name: "Smith"
 born: 
 died: 
 family: "Smith"
-confidence: low
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

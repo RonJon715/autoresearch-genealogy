@@ -4,7 +4,7 @@ name: "DOROTHY PARKE WOODWARD"
 born: 1704-04-15
 died: 1748-05-18
 family: "PARKE"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

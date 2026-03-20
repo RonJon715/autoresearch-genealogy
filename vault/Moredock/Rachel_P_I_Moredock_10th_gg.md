@@ -4,7 +4,7 @@ name: "Rachel P I Moredock 10th gg"
 born: 1627
 died: 1687
 family: "Moredock"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

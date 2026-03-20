@@ -4,7 +4,7 @@ name: "Sir Robert Edward Bishopp, 2nd Baronet of Parham"
 born: 1550
 died: 1649-01-13
 family: "Bishopp, 2nd Baronet of Parham"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

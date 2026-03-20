@@ -4,7 +4,7 @@ name: "Sir Archibald 1st Baronet or Blackhall Stewart"
 born: 1589
 died: 8 March 1665
 family: "Stewart"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

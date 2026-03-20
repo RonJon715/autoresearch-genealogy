@@ -4,7 +4,7 @@ name: "Anna Maria Wintrich"
 born: 1702-03-09
 died: 1772-05-06
 family: "Wintrich"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

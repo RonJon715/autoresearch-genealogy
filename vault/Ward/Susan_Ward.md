@@ -4,7 +4,7 @@ name: "Susan Ward"
 born: 1626-11
 died: 1659
 family: "Ward"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

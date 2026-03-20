@@ -4,7 +4,7 @@ name: "Thomas Ward"
 born: 1576-02
 died: 1637
 family: "Ward"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

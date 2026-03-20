@@ -4,7 +4,7 @@ name: "Seldon Welch SR"
 born: 1890-02-12
 died: 13 June 1960
 family: "Welch"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

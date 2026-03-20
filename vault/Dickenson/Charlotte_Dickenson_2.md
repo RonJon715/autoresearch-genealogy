@@ -4,7 +4,7 @@ name: "Charlotte Dickenson"
 born: 
 died: 
 family: "Dickenson"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

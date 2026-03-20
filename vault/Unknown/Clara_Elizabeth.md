@@ -4,7 +4,7 @@ name: "Clara Elizabeth"
 born: 1570
 died: 1638
 family: "Unknown"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

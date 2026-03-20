@@ -4,7 +4,7 @@ name: "Nancy T McKinney"
 born: 
 died: 
 family: "McKinney"
-confidence: low
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

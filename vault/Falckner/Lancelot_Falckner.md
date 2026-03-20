@@ -4,7 +4,7 @@ name: "Lancelot Falckner"
 born: 1598
 died: 
 family: "Falckner"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "James Briley"
 born: 1780
 died: 1834
 family: "Briley"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

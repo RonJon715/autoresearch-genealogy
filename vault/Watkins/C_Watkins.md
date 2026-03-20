@@ -4,7 +4,7 @@ name: "C Watkins"
 born: 1888-12
 died: 
 family: "Watkins"
-confidence: moderate
+confidence: low
 sources:
   - "1900 United States Federal Census"
 created: 2026-03-20

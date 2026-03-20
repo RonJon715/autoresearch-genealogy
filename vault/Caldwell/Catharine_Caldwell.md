@@ -4,7 +4,7 @@ name: "Catharine Caldwell"
 born: 4 September 1691
 died: 1763
 family: "Caldwell"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

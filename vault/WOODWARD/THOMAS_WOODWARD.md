@@ -4,7 +4,7 @@ name: "THOMAS WOODWARD"
 born: 1704
 died: 1778-07
 family: "WOODWARD"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

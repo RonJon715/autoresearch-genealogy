@@ -4,7 +4,7 @@ name: "Grace STEVENS Frink Jr (9th GGM)"
 born: 24 January 1633
 died: 1717-05-07
 family: "Frink Jr (9th GGM)"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

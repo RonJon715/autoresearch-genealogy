@@ -4,7 +4,7 @@ name: "Ruby Faulkner"
 born: 8 Feb 41
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: high
 sources:
   - "U.S. WWII Draft Cards Young Men, 1940-1947"
   - "The National Archives in St. Louis, Missouri; St. Louis, Missouri; Record Group: Records of the Selective Service System, 147; Box: 48"

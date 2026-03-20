@@ -4,7 +4,7 @@ name: "Clara Adara Meador"
 born: 1715
 died: 1757
 family: "Meador"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

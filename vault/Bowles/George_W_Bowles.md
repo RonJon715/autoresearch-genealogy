@@ -4,7 +4,7 @@ name: "George W Bowles"
 born: 1753
 died: 7 June 1824
 family: "Bowles"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Frederick Joseph Bourne"
 born: 
 died: 
 family: "Bourne"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

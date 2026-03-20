@@ -4,7 +4,7 @@ name: "Eliz Faulkner"
 born: 
 died: 
 family: "Faulkner"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

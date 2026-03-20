@@ -4,7 +4,7 @@ name: "Charity Ann Hughes"
 born: 1738-08-20
 died: 1799-09-16
 family: "Hughes"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

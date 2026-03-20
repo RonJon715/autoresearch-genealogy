@@ -4,7 +4,7 @@ name: "Agnes Ramsay"
 born: 1717
 died: 1 April 1779
 family: "Ramsay"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

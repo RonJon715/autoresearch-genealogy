@@ -4,7 +4,7 @@ name: "Cecilia Reynolds"
 born: 1549
 died: 1584
 family: "Reynolds"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

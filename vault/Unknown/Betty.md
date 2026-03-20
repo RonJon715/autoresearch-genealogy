@@ -4,7 +4,7 @@ name: "Betty"
 born: 1952-09-24
 died: 
 family: "Unknown"
-confidence: moderate
+confidence: low
 sources:
   - "Illinois, Federal Naturalization Records, 1856-1991"
 created: 2026-03-20

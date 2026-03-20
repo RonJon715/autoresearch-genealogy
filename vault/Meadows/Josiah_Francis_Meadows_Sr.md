@@ -4,7 +4,7 @@ name: "Josiah Francis Meadows Sr"
 born: 14 July 1738
 died: 7 January 1836
 family: "Meadows"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

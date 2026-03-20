@@ -4,7 +4,7 @@ name: "William Adams"
 born: 
 died: 
 family: "Adams"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

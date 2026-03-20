@@ -4,7 +4,7 @@ name: "William Stewart"
 born: 
 died: 
 family: "Stewart"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

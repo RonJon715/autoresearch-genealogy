@@ -4,7 +4,7 @@ name: "Isobal Mowat"
 born: 1552
 died: 1 August 1650
 family: "Mowat"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

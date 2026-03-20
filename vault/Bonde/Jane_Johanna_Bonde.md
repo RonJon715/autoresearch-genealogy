@@ -4,7 +4,7 @@ name: "Jane Johanna Bonde"
 born: 1509
 died: 1576
 family: "Bonde"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Lewis Fairfield Burwell II Major .  7MGF"
 born: 1649
 died: 1710-12-19
 family: "Burwell II Major .  7MGF"
-confidence: high
+confidence: low
 sources:
   - "Geneanet Community Trees Index"
 created: 2026-03-20

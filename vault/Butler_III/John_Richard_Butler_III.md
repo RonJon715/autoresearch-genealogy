@@ -4,7 +4,7 @@ name: "John Richard Butler III"
 born: 1525
 died: 1560-06-24
 family: "Butler III"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

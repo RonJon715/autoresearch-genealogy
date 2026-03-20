@@ -4,7 +4,7 @@ name: "Mary Francis Standish"
 born: 1659-08-17
 died: 1721-10-17
 family: "Standish"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

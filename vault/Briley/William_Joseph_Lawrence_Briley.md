@@ -4,7 +4,7 @@ name: "William Joseph Lawrence Briley"
 born: 1721-09-09
 died: 1800
 family: "Briley"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

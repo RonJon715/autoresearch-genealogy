@@ -4,7 +4,7 @@ name: "Elizabeth Kortright"
 born: 30 June 1768
 died: 23 September 1830
 family: "Kortright"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "John Knatchbull Snr"
 born: 1582
 died: 1634-03
 family: "Knatchbull"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

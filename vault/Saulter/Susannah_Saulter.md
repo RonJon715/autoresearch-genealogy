@@ -4,7 +4,7 @@ name: "Susannah Saulter"
 born: 1764
 died: 1839
 family: "Saulter"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

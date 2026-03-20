@@ -4,7 +4,7 @@ name: "*Thomas Pope"
 born: 1639
 died: 1685
 family: "Pope"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

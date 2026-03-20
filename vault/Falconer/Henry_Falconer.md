@@ -4,7 +4,7 @@ name: "Henry Falconer"
 born: 
 died: 
 family: "Falconer"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

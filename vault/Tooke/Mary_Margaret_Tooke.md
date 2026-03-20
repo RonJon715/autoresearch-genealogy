@@ -4,7 +4,7 @@ name: "Mary Margaret Tooke"
 born: 1577
 died: 1650
 family: "Tooke"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

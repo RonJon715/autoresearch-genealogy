@@ -4,7 +4,7 @@ name: "Sarah Box"
 born: 1765
 died: 1853-12-18
 family: "Box"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

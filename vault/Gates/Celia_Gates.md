@@ -4,7 +4,7 @@ name: "Celia Gates"
 born: 
 died: 
 family: "Gates"
-confidence: low
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

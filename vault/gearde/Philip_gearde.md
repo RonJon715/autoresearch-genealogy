@@ -4,7 +4,7 @@ name: "Philip gearde"
 born: 1559
 died: 1627
 family: "gearde"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

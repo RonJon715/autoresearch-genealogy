@@ -4,7 +4,7 @@ name: "Thomas Deacon Parke"
 born: 13 February 1616
 died: 30 July 1709
 family: "Parke"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

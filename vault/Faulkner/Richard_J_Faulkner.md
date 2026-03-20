@@ -4,7 +4,7 @@ name: "Richard J Faulkner"
 born: Bef. 30 Nov 1600
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

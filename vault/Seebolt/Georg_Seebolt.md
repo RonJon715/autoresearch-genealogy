@@ -4,7 +4,7 @@ name: "Georg Seebolt"
 born: 
 died: 
 family: "Seebolt"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

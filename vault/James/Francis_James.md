@@ -4,7 +4,7 @@ name: "Francis James"
 born: 1565
 died: 1629-07-20
 family: "James"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

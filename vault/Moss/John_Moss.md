@@ -4,7 +4,7 @@ name: "John Moss"
 born: 11 January 1638
 died: 31 March 1708
 family: "Moss"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

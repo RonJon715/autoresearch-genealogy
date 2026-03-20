@@ -4,7 +4,7 @@ name: "Rosie Welch"
 born: 1914
 died: 
 family: "Welch"
-confidence: moderate
+confidence: low
 sources:
   - "U.S., Tennessee Valley, Family Removal and Population Readjustment Case Files, 1934-1953"
 created: 2026-03-20

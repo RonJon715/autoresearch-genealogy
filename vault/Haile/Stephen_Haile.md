@@ -4,7 +4,7 @@ name: "Stephen Haile"
 born: 
 died: 
 family: "Haile"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

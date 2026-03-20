@@ -4,7 +4,7 @@ name: "Lucy E Hale"
 born: 1871
 died: 
 family: "Hale"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

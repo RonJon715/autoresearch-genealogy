@@ -4,7 +4,7 @@ name: "Thomas Busby (Buzbee)"
 born: 1574-11-17
 died: 1631-05-26
 family: "Busby (Buzbee)"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

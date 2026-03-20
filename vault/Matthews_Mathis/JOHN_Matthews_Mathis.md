@@ -4,7 +4,7 @@ name: "JOHN Matthews (Mathis)"
 born: 1740-03-15
 died: 1808
 family: "Matthews (Mathis)"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Margaret Fowler"
 born: 1695
 died: 1746
 family: "Fowler"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

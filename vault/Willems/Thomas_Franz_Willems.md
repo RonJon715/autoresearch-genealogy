@@ -4,7 +4,7 @@ name: "Thomas Franz Willems"
 born: 1720-08-14
 died: 1790
 family: "Willems"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

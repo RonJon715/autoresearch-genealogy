@@ -4,7 +4,7 @@ name: "Mary James"
 born: 1560
 died: 21 April 1626
 family: "James"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

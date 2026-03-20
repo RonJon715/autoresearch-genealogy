@@ -4,7 +4,7 @@ name: "Frederlch"
 born: 1903-07-19
 died: 1981-07-24
 family: "Unknown"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "James Ezekiel Mathis Matthews"
 born: 1670
 died: 21 March 1738
 family: "Mathis Matthews"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

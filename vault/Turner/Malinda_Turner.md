@@ -4,7 +4,7 @@ name: "Malinda Turner"
 born: Abt. 1812
 died: 1890-12-09
 family: "Turner"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

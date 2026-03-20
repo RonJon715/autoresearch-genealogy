@@ -4,7 +4,7 @@ name: "Author Faulkner"
 born: 1880
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

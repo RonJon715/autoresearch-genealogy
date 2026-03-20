@@ -4,7 +4,7 @@ name: "Nicholas Ewen"
 born: 
 died: 
 family: "Ewen"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

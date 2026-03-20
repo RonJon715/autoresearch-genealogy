@@ -4,7 +4,7 @@ name: "Joan Neale"
 born: 10 November 1570
 died: 20 June 1607
 family: "Neale"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

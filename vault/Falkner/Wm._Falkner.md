@@ -4,7 +4,7 @@ name: "Wm. Falkner"
 born: 
 died: 
 family: "Falkner"
-confidence: stub
+confidence: moderate
 sources:
   - "Maryland, U.S., Wills and Probate Records, 1635-1777"
   - "Will Books; Author: Maryland. Prerogative Court"

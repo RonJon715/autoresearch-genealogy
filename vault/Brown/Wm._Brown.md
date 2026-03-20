@@ -4,7 +4,7 @@ name: "Wm. Brown"
 born: 
 died: 
 family: "Brown"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

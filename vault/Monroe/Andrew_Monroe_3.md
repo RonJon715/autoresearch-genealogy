@@ -4,7 +4,7 @@ name: "Andrew Monroe"
 born: 
 died: 
 family: "Monroe"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "John Thomas Medows"
 born: 1622-04-07
 died: 1697-03-01
 family: "Medows"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

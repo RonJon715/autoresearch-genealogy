@@ -4,7 +4,7 @@ name: "Matthye Allyson"
 born: 
 died: 1607
 family: "Allyson"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

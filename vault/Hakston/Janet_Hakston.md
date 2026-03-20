@@ -4,7 +4,7 @@ name: "Janet Hakston"
 born: 
 died: 
 family: "Hakston"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

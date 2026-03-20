@@ -4,7 +4,7 @@ name: "Lucy Hale"
 born: 
 died: 
 family: "Hale"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

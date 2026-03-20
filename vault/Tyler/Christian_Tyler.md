@@ -4,7 +4,7 @@ name: "Christian Tyler"
 born: 
 died: 
 family: "Tyler"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

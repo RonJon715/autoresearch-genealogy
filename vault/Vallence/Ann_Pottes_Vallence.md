@@ -4,7 +4,7 @@ name: "Ann  (Pottes) Vallence"
 born: 
 died: 
 family: "Vallence"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "William Mitchell Clay Sr"
 born: 15 January 1708
 died: 6 September 1774
 family: "Clay"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

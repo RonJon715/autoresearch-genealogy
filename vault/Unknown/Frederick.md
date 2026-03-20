@@ -4,7 +4,7 @@ name: "Frederick"
 born: 1954-07-12
 died: 
 family: "Unknown"
-confidence: moderate
+confidence: low
 sources:
   - "Illinois, Federal Naturalization Records, 1856-1991"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Martha Ann Lewis"
 born: 1712-02-14
 died: 1764-01-01
 family: "Lewis"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

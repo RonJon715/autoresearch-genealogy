@@ -4,7 +4,7 @@ name: "Elizabeth Stent (Tyler)"
 born: 1676-09-25
 died: 1732-06-17
 family: "Stent (Tyler)"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

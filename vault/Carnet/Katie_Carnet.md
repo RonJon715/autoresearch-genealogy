@@ -4,7 +4,7 @@ name: "Katie Carnet"
 born: 
 died: 
 family: "Carnet"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

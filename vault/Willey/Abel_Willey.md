@@ -4,7 +4,7 @@ name: "Abel Willey"
 born: 1709-08-28
 died: 1752-08-09
 family: "Willey"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

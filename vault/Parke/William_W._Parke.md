@@ -4,7 +4,7 @@ name: "William W. Parke"
 born: 1654-10-08
 died: 1727-10-10
 family: "Parke"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

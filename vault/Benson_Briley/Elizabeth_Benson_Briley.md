@@ -4,7 +4,7 @@ name: "Elizabeth Benson  Briley"
 born: 1660-09-09
 died: 
 family: "Benson  Briley"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

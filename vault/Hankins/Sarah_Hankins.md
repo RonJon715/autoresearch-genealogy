@@ -4,7 +4,7 @@ name: "Sarah Hankins"
 born: 1695
 died: 1745-03-14
 family: "Hankins"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

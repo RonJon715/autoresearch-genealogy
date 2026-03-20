@@ -4,7 +4,7 @@ name: "Clyde Hale"
 born: 1908
 died: 
 family: "Hale"
-confidence: moderate
+confidence: low
 sources:
   - "1920 United States Federal Census"
 created: 2026-03-20

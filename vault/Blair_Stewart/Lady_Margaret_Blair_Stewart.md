@@ -4,7 +4,7 @@ name: "Lady Margaret Blair (Stewart)"
 born: 1596
 died: 1624
 family: "Blair (Stewart)"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

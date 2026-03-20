@@ -4,7 +4,7 @@ name: "Gene Dunbar"
 born: 
 died: 
 family: "Dunbar"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

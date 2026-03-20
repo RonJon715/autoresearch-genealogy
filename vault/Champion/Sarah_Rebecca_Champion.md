@@ -4,7 +4,7 @@ name: "Sarah Rebecca Champion"
 born: 1649
 died: 31 March 1727
 family: "Champion"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

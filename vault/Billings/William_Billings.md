@@ -4,7 +4,7 @@ name: "William Billings"
 born: 1602
 died: 1683-11-15
 family: "Billings"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

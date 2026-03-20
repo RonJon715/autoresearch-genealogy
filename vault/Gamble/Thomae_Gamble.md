@@ -4,7 +4,7 @@ name: "Thomae Gamble"
 born: 1700-11-26
 died: 
 family: "Gamble"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

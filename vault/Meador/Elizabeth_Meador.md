@@ -4,7 +4,7 @@ name: "Elizabeth Meador"
 born: 
 died: 
 family: "Meador"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

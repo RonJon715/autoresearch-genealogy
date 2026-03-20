@@ -4,7 +4,7 @@ name: "Anne (Peabody) Rouse Deacon"
 born: 1615
 died: 1695
 family: "Rouse Deacon"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

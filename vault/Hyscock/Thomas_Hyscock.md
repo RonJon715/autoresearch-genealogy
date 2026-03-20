@@ -4,7 +4,7 @@ name: "Thomas Hyscock"
 born: 1567-06-25
 died: 1611-05-01
 family: "Hyscock"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Lear Mitchell"
 born: 
 died: 
 family: "Mitchell"
-confidence: stub
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

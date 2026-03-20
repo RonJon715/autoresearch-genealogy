@@ -4,7 +4,7 @@ name: "George Briley"
 born: 1760
 died: 1818-02-09
 family: "Briley"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

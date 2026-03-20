@@ -4,7 +4,7 @@ name: "Mary Willis"
 born: 
 died: 
 family: "Willis"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

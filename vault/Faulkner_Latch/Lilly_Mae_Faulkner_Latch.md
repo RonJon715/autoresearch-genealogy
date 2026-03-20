@@ -4,7 +4,7 @@ name: "Lilly Mae Faulkner Latch"
 born: 1920
 died: 
 family: "Faulkner Latch"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "Lenora Smith"
 born: 1834
 died: 
 family: "Smith"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

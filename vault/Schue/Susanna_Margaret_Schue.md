@@ -4,7 +4,7 @@ name: "Susanna Margaret Schue"
 born: 1678
 died: 1723-11-14
 family: "Schue"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

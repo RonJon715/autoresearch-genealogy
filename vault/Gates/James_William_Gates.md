@@ -4,7 +4,7 @@ name: "James William Gates"
 born: 
 died: 
 family: "Gates"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

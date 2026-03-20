@@ -4,7 +4,7 @@ name: "Tip Christian"
 born: 
 died: 
 family: "Christian"
-confidence: stub
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

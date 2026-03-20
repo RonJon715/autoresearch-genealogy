@@ -4,7 +4,7 @@ name: "Maria Hedrich"
 born: 1927-04-28
 died: 
 family: "Hedrich"
-confidence: moderate
+confidence: high
 sources:
   - "U.S. Public Records Index, 1950-1993, Volume 1"
   - "Northern District, Illinois, U.S., Naturalization Index, 1926-1979"

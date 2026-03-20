@@ -4,7 +4,7 @@ name: "Mary Cass"
 born: 1752-06-14
 died: 1794-09-17
 family: "Cass"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

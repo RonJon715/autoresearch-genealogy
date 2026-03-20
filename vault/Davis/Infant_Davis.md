@@ -4,7 +4,7 @@ name: "Infant Davis"
 born: 
 died: 
 family: "Davis"
-confidence: low
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

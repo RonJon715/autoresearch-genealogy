@@ -4,7 +4,7 @@ name: "Edward Stiff"
 born: 
 died: 
 family: "Stiff"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

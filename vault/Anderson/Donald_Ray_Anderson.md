@@ -4,7 +4,7 @@ name: "Donald Ray Anderson"
 born: 1957-02-20
 died: 
 family: "Anderson"
-confidence: moderate
+confidence: low
 sources:
   - "Tennessee, U.S., Marriage Records, 1780-2002"
 created: 2026-03-20

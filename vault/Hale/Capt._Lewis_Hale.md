@@ -4,7 +4,7 @@ name: "Capt. Lewis Hale"
 born: Unknown
 died: Unknown
 family: "Hale"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

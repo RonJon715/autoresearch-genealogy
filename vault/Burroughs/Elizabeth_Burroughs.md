@@ -4,7 +4,7 @@ name: "Elizabeth Burroughs"
 born: 1777
 died: November 1850
 family: "Burroughs"
-confidence: moderate
+confidence: low
 sources:
   - "Geneanet Community Trees Index"
 created: 2026-03-20

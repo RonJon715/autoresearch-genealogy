@@ -4,7 +4,7 @@ name: "Jane Thackrey"
 born: 1725-08-27
 died: 1771
 family: "Thackrey"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

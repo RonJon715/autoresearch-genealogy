@@ -4,7 +4,7 @@ name: "William Henry Moore"
 born: 1605-04
 died: 
 family: "Moore"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

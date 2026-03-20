@@ -4,7 +4,7 @@ name: "Major Edward William Phillips"
 born: 1602
 died: 1683-11-13
 family: "Phillips"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

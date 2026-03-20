@@ -4,7 +4,7 @@ name: "Lewis Fairfield I #6532 Burwell, son of Edward Houghton Burwell II, #1hus
 born: 5 March 1621
 died: 19 November 1653
 family: "Burwell, son of Edward Houghton Burwell II, #1husb of Lucy Higginson"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

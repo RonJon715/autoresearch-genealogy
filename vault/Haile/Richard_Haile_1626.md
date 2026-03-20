@@ -4,7 +4,7 @@ name: "Richard Haile"
 born: 1626-06-26
 died: 1697
 family: "Haile"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

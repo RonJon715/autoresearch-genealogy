@@ -4,7 +4,7 @@ name: "Thomas Alverd"
 born: 1490
 died: 1550
 family: "Alverd"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

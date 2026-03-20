@@ -4,7 +4,7 @@ name: "Rachel Farrimond"
 born: Circa  1635
 died: 1694
 family: "Farrimond"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

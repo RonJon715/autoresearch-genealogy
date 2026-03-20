@@ -4,7 +4,7 @@ name: "John Breyly"
 born: 1635-03-02
 died: 1731
 family: "Breyly"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

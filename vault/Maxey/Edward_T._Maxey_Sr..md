@@ -4,7 +4,7 @@ name: "Edward T. Maxey ' Sr."
 born: 1674
 died: 1737-04-18
 family: "Maxey '"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

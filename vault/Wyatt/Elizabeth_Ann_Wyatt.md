@@ -4,7 +4,7 @@ name: "Elizabeth Ann Wyatt"
 born: 1647
 died: 1692
 family: "Wyatt"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Wm"
 born: 
 died: 
 family: "Unknown"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

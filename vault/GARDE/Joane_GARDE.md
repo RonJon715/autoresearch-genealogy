@@ -4,7 +4,7 @@ name: "Joane GARDE"
 born: 1592-01
 died: 1635
 family: "GARDE"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

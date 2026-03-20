@@ -4,7 +4,7 @@ name: "Elizabeth Hail"
 born: 1769
 died: 
 family: "Hail"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "Thomas White (allison) Mr"
 born: 1600-03-22
 died: 1641
 family: "White (allison)"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

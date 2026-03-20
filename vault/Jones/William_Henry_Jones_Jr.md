@@ -4,7 +4,7 @@ name: "William Henry Jones Jr"
 born: 1562
 died: 1610-04-03
 family: "Jones"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

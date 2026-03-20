@@ -4,7 +4,7 @@ name: "Duncan Stewart"
 born: 1633
 died: 1700
 family: "Stewart"
-confidence: high
+confidence: low
 sources:
   - "Geneanet Community Trees Index"
 created: 2026-03-20

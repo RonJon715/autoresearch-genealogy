@@ -4,7 +4,7 @@ name: "Nathaniel Bridges Pope III"
 born: 1670
 died: 1730
 family: "Pope"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

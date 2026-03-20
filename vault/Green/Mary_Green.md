@@ -4,7 +4,7 @@ name: "Mary Green"
 born: 
 died: 
 family: "Green"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

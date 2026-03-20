@@ -4,7 +4,7 @@ name: "Richard Craddocke"
 born: Abt. 1550
 died: 1618-06-18
 family: "Cradocke"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

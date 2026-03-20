@@ -4,7 +4,7 @@ name: "Elizabeth Alice? Freeman"
 born: 1595-04-21
 died: 11 February 1664
 family: "Freeman"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

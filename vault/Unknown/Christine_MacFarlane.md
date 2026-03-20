@@ -4,7 +4,7 @@ name: "Christine MacFarlane"
 born: 1568
 died: 1625
 family: "Unknown"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

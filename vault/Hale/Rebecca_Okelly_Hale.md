@@ -4,7 +4,7 @@ name: "Rebecca Okelly Hale"
 born: 1902
 died: 1973
 family: "Hale"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

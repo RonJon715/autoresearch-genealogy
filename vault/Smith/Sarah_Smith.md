@@ -4,7 +4,7 @@ name: "Sarah Smith"
 born: 
 died: 
 family: "Smith"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

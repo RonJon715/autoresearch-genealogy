@@ -4,7 +4,7 @@ name: "W Watkins"
 born: 1845-10
 died: 
 family: "Watkins"
-confidence: moderate
+confidence: low
 sources:
   - "1900 United States Federal Census"
 created: 2026-03-20

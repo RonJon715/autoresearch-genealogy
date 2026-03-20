@@ -4,7 +4,7 @@ name: "Sarah Hembrough"
 born: 1690
 died: 
 family: "Hembrough"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

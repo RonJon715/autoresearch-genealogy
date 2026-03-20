@@ -4,7 +4,7 @@ name: "*Joanna Dowle"
 born: 1640
 died: 1713-10-18
 family: "Dowle"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "John Fullarton"
 born: 1550
 died: 10 July 1629
 family: "Fullarton"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

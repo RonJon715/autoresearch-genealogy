@@ -4,7 +4,7 @@ name: "Margery Burrell Alverd Alford ...13gg bob"
 born: 1510-01-23
 died: 1579-01-24
 family: "Burrell Alverd Alford"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

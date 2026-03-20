@@ -4,7 +4,7 @@ name: "Erika Janese Strojinc"
 born: 1983-05-20
 died: 
 family: "Strojinc"
-confidence: moderate
+confidence: high
 sources:
   - "U.S., School Yearbooks, 1900-2016"
   - "U.S., School Yearbooks, 1900-2016"

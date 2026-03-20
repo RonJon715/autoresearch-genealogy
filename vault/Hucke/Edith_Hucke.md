@@ -4,7 +4,7 @@ name: "Edith Hucke"
 born: 1563
 died: 1648-01
 family: "Hucke"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

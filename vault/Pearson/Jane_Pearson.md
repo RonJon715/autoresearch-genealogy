@@ -4,7 +4,7 @@ name: "Jane Pearson"
 born: 1677
 died: 1733
 family: "Pearson"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

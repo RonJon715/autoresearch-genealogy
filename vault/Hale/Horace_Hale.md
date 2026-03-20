@@ -4,7 +4,7 @@ name: "Horace Hale"
 born: 1938
 died: 
 family: "Hale"
-confidence: moderate
+confidence: low
 sources:
   - "1950 United States Federal Census"
 created: 2026-03-20

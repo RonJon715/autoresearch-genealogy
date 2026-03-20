@@ -4,7 +4,7 @@ name: "Richard William Jones"
 born: 1536
 died: 12 October 1606
 family: "Jones"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

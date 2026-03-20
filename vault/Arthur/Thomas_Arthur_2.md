@@ -4,7 +4,7 @@ name: "Thomas Arthur"
 born: 
 died: 
 family: "Arthur"
-confidence: low
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "Tamsyn Ascotte"
 born: 1547
 died: 
 family: "Ascotte"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

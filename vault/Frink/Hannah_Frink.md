@@ -4,7 +4,7 @@ name: "Hannah Frink"
 born: 1661
 died: 1705-03-28
 family: "Frink"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

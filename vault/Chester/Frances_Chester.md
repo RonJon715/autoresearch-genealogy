@@ -4,7 +4,7 @@ name: "Frances Chester"
 born: 
 died: 
 family: "Chester"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

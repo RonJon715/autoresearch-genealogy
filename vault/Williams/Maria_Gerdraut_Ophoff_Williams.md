@@ -4,7 +4,7 @@ name: "Maria Gerdraut Ophoff Williams"
 born: 1745-05-30
 died: 1799-12-14
 family: "Williams"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Jacob Andrew Minitree"
 born: 1722
 died: 1760-09-01
 family: "Minitree"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

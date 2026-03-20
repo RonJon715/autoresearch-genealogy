@@ -4,7 +4,7 @@ name: "Susannah Faulkner"
 born: 1766
 died: 1839
 family: "Saulter"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

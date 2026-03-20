@@ -4,7 +4,7 @@ name: "Thomas Parke, Of Stonington, Deacon"
 born: 1615-02-13
 died: 1709-07-30
 family: "Parke, Of Stonington, Deacon"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Fountain Hale"
 born: 1805
 died: 
 family: "Hale"
-confidence: moderate
+confidence: low
 sources:
   - "Geneanet Community Trees Index"
 created: 2026-03-20

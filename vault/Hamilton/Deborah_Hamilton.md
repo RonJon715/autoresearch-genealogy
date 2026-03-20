@@ -4,7 +4,7 @@ name: "Deborah Hamilton"
 born: 
 died: 
 family: "Hamilton"
-confidence: stub
+confidence: moderate
 sources:
   - "U.S., Newspapers.com™ Obituary Index, 1800s-current"
   - "The Jackson Sun; Publication Date: 10 Sep 2001; Publication Place: Jackson, Tennessee, USA; URL: https://www.newspapers.com/image/284173688/?article=4f12032b-53e0-4a23-acfe-6e8126aa821d&focus=0.34741384,0.638249,0.5008824,0.75559086&xid=3355"

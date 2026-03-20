@@ -4,7 +4,7 @@ name: "Shadrack George Briley"
 born: 1798-01-15
 died: 1867
 family: "Briley"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

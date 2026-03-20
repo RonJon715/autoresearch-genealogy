@@ -4,7 +4,7 @@ name: "Thomas Hyscock 11xggf"
 born: 1547
 died: 1600
 family: "Hyscock 11xggf"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Peter of Alwalton Edwards"
 born: 1519-05-03
 died: 1552
 family: "Edwards"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

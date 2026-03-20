@@ -4,7 +4,7 @@ name: "Elizabeth Isabelle Warner Lewis  (George Washington's aunt)  William the 
 born: 1672-11-24
 died: 5 February 1720
 family: "Warner Lewis  (George Washington's aunt)  William the Conqueror & Magna Carta Lineage"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

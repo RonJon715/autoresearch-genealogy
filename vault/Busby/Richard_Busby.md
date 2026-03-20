@@ -4,7 +4,7 @@ name: "Richard Busby"
 born: 1555
 died: 
 family: "Busby"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Kathrine A Faulkner"
 born: 1960-01-13
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: high
 sources:
   - "U.S., School Yearbooks, 1900-2016"
   - "U.S., School Yearbooks, 1880-2012\"; School Name: Senn High School; Year: 1976"

@@ -4,7 +4,7 @@ name: "John Pope"
 born: 1692
 died: 9 April 1745
 family: "Pope"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

@@ -4,7 +4,7 @@ name: "Mary Baxter"
 born: 1650
 died: 1685
 family: "Baxter"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

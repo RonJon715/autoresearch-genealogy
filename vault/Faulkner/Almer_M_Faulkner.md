@@ -4,7 +4,7 @@ name: "Almer M Faulkner"
 born: 1918
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: low
 sources:
   - "1920 United States Federal Census"
 created: 2026-03-20

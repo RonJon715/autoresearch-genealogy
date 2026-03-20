@@ -4,7 +4,7 @@ name: "Martha Bacon"
 born: 1634
 died: 1667
 family: "Bacon"
-confidence: moderate
+confidence: low
 sources:
   - "Geneanet Community Trees Index"
 created: 2026-03-20

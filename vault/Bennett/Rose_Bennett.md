@@ -4,7 +4,7 @@ name: "Rose Bennett"
 born: 1677-11-15
 died: 1727-03-31
 family: "Bennett"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

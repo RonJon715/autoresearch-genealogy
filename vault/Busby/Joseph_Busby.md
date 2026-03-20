@@ -4,7 +4,7 @@ name: "Joseph Busby"
 born: 1608-09-11
 died: 1690
 family: "Busby"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

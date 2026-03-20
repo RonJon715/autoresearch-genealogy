@@ -4,7 +4,7 @@ name: "Joel Joseph 'JJ' Griffin Corp."
 born: 1839-02-25
 died: 1916-08-22
 family: "Griffin"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

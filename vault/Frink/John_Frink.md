@@ -4,7 +4,7 @@ name: "John Frink"
 born: 1633-08-20
 died: 1718-02-10
 family: "Frink"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

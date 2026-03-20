@@ -4,7 +4,7 @@ name: "Frances [Mrs] Bray"
 born: 
 died: 
 family: "Bray"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "Lavina 'LILLY' MOODY  Meador"
 born: 12 March 1730
 died: 1798
 family: "MOODY  Meador"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

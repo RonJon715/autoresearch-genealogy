@@ -4,7 +4,7 @@ name: "Susanna Samwell"
 born: 1520
 died: 1586-02-23
 family: "Samwell"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

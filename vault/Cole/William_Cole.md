@@ -4,7 +4,7 @@ name: "William Cole"
 born: 1652
 died: 1694
 family: "Cole"
-confidence: moderate
+confidence: low
 sources:
   - "Geneanet Community Trees Index"
 created: 2026-03-20

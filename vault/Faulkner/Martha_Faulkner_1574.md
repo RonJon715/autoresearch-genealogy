@@ -4,7 +4,7 @@ name: "Martha Faulkner 🌸"
 born: 1574
 died: 
 family: "Faulkner"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

@@ -4,7 +4,7 @@ name: "James W Scaggs"
 born: 1627
 died: 1670
 family: "Scaggs"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

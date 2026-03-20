@@ -4,7 +4,7 @@ name: "Sarah Gregory"
 born: 1680
 died: 1720
 family: "Gregory"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

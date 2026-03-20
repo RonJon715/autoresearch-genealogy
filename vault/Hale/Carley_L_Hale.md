@@ -4,7 +4,7 @@ name: "Carley L Hale"
 born: 1895
 died: 
 family: "Hale"
-confidence: moderate
+confidence: low
 sources:
   - "1910 United States Federal Census"
 created: 2026-03-20

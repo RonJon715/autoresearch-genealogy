@@ -4,7 +4,7 @@ name: "Friedrich Hedrich"
 born: 1927-04-28
 died: 
 family: "Hedrich"
-confidence: moderate
+confidence: high
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

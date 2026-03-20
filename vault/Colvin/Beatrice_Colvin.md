@@ -4,7 +4,7 @@ name: "Beatrice Colvin"
 born: 
 died: 
 family: "Colvin"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

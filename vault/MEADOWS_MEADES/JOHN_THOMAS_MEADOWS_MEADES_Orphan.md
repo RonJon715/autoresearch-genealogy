@@ -4,7 +4,7 @@ name: "JOHN THOMAS MEADOWS MEADES Orphan"
 born: 1638
 died: April 1662
 family: "MEADOWS MEADES"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

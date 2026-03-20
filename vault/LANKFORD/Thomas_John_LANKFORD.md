@@ -4,7 +4,7 @@ name: "Thomas John LANKFORD"
 born: 1662
 died: 1764-09-13
 family: "LANKFORD"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

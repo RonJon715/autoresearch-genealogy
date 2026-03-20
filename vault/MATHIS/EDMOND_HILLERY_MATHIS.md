@@ -4,7 +4,7 @@ name: "EDMOND HILLERY MATHIS"
 born: 1719
 died: 1783-04-18
 family: "MATHIS"
-confidence: low
+confidence: stub
 sources:
   - "GEDCOM import (unverified)"
 created: 2026-03-20

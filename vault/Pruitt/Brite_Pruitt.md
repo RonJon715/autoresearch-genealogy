@@ -4,7 +4,7 @@ name: "Brite Pruitt"
 born: 
 died: 
 family: "Pruitt"
-confidence: stub
+confidence: moderate
 sources:
   - "Ancestry Family Trees"
   - "Ancestry Family Tree"

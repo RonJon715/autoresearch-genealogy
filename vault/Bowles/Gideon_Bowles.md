@@ -4,7 +4,7 @@ name: "Gideon Bowles"
 born: 1734
 died: 1798-05-01
 family: "Bowles"
-confidence: high
+confidence: low
 sources:
   - "Annual report of the Adjutant General of the Commonwealth of Massachusetts, 1863-1865"
 created: 2026-03-20
