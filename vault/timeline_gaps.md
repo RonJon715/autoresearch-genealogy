@@ -640,3 +640,42 @@ The following gaps are the best candidates for targeted record searches, based o
 | Walter Bowles | WWI draft registration | 1917-1918 | Virginia | Age 33 in 1917; draft registration cards well indexed |
 | Seldon Welch SR | WWI draft registration | 1917-1918 | Tennessee | Age 27 in 1917; draft registration cards well indexed |
 | John Otis Moffett | WWI draft registration | 1917-1918 | Arkansas | Age 25 in 1917; draft registration cards well indexed |
+
+## Search Results (2026-03-20)
+
+Targeted web searches were conducted for high priority gaps. Full search details logged in [[Research_Log]].
+
+### Records Found
+
+| Person | Finding | Source | Confidence |
+|---|---|---|---|
+| Ola Faulkner | Married name "Ola Faulkner Capooth"; spouse Edd Capooth; daughter Gillion Marie Capooth Clark (1920 to 1946) | Find a Grave memorial #80541896 | Moderate Signal |
+| John Fielden Hale | Mother "Margaret Isom" matches Chapman G. Hale's wife Margaret Isom (daughter of David Isom and Sarah Choate), per New River Notes and WikiTree. Fielden Lewis Hale (1814 to 1894, Capt. CSA 29th VA Inf.) was Chapman's brother. | WikiTree, New River Notes, Find a Grave #137542862 | Speculative (parentage needs census verification) |
+
+### Records Not Found (Negative Results)
+
+All other searches returned negative results through web search. The following record types should exist but were not located via web search engines:
+
+| Person | Record Type Searched | Notes |
+|---|---|---|
+| Raymond Lee Faulkner | Obituary | Page exists at alternativefuneralcremation.com but returned HTTP 403 |
+| Joel Harvey Crum | Civil War military record, Find a Grave, census | No online presence found; different Joel Crum (b. 1816, Shelby Co.) identified |
+| Frances "Fanny" Monroe | Census, obituary | Name too common for New York; needs household identifiers |
+| Walter Bowles | Death record, census | WV Vital Records portal identified at archive.wvculture.org |
+| Seldon Welch Sr | Census, death record | No results; Hardin Co., TN records available via FamilySearch |
+| John Otis Moffett | Death record, WWI draft | No results; Arkansas and McNairy Co., TN records available |
+| Arlie McKinney | Obituary, census | No results; Summers Co., WV records available |
+| Nancy Rosebelle McKinney | Census, death | No results |
+| Polly McKinney | Census | No results; NC census 1850 to 1870 available on FamilySearch |
+| James Christian Crum | Census, death | No results |
+| Joseph Bowles | Census | Found different Joseph Bowles (b. ~1842, Jackson Co.); wrong person |
+| Grady George Moffett | Obituary, death, census | Found George C. Moffett (TX legislator, 1895 to 1972); wrong person |
+
+### Recommended Next Steps
+
+1. **FamilySearch.org direct searches**: The 1940 census is fully indexed and free. Start there for all 20th century persons. Then check 1930, 1920, and earlier.
+2. **Tennessee death records**: Search tslaindexes.tn.gov for McNairy, Hardin, and Alcorn county deaths.
+3. **West Virginia vital records**: Search archive.wvculture.org for Summers and other WV county records.
+4. **Military records**: Search Fold3.com or FamilySearch for Civil War (Joel Harvey Crum), WWI draft cards (Walter Bowles, Seldon Welch, John Otis Moffett), and WWII draft cards (Arlie McKinney, Grady George Moffett).
+5. **Ancestry.com census images**: For persons where web search failed, direct indexed census searches with name, birth year, and state filters will yield better results than web search.
+6. **Grayson County, VA research**: Verify John Fielden Hale parentage via 1850 to 1860 census for Chapman G. Hale household.
