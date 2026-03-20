@@ -1,0 +1,45 @@
+---
+type: person
+name: "Dorothy "Dolly" Willey"
+born: 1801
+died: 
+family: "Willey"
+confidence: moderate
+sources:
+  - "Ancestry Family Trees"
+  - "Ancestry Family Tree"
+created: 2026-03-20
+tags: [genealogy, willey, person]
+---
+
+# Dorothy "Dolly" Willey
+
+## Vital Information
+
+| Field | Value | Source |
+|---|---|---|
+| Full Name | Dorothy "Dolly" Willey | GEDCOM import |
+| Born | 1801 | GEDCOM import |
+| Birthplace |  | GEDCOM import |
+| Died |  | GEDCOM import |
+| Burial |  | GEDCOM import |
+| Father | [[Ahijah_Willey]] | GEDCOM import |
+| Mother | [[Susannah_Susan_Grant]] | GEDCOM import |
+| Spouse |  | GEDCOM import |
+| Children |  | GEDCOM import |
+
+## Biography
+
+No biography written yet. See sources and vital information above.
+
+## Document Sources
+
+| Document | Type | Vault Note |
+|---|---|---|
+| GEDCOM import from Ancestry.com | GEDCOM export | |
+| Ancestry Family Trees | Ancestry.com hint | |
+| Ancestry Family Tree | Ancestry.com hint | |
+
+## Data Discrepancies
+
+No discrepancies identified during import.

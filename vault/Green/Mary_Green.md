@@ -1,0 +1,45 @@
+---
+type: person
+name: "Mary Green"
+born: 
+died: 
+family: "Green"
+confidence: stub
+sources:
+  - "Ancestry Family Trees"
+  - "Ancestry Family Tree"
+created: 2026-03-20
+tags: [genealogy, green, person]
+---
+
+# Mary Green
+
+## Vital Information
+
+| Field | Value | Source |
+|---|---|---|
+| Full Name | Mary Green | GEDCOM import |
+| Born |  | GEDCOM import |
+| Birthplace |  | GEDCOM import |
+| Died |  | GEDCOM import |
+| Burial |  | GEDCOM import |
+| Father | Unknown | GEDCOM import |
+| Mother | Unknown | GEDCOM import |
+| Spouse | [[George_A_Monroe_1725]] (m. 26 Sep 1786, Fauquier, Virginia, USA) | GEDCOM import |
+| Children |  | GEDCOM import |
+
+## Biography
+
+No biography written yet. See sources and vital information above.
+
+## Document Sources
+
+| Document | Type | Vault Note |
+|---|---|---|
+| GEDCOM import from Ancestry.com | GEDCOM export | |
+| Ancestry Family Trees | Ancestry.com hint | |
+| Ancestry Family Tree | Ancestry.com hint | |
+
+## Data Discrepancies
+
+No discrepancies identified during import.

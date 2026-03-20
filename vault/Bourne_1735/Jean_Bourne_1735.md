@@ -1,0 +1,45 @@
+---
+type: person
+name: "Jean Bourne  1735"
+born: 1735
+died: 1792
+family: "Bourne  1735"
+confidence: high
+sources:
+  - "Ancestry Family Trees"
+  - "Ancestry Family Tree"
+created: 2026-03-20
+tags: [genealogy, bourne--1735, person]
+---
+
+# Jean Bourne  1735
+
+## Vital Information
+
+| Field | Value | Source |
+|---|---|---|
+| Full Name | Jean Bourne  1735 | GEDCOM import |
+| Born | 1735 | GEDCOM import |
+| Birthplace | Knob Fork, Grayson, Virginia, United States | GEDCOM import |
+| Died | 1792 | GEDCOM import |
+| Burial |  | GEDCOM import |
+| Father | [[9-Stephen_BourneCDA]] | GEDCOM import |
+| Mother | [[Hannah_BOURNE_POPE]] | GEDCOM import |
+| Spouse |  | GEDCOM import |
+| Children |  | GEDCOM import |
+
+## Biography
+
+No biography written yet. See sources and vital information above.
+
+## Document Sources
+
+| Document | Type | Vault Note |
+|---|---|---|
+| GEDCOM import from Ancestry.com | GEDCOM export | |
+| Ancestry Family Trees | Ancestry.com hint | |
+| Ancestry Family Tree | Ancestry.com hint | |
+
+## Data Discrepancies
+
+No discrepancies identified during import.
