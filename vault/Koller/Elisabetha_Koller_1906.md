@@ -30,7 +30,11 @@ tags: [genealogy, koller, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Elisabetha Koller was born on 19 September 1906 in Liebling, Timis, Hungary (now Romania), a Donauschwaben (Danube Swabian) village in the Banat region. She married Georg Koller (b. 1902, Liebling; d. 1949). They had at least two children: Elisabetha Koller (b. 1927) and Maria Koller (b. 1929).
+
+**Immigration (Speculative):** Elisabetha likely emigrated from the Romanian Banat to the Chicago, Illinois area as a post-WWII displaced person, arriving around 1950. Her daughter Maria Koller settled in the Chicago area and married Friedrich Hedrich (b. 1927, Liebling). Elisabetha died in 1993.
+
+**Unsourced claim**: No primary source documents found for her specific immigration date, ship, or port of entry.
 
 ## Document Sources
 

@@ -574,6 +574,345 @@ Extracted all named individuals mentioned across 2,274 person files, Family_Tree
 
 ---
 
+## 2026-03-20: Colonial Records Search (Prompt 10)
+
+### Overview
+
+Identified 787 unique colonial era ancestors (born before 1800) in colonial America across the family tree. Prioritized 10 ancestors for deep record searches across land, probate, military, church, tax, and court record types. Created 9 transcription notes and updated 8 person files.
+
+---
+
+### Target 1: Lewis Burwell I (b. 1621, Ampthill, Bedfordshire; d. 1653, Gloucester Co., VA)
+
+**Query**: Lewis Burwell I land patent Gloucester County Virginia colonial 1640s
+**Source**: Encyclopedia Virginia, WikiTree (Burwell-20), Geni.com, Wikipedia (Fairfield Plantation)
+**Results**: POSITIVE. Three major land patents: 18 Apr 1648 (2,300 acres, south side York River, with Thomas Vaulx); 12 Jun 1648 (2,350 acres, north side York River, became Fairfield); 1650 (1,600 acres Northumberland County plus 1,000 acres on Potomac). Total: at least 7,250 acres.
+**Implication**: Strong Signal. Virginia land patents are primary sources at the Library of Virginia.
+**Next step**: Created [[Lewis_Burwell_I_Land_Patents_1648]].
+
+---
+
+### Target 2: Lewis Burwell II (b. 1649/1651, Gloucester Co., VA; d. 19 Dec 1710)
+
+**Query**: Lewis Burwell II will probate Gloucester County Virginia 1710
+**Source**: Encyclopedia Virginia, WikiTree (Burwell-20), colonial-settlers-md-va.us, Find a Grave (Memorial 18764228)
+**Results**: POSITIVE. Will dated 11 Oct 1710, proved 10 Feb 1710/11 in York County. Names sons Nathaniel, James, Lewis; grandson Lewis (son of Nathaniel); son in law Henry Seaton; daughters Joanna, Elizabeth, Lucy, Martha, Jane, Martha junior; godson William Burwell. Tombstone at Abingdon Church confirms two marriages.
+**Implication**: Moderate Signal. GEDCOM birth year (1649) contradicts Encyclopedia Virginia (1651/1652). Mother identified as Lucy Higginson.
+**Next step**: Created [[Lewis_Burwell_II_Will_1710]]. Updated person file.
+
+---
+
+### Target 3: William Monroe (b. 1666, Westmoreland Co., VA; d. 30 Mar 1737)
+
+**Query**: William Monroe Westmoreland County Virginia land colonial 1690s will probate
+**Source**: WikiTree (Monroe-461), colonial-settlers-md-va.us, Fothergill *Wills of Westmoreland County*
+**Results**: POSITIVE. Will recorded 30 Mar 1737, Westmoreland County. Names sons Thomas, George, William, Andrew; daughters Sarah Stone, Mary Stone; grandson Spence (son of Andrew, future father of President James Monroe).
+
+**Query**: Spence Monroe father William Monroe Westmoreland Virginia colonial land records
+**Source**: WikiTree (Monroe-431), HMDB, colonial-settlers-md-va.us
+**Results**: POSITIVE. Father Andrew Monroe (d. 1668) patented 200 acres 8 Jun 1650 in Northumberland County. Emigrated from Scotland (son of David Munro of Katewell).
+**Implication**: Moderate Signal. Father identification corrects GEDCOM (listed as Unknown).
+**Next step**: Created [[William_Monroe_Will_1737]] and [[Andrew_Monroe_Land_Patent_1650]]. Updated person file.
+
+---
+
+### Target 4: Thomas Parke, Deacon (b. 13 Feb 1615/16, Hitcham, Suffolk; d. 30 Jul 1709, Preston, CT)
+
+**Query**: Thomas Parke Deacon Stonington Connecticut will probate 1709
+**Source**: WikiTree (Parke-8), Geni.com, Ancestry.com Connecticut Wills and Probate Records
+**Results**: POSITIVE. Will dated 5 Sep 1707, proved 9 Aug 1709. Found in New London Probate Records vol. A-B, image 226 and Hartford Probate Packets images 606-13. Names wife Dorothy; sons John, Nathaniel, William; grandsons Samuel and James (sons of deceased sons Thomas and Robert); daughters Martha, Dorothy, Alice. GEDCOM listed only one child; will reveals at least seven.
+**Implication**: Strong Signal. Original probate records digitized on Ancestry.com.
+**Next step**: Created [[Thomas_Parke_Will_1707]]. Updated person file.
+
+---
+
+### Target 5: Henry Clay "The Elder" (b. 3 Aug 1672, Dale Parish, VA; d. 3 Aug 1760)
+
+**Query**: Henry Clay Chesterfield County Virginia colonial land dale parish 1672 1760
+**Source**: WikiTree (Clay-84), Geni.com, Find a Grave (Memorial 7711025), FamilySearch
+**Results**: POSITIVE. Will signed 28 Mar 1749, probated Sep 1760 at Chesterfield Court. Father identified as Charles Clay (not in GEDCOM). Published in *Adventurers of Purse and Person* (3rd ed., pp. 193-197). Tombstone: "died at dinner with his children and grandchildren at an annual festival."
+**Implication**: Moderate Signal. GEDCOM name misleading ("Secretary of State" refers to great grandson Henry Clay the statesman).
+**Next step**: Created [[Henry_Clay_Will_1749]]. Updated person file.
+
+---
+
+### Target 6: John Meador (Meadows) Sr. (b. 31 Jul 1658, Charles Parish, York Co., VA; d. 21 Nov 1721)
+
+**Query**: John Meadows Meador probate will Rappahannock Essex County Virginia 1721
+**Source**: WikiTree (Meador-3), Geni.com, JEM Genealogy, published genealogies
+**Results**: POSITIVE. Will proved ca. 1721 in Essex County. 13 children by two wives: (1) Elizabeth White (d. 1694) and (2) Mary Awbrey. Will divided 450 acre property. Son John Jr.'s nuncupative will (18 May 1720) names William Bourne as executor, establishing Bourne/Meador connection.
+**Implication**: Moderate Signal. GEDCOM lists only one child and wrong spouse. Major data discrepancies.
+**Next step**: Created [[John_Meador_Sr_Will_1721]]. Updated person file.
+
+---
+
+### Target 7: Thomas Ford, Immigrant (b. 1629, Hindon, Wiltshire; d. ca. 1682, Anne Arundel Co., MD)
+
+**Query**: Thomas Ford immigrant Anne Arundel Maryland colonial land probate 1688
+**Source**: Geni.com, WeRelate, Maryland State Archives, Skordas *Early Settlers of Maryland*
+**Results**: POSITIVE. Immigration ca. 1650. Servant "Thos Ford" transported before June 1652. Land survey "Fordstone" tract 17 Nov 1659. Estate inventoried ca. Oct 1682. GEDCOM death date (1688) likely incorrect.
+**Implication**: Moderate Signal. Land survey and inventory are primary sources.
+**Next step**: Created [[Thomas_Ford_Anne_Arundel_Land_Records]]. Updated person file.
+
+---
+
+### Target 8: Edmund Faulkner (b. 1623, Kingsclere, Hampshire; d. 18 Jan 1686/87, Andover, MA)
+
+**Query**: Edmund Faulkner Andover Massachusetts militia King Philip's War 1675 colonial records
+**Source**: Internet Archive (Bodge, *Soldiers in King Philip's War*), Academia.edu, devintimber.org
+**Results**: MIXED. Edmund confirmed in Andover during King Philip's War; town was attacked. No individual militia roll found in web search. Bodge's *Soldiers in King Philip's War* and Doreski's compilation are best leads for specific service records.
+**Implication**: Speculative for military service. Presence confirmed but enrollment not verified.
+**Next step**: No transcription note created (insufficient evidence). Would require examination of Bodge's book on Internet Archive.
+
+---
+
+### Target 9: Richard Kirby (b. ca. 1614, Rowington, Warwickshire; d. 21 Jul 1688, Dartmouth, MA)
+
+**Query**: Richard Kirby Sandwich Barnstable Massachusetts colonial church records Quaker
+**Source**: Caskey Family genealogy, WikiTree (Kirby-103), Geni.com, WeRelate, HMDB
+**Results**: POSITIVE. One of first eleven male church members in Sandwich (1637). On militia list (Aug 1643). Presented for non attendance (1651). Complained against for Quaker meetings (Feb 1657). Fined 57 pounds 12 shillings. Took oath of fidelity 1684 (possibly not formally Quaker). Moved to Dartmouth ca. 1662; land purchases 1670 and 1683.
+**Implication**: Strong Signal. Church and court records accessed through secondary compilations. Birth year discrepancy (GEDCOM 1614 vs WikiTree ca. 1603).
+**Next step**: Created [[Richard_Kirby_Sandwich_Church_Records]]. Updated person file.
+
+---
+
+### Target 10: Barnabas Arthur (b. 1735/36, Bedford Co., VA; d. bef. 2 Mar 1815)
+
+**Query**: Barnabas Arthur Bedford County Virginia militia Revolutionary War DAR Patriot
+**Source**: Genealogy Trails, Virginia SAR, Dunn *Bedford County, Virginia Militia 1774-1783*
+**Results**: POSITIVE (partial). "Barnabus Arthur Jr." on Bedford County militia rolls as soldier in Indian/French/British warfare and Revolutionary War. No DAR Patriot Index number found.
+**Implication**: Moderate Signal. Militia listing confirmed; specific company and dates need Dunn's book.
+**Next step**: Created [[Barnabas_Arthur_Bedford_Militia]]. Updated person file.
+
+---
+
+### Target 11: William Bourne II Land Grant (1719)
+
+**Query**: William Bourne II land grant Louisa County Virginia 1719 Spotswood patent colonial
+**Source**: WikiTree (Bourne-559), McCarter Family site, Library of Virginia
+**Results**: POSITIVE. Patent 11 Jul 1719 by Lt. Gov. Spotswood. 300 acres on Neck Creek, south of South Anna River. Originally New Kent County, later Hanover (1721), then Louisa (1742). Land in Bourne family for nearly 100 years. Grandsons became Grayson County pioneers.
+**Implication**: Strong Signal. Virginia land patents are primary government records.
+**Next step**: Created [[William_Bourne_II_Land_Grant_1719]].
+
+---
+
+### Target 12: Stephen Bourne, Tax Records (1780s)
+
+**Query**: Stephen Bourne land Grayson County Virginia colonial tax tithable 1780s
+**Source**: Virginia tax list references, New River Notes, Library of Virginia guides
+**Results**: NEGATIVE for specific tax listing. Grayson County not formed until 1792. Records under Montgomery or Wythe County. Montgomery County militia list (undated, 1777-1790) includes Stephen Bourn. 1800 deed (Deed Book I, pp. 338-339) for 260 acres on Elk Creek from William to Stephen Bourn.
+**Implication**: Negative for 1780s tax records online. Need Montgomery County personal property tax lists at Library of Virginia.
+**Next step**: No transcription note created. Key reference: Nuckolls, *Pioneer Settlers of Grayson County* (1914).
+
+---
+
+### Target 13: John Faulkner, Queen Anne's Co., MD (d. 1727)
+
+**Query**: John Faulkner will probate Queen Anne's County Maryland 1708 1729 colonial
+**Source**: WikiTree (Faulkner-1064), Geni.com, Maryland State Archives, Findmypast
+**Results**: MIXED. Confirmed John Faulkner (b. 1678, Kent Co., MD; d. 1727, Queen Anne's Co.). Children: Temperance, Thomas, Ann, James, Francis. Will exists but text not found online. Maryland Colonial Probate Records available at MSA and Findmypast. Baldwin's *Maryland Calendar of Wills* is key published source.
+**Implication**: Moderate Signal for biographical details. Will text needs archival search.
+**Next step**: No transcription note. Would need Maryland State Archives digital collection or Findmypast.
+
+---
+
+### Summary of Negative Results
+
+| Ancestor | Record Type Sought | Result |
+|---|---|---|
+| Stephen Bourne | Tax/tithable lists, 1780s | Grayson Co. not yet formed; need Montgomery Co. records at Library of Virginia |
+| Edmund Faulkner | King Philip's War militia roll | Presence in Andover confirmed; individual enrollment not found online; need Bodge's book |
+| John Faulkner (MD) | Will text | Will exists per secondary sources; text not found online; need MD State Archives |
+
+---
+
+## 2026-03-20: Immigration Search (Prompt 11)
+
+### Immigrant Inventory
+
+Identified the following categories of immigrants in the family tree:
+
+**Category A: Post-WWII Displaced Persons (Donauschwaben from Liebling, Romania)**
+- Friedrich Hedrich (b. 1903, Liebling, Timis, Hungary/Romania; d. 1981, Chicago, IL)
+- Philippina Hedrich nee Kind (b. 1906, Liebling; d. 1995, Chicago, IL)
+- Friedrich "Fredrich" Hedrich Jr (b. 1927, Liebling, Romania; settled Chicago, IL)
+- Maria Koller Hedrich (b. 1929, Liebling, Romania; d. 2018, Kouts, Porter Co., IN)
+- Georg Koller (b. 1902, Liebling; d. 1949)
+- Elisabetha Koller (b. 1906, Liebling; d. 1993)
+- Johann Koller (b. 1896, Liebling; d. 1953, Chicago, IL)
+- Elisabetha Koller (b. 1927, Liebling; settled Chicago, IL)
+
+**Category B: Colonial Era (1620s-1660s), England to American Colonies**
+- Robert Parke Sr (b. 1580, Suffolk; ship Arbella, Winthrop Fleet 1630; d. 1665, CT)
+- Thomas Deacon Parke (b. 1616, Hitcham, Suffolk; Winthrop Fleet 1630; d. 1709, CT)
+- Edmund Faulkner (b. ~1623, Kingsclere, Hampshire; ship Joan and Ann 1639; d. 1687, Andover, MA)
+- Lewis Burwell (b. 1621, Ampthill, Bedfordshire; arrived Virginia by 1641; d. 1653, Gloucester Co., VA)
+- Lady Elizabeth Filmer (b. 1593, Kent; emigrated to Maryland; d. 1662, Kent Co., MD)
+- Sir William Faulkner (b. 1590, Kent; emigrated to Maryland; d. 1636, Kent Co., MD)
+- William Billings (b. 1602, Taunton, Somerset; d. 1683, Dorchester, MA)
+- Thomas Bourne Sr (b. 1581, Frittenden, Kent; arrived Marshfield, Plymouth Colony; d. 1664, MA)
+- Thomas C Ford Sr (b. 1629, Hindon, Wiltshire; d. 1688, Anne Arundel, MD)
+- Many Faulkner/Falconer/Filmer family members (see family files)
+
+**Category C: Scotch-Irish (early 1700s), Northern Ireland to Virginia**
+- Sir Thomas Barnabas Arthur (b. 1658, Cullybackey, County Antrim; d. 1725, Bedford Co., VA)
+- Benjamin Arthur (b. 1701, Cullybackey; d. 1783, Bedford Co., VA)
+- Thomas Arthur (b. 1705, Antrim; d. 1782, Bedford, VA)
+- John Arthur Sr (b. ~1710, Cullybackey; d. 1793, Bedford, VA)
+- Henry Arthur (b. 1709, Cullybackey; d. 1793, Bedford, VA)
+
+**Category D: 18th Century German Immigration**
+- Johan George Seybold/Seabolt (b. 1752, Stuttgart, Germany; d. 1824, Jefferson Co., KY)
+- Elizabeth Seebolt (b. 1762, Germany; d. 1836, Jefferson Co., KY)
+- Mary Catherine Ferree (b. 1683, Steinweiler, Germany; d. 1745, PA)
+
+---
+
+### Passenger Manifest Searches
+
+#### Target 1: Hedrich/Koller Family (Liebling, Romania to Chicago, IL)
+
+**Query**: "Friedrich Hedrich" passenger manifest Liebling Romania Chicago immigration
+**Source**: Web search (general)
+**Results**: NEGATIVE for specific passenger manifest.
+
+**Query**: "Hedrich" "Liebling" passenger manifest ship Ellis Island immigration
+**Source**: Web search, Ellis Island Foundation
+**Results**: NEGATIVE for direct hit.
+
+**Query**: "Maria Koller" OR "Georg Koller" Liebling Romania passenger manifest immigration Chicago
+**Source**: Web search
+**Results**: NEGATIVE for specific manifest.
+
+**Query**: "Hedrich" Liebling ship list Banat immigration passenger
+**Source**: David Dreyer's Banat Ship List (rootsweb.com/~banatdata)
+**Results**: POSITIVE for related Hedrich individuals (pre-WWI):
+1. Hedrich Baltasar, age 29, arrived 4 Apr 1929, Winnipeg via Cherbourg/Quebec, ship Carinthia, with wife Elisabeth (21). Mother Maria Hedrich in Liebling.
+2. Blum family member, arrived 6 Feb 1907, St. Louis via Bremen/Baltimore, ship Oldenburg, son of Jakob Blum and Barbara Hedrich.
+3. Christ family member, arrived 1 Sep 1923, Chicago via Bremen/NY, ship America, sister Magdalena Hedrich in Liebling. Previously in Chicago 1913-1919.
+**Implication**: Moderate Signal. Confirms Hedrich emigration from Liebling, including to Chicago before WWII.
+
+**Query**: "Koller" Liebling ship list Banat immigration passenger Dreyer
+**Source**: David Dreyer's Banat Ship List
+**Results**: POSITIVE for related Koller individuals:
+1. Passenger (25), arrived 14 Apr 1929, Winnipeg via Hamburg/Saint John, ship Metagama, with wife Maria (22) and daughter Maria (4). Father: Andreas Koller in Liebling.
+2. Passenger (25), arrived 8 Oct 1912, Chicago via Antwerp/NY, ship Finland. Going to join cousin Andreas Koller.
+**Implication**: Moderate Signal. Confirms Koller emigration from Liebling to Chicago.
+
+---
+
+#### Target 2: Martin Hedrich Sr (Obituary Discovery)
+
+**Query**: "Martin Hedrich" obituary Liebling Romania Crystal Lake Illinois 1950 family Heisler
+**Source**: Legacy.com; Ancestry.com
+**Results**: POSITIVE.
+1. Martin Hedrich Sr (d. 8 May 2015, age 95, Crystal Lake, IL). Born in Liebling, Romania. Brought family through Austria to US in 1950 via uncles George, John, Jake Heisler. Married Rosina (74 years). Parents: Martin and Phillipine Hedrich.
+2. Martin Hedrich (b. 9 Dec 1894, Liebling; son of Martin Hedrich and Maria Geiger; d. 21 Dec 1965, Crystal Lake, McHenry, IL).
+**Implication**: Strong Signal for 1950 arrival of Liebling Hedrich families.
+
+---
+
+#### Target 3: Philippina Hedrich Obituary
+
+**Query**: "Philippina Hedrich" obituary Chicago 1995
+**Source**: Chicago Tribune (1 Aug 1995)
+**Results**: POSITIVE. Age 88. Wife of late Frederich. Mother of Fred (Maria) and Katherina (Stefan) Just. Interment at Rosehill Cemetery.
+**Implication**: Strong Signal. Confirms family structure.
+
+---
+
+#### Target 4: Fredrich Hedrich Jr Obituary
+
+**Query**: "Frederick Hedrich" OR "Fred Hedrich" Chicago naturalization immigration Romania 1950s
+**Source**: Dignity Memorial
+**Results**: POSITIVE. Preceded in death by wife of 69 years, Maria Koller Hedrich. Father of Maria Rink, Betty (Tom) Rogers, Fred Hedrich, Kathrine (Ron) Faulkner, Eric (Katie) Hedrich. Brother of Katarina Just.
+**Implication**: Strong Signal. Confirms family structure and Faulkner connection.
+
+---
+
+### Naturalization Record Searches
+
+**Query**: "Friedrich Hedrich" naturalization Illinois Chicago petition
+**Source**: Web search
+**Results**: NEGATIVE.
+
+**Query**: site:familysearch.org "Illinois, Federal Naturalization Records" Hedrich
+**Source**: FamilySearch.org
+**Results**: NEGATIVE. Only general wiki page returned.
+
+**Query**: "Elisabetha Koller" OR "Elisabeth Koller" Liebling Banat Romania Chicago naturalization
+**Source**: Web search
+**Results**: NEGATIVE.
+
+**Query**: "Koller" "Liebling" Banat immigration Chicago naturalization
+**Source**: Web search; NARA; Cook County Clerk
+**Results**: NEGATIVE for indexed records. Found institutional resources (500,000+ petitions at Cook County, NARA M1285).
+**Next step**: Access records via Ancestry.com subscription or in-person at NARA Chicago.
+
+---
+
+### Colonial Era Immigration Searches
+
+#### Robert Parke (Winthrop Fleet, 1630)
+
+**Query**: "Thomas Parke" OR "Robert Parke" 1630 Winthrop Fleet Hitcham Suffolk passenger list ship
+**Source**: WikiTree; Geni.com; FamilySearch; Find a Grave; published genealogy
+**Results**: POSITIVE. Robert Parke sailed from Cowes, Isle of Wight, 29 March 1630 aboard ship Arbella (Winthrop Fleet). Arrived Boston, MA, 17 June 1630. Served as Secretary to Governor Winthrop.
+**Implication**: Strong Signal.
+
+#### Edmund Faulkner (Joan and Ann, 1639)
+
+**Query**: "Edmund Faulkner" 1623 Kingsclere Hampshire England Andover Massachusetts immigration ship
+**Source**: WikiTree; Find a Grave; Geni.com; NH Historical Society
+**Results**: POSITIVE. Sailed 1639 from England to Salem aboard ship "Joan and Ann." Founding settler of Andover, MA (1644-45). Parents: Richard Faulkner and Joan (Unknown).
+**Implication**: Strong Signal.
+
+#### Lewis Burwell (Virginia, ~1641)
+
+**Query**: "Lewis Burwell" 1621 Ampthill Bedfordshire England Virginia immigration ship 1640s
+**Source**: Encyclopedia Virginia; WikiTree; Geni.com
+**Results**: POSITIVE for immigration, NEGATIVE for ship. Baptized 5 March 1622, Ampthill. In Virginia by January 1641. Stepfather Roger Wingate on governor's Council 1640-1642.
+**Implication**: Moderate Signal. No ship name recorded.
+
+#### Arthur Family (Cullybackey, County Antrim to Bedford Co., VA)
+
+**Query**: "Arthur" Cullybackey "County Antrim" Ireland immigration Virginia 1700s ship passenger
+**Source**: WikiTree; Ancestry; Wikipedia
+**Results**: MIXED. Thomas Barnabas Arthur and John Arthur Sr confirmed. No specific ship or passenger list found.
+**Implication**: Moderate Signal for identity; Speculative for ship.
+
+#### Johan George Seybold/Seabolt (Stuttgart to Kentucky)
+
+**Query**: "Johan George Seybold" OR "John George Seabolt" Stuttgart Germany immigration Kentucky
+**Source**: Genealogy.com; WikiTree; Ancestry
+**Results**: NEGATIVE for specific individual. Found broader pattern: Johannes Seyboldt and Philip Seybolt arrived 21 Oct 1754 at Philadelphia aboard ship "Friendship" from Gosport under Capt. C. Ross.
+**Implication**: Speculative for the vault individual. The 1754 arrivals could be relatives.
+
+---
+
+### Charles C Faulkner Passenger List
+
+**Query**: "Charles C Faulkner" passenger manifest New York North Carolina
+**Source**: Web search
+**Results**: NEGATIVE. No manifest found. Born in NC (1830), died in MS (1897). Ancestry hints for NY passenger lists may be false positive; he appears to be US-born.
+**Implication**: Speculative. Ancestry hint needs direct verification.
+
+---
+
+### Contextual: Donauschwaben Community
+
+**Query**: Liebling Banat Donauschwaben families emigration 1944 1950 Chicago
+**Source**: Wikipedia; lieblingerchicago.com; dvhh.org; David Dreyer
+**Results**: POSITIVE.
+1. Lieblinger Verein Chicago (lieblingerchicago.com): active organization of ethnic Germans from Liebling in Chicago area.
+2. Donauschwaben displaced beginning 1944, emigrated under DP Act 1948.
+3. 393,542 DPs admitted to US by 30 June 1952 cutoff.
+4. Citizenship class for Donauschwaben sponsored by Chicago Board of Education in 1956.
+**Implication**: Strong Signal for community context.
+**Next step**: Contact Lieblinger Verein Chicago. Check dvhh.org immigration index.
+
+---
+
 ## Logging Convention
 
 Every search gets logged, positive or negative. Use this format:

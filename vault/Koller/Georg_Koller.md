@@ -30,7 +30,11 @@ tags: [genealogy, koller, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Georg Koller was born in 1902 in Liebling, Timis, Hungary (now Romania), a Donauschwaben (Danube Swabian) village in the Banat region. His father was Johann Koller and his mother was Elisabetha Roth. He married Elisabetha Koller (b. 1906, Liebling).
+
+Georg died in 1949. His death date precedes the main wave of Donauschwaben displaced persons immigration to the US (which began in earnest around 1950 under the Displaced Persons Act of 1948). It is unclear whether Georg died in Liebling/Romania, in a displaced persons camp, or after emigrating. His wife Elisabetha survived until 1993, and his daughter Maria Koller (b. 1929) emigrated to the Chicago area.
+
+**Unsourced claim**: No primary source documents found for Georg's death location or immigration status. David Dreyer's Banat Ship List shows Koller family members emigrating from Liebling, including one going to "cousin Andreas Koller" in Chicago in 1912. The Koller surname had established connections in Chicago before WWII.
 
 ## Document Sources
 

@@ -29,7 +29,8 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## 6th Gt Monroe Family
 
-**[[William_Line_to_pres_Monroe_6th_Gt_Monroe]]** (b. 1666, Mill Hill on Monroe Creek, Westmoreland, Virginia, Colonial America; d. 30 March 1737, Washingtonpar, Westmoreland, Virginia, Colonial America) (unverified)
+**[[William_Line_to_pres_Monroe_6th_Gt_Monroe]]** (b. 1666, Mill Hill on Monroe Creek, Westmoreland, Virginia, Colonial America; d. 30 March 1737, Washingtonpar, Westmoreland, Virginia, Colonial America) (will probated 1737, Westmoreland County; Moderate Signal)
+- Father: Major Andrew Monroe (d. 1668), son of David Munro of Katewell, Scotland; patented 200 acres Northumberland County 8 Jun 1650
 - Married [[Margaret_Jane_Bowcock]] on 1689 at Westmoreland County, Virginia, USA
 - Children: [[Spence_Andrew_Monroe]], [[William_MonroeMunro]], [[William_Munroe_III]], [[Andrew_Spence_Monroe_1692]], [[Thomas_MonroeMunro]], [[Sarah_MonroeMunro]], [[Jane_Monroe_1695]], [[Andrew_Spence_Monroe]], [[George_Monroe_1697]], [[Andrew_Monroe_1697]], [[Suzanne_Monroe]], [[Mary_Monroe]], [[George_A_Monroe_1725]], [[Spence_Monroe_1727]]
 
@@ -232,9 +233,10 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 **[[Anne_Arthur]]** (b. 1714, Bedford County, Virginia, USA; d. ?) (unverified)
 
-**[[Barnabas_Arthur]]** (b. 1735/36, Bedford County, Colony of Virginia, Colonial America; d. bef 02 Mar 1815, Bedford, Virginia, USA) (unverified)
+**[[Barnabas_Arthur]]** (b. 1735/36, Bedford County, Colony of Virginia, Colonial America; d. bef 02 Mar 1815, Bedford, Virginia, USA) (Bedford County militia; Moderate Signal)
 - Married [[Elizabeth_Talbot]]
 - Children: [[Elizabeth_Arthur]]
+- Military: Listed as "Barnabus Arthur Jr." on Bedford County militia rolls (Indian warfare, Revolutionary War)
 
 **[[Nancy_Ann_Arthur]]** (b. 1747, Goose Creek, Bedford, Virginia, United States; d. 1817, Pulaski, Kentucky, United States) (unverified)
 - Married [[Stephen_Hail_Sr]] on 5 Mar 1783 at VA
@@ -1080,9 +1082,11 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Burwell II Major .  7MGF Family
 
-**[[Lewis_Fairfield_Burwell_II_Major_._7MGF]]** (b. 1649, Hayes, Gloucester County, Virginia, United States of America; d. 19 Dec 1710, York County, Virginia, United States of America) (unverified)
+**[[Lewis_Fairfield_Burwell_II_Major_._7MGF]]** (b. 1651 or 1652, Gloucester County, Virginia; d. 19 Dec 1710, King's Creek, York County, Virginia) (will proved 10 Feb 1710/11, York County; Moderate Signal)
+- Mother: Lucy Higginson (confirmed by tombstone, Abingdon Church)
 - Married [[Abigail_Bacon_Smith]] on 1674 at Gloucester, Gloucester, Virginia, USA
-- Children: [[Maj_Nathaniel_Bacon_Burwell_I]]
+- Also married Martha (widow of Hon. William Cole)
+- Children: [[Maj_Nathaniel_Bacon_Burwell_I]], and additional sons James, Lewis; daughters Joanna, Elizabeth, Lucy, Martha, Jane (per will)
 
 ## Burwell III Family
 
@@ -1147,9 +1151,11 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## CLAY - Secretary of State Family
 
-**[[Henry_Charles_CLAY_-_Secretary_of_State_Jr]]** (b. 3 August 1672, Dale Parish, Chesterfield, Virginia, The United States of America; d. 3 August 1760, The Raells, Chesterfield, Virginia, The United States of America) (unverified)
-- Married [[Mary_Margaret_Hanna_Mitchell]]
+**[[Henry_Charles_CLAY_-_Secretary_of_State_Jr]]** (b. 3 August 1672, Dale Parish, Chesterfield, Virginia; d. 3 August 1760, The Raells, Chesterfield, Virginia) (will signed 28 Mar 1749, probated Sep 1760; Moderate Signal)
+- Father: Charles Clay (b. ca. 1640, d. ca. 1696) (per WikiTree Clay-84)
+- Married [[Mary_Margaret_Hanna_Mitchell]] on 1709 at Henrico County, Virginia
 - Children: [[William_Mitchell_Clay_Sr]]
+- Note: Great grandfather of statesman Henry Clay (1777-1852); GEDCOM name is misleading
 
 ## COMPTON Family
 
@@ -3121,9 +3127,11 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Ford Sr, Family
 
-**[[Thomas_C_Ford_Sr_Immigrant]]** (b. 1 November 1629, Hindon, Wiltshire, England; d. 7 June 1688, Anne Arundel, Maryland Colony) (unverified)
+**[[Thomas_C_Ford_Sr_Immigrant]]** (b. 1 November 1629, Hindon, Wiltshire, England; d. ca. October 1682, Anne Arundel, Maryland Colony) (land survey "Fordstone" 17 Nov 1659; estate inventoried ca. Oct 1682; Moderate Signal)
+- Immigration: entered Maryland ca. 1650; possibly servant "Thos Ford" transported before June 1652
 - Married [[Elizabeth_Eliza_Charde_Phillips]] on 1655 at Shrewsbury, Shropshire, England, United Kingdom
 - Children: [[John_Thomas_Forde]]
+- Note: GEDCOM death date (7 Jun 1688) likely incorrect; estate inventoried ca. Oct 1682
 
 ## Forde Family
 
@@ -4880,7 +4888,8 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Kirby Family
 
-**[[Richard_Kirby]]** (b. 1614, Rowington, Warwickshire, England, United Kingdom; d. 21 July 1688, Dartmouth, Bristol, Massachusetts Bay Colony, British Coloni, Avon, England, United Kingdom) (unverified)
+**[[Richard_Kirby]]** (b. ca. 1614, Rowington, Warwickshire, England; d. 21 July 1688, Dartmouth, Bristol County, Massachusetts) (Sandwich church records 1637; Plymouth Colony court records 1651, 1657; Strong Signal)
+- One of first eleven male members of Sandwich Church (1637). Fined as Quaker sympathizer (57 pounds 12 shillings). Moved to Dartmouth ca. 1662. Land purchases 1670 and 1683.
 - Married [[Jane_Barricke_Shipley_Vallence]] on abt 1660 at Oyster Bay, Nassau, New York
 - Children: [[Jane_Vallence_Kirby]], [[Richard_Vallence_Kirby_Jr]], [[Mary_Anne_Kirby]], [[Ruhamah_Vallence_Kirby]], [[Sarah_Vallence_Kirby]], [[Benjamin_Kirby]], [[Recompense_Vallence_Kirby]], [[Abigail_Vallence_Kirby]]
 
@@ -5550,9 +5559,11 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Meador Meadows Family
 
-**[[John_M_Thomas_Meador_Meadows_Sr.]]** (b. 31 Jul 1658, Charles Parish,  York,  Virginia,  United States; d. 21 November 1721, Rappahannock, Essex, Virginia, United States) (unverified)
-- Married [[Mary_Francis_Standish]]
-- Children: [[Jonas_Meadows]]
+**[[John_M_Thomas_Meador_Meadows_Sr.]]** (b. 31 Jul 1658, Charles Parish, York, Virginia; d. 21 November 1721, Essex County, Virginia) (will proved ca. 1721, Essex County; Moderate Signal)
+- Married (1) Elizabeth White (d. 17 Aug 1694, Essex Co., VA)
+- Married (2) Mary Awbrey (after 1694)
+- Children: 13 children by two wives (per will); GEDCOM lists only [[Jonas_Meadows]]
+- Note: GEDCOM spouse "Mary Francis Standish" may be in error; research identifies Elizabeth White and Mary Awbrey
 
 ## Meador \ Meadows Family
 
@@ -6086,10 +6097,11 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Parke, Of Stonington, Deacon Family
 
-**[[Thomas_Parke_Of_Stonington_Deacon]]** (b. 13 Feb 1615, Hitcham, Suffolk, England; d. 30 Jul 1709, Preston, New London County, Connecticut, United States of America) (unverified)
+**[[Thomas_Parke_Of_Stonington_Deacon]]** (b. 13 Feb 1615/16, Hitcham, Suffolk, England; d. 30 Jul 1709, Preston, New London County, Connecticut) (will 5 Sep 1707, proved 9 Aug 1709, New London Probate; Strong Signal)
 - Father: [[Robert_Parke_Sr]], Mother: [[Martha_Chaplin_Parke]]
-- Married [[Dorothy_Thompson]]
-- Children: [[Robert_Parke_8th_gg]]
+- Married [[Dorothy_Thompson]] on 20 Oct 1644 at Wethersfield, Connecticut
+- Children: [[Robert_Parke_8th_gg]], John (executor), Nathaniel, William, Thomas (deceased by 1707), Martha, Dorothy, Alice
+- First deacon of Church of Christ, Preston (organized 1698)
 
 ## Parkerson Family
 

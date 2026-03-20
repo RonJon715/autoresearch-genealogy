@@ -32,7 +32,11 @@ tags: [genealogy, hedrich, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Maria Hedrich was born on 28 April 1927. Her mother was Maria Koller (b. 1929, Liebling, Timis, Romania). She appears to be a daughter of Maria Koller and Friedrich Hedrich (b. 1927, Liebling). Per the Fredrich Hedrich obituary (Dignity Memorial), "Maria Rink" is listed as a daughter, which may correspond to this individual (married name Rink).
+
+**Immigration (Speculative):** As a child of Donauschwaben (Danube Swabian) parents from Liebling, Romania, Maria likely immigrated with or joined her parents in the Chicago, Illinois area as a post-WWII displaced person, arriving around 1950.
+
+**Naturalization:** Northern District, Illinois, U.S., Naturalization Index, 1926-1979 and Illinois, Federal Naturalization Records, 1856-1991 (Ancestry.com hints, not yet verified). National Archives at Chicago, ARC Title: Illinois, Petitions for Naturalization, 1906-1991, NAI Number: 593882, Record Group: RG 21.
 
 ## Document Sources
 

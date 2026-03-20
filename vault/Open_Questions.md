@@ -99,6 +99,24 @@ Research gaps and unresolved questions auto-detected during GEDCOM import on 202
 - **Impact**: Correcting birth year and place would narrow down parent search
 - **Status**: OPEN
 
+### 8. Hedrich/Koller family immigration details (Prompt 11)
+- **The question**: The Hedrich and Koller families emigrated from Liebling, Timis, Romania to Chicago, Illinois as post-WWII Donauschwaben displaced persons, arriving approximately 1950. Exact ship, port of entry, and arrival date remain unknown. Naturalization records exist (Ancestry.com hints cite Illinois Federal Naturalization Records and NARA M1285) but have not been accessed.
+- **Solvability**: HIGH (Ancestry.com subscription access to Illinois Federal Naturalization Records; NARA Chicago; Cook County Clerk naturalization index; Lieblinger Verein Chicago community records)
+- **Impact**: Would confirm immigration timeline, provide physical descriptions, witness names, and final destination details
+- **Status**: OPEN
+
+### 9. Charles C Faulkner passenger list hint
+- **The question**: Ancestry.com hints cite "New York, U.S., Arriving Passenger and Crew Lists, 1820-1957" and NARA M237 for Charles C Faulkner (b. 1830, North Carolina; d. 1897, Mississippi). However, Charles appears to have been born in the US. The Ancestry hint may be a false positive or may refer to a domestic coastal voyage.
+- **Solvability**: HIGH (Access the specific Ancestry.com hint to determine if genuine match)
+- **Impact**: LOW (would clarify whether hint is genuine or spurious)
+- **Status**: OPEN
+
+### 10. Johan George Seybold/Seabolt immigration details
+- **The question**: The vault records Johan George Seybold (b. 1752, Stuttgart, Germany; d. 1824, Jefferson County, Kentucky). Related Seybold(t) family members arrived at Philadelphia in 1754 (Johannes Seyboldt and Philip Seybolt on ship "Friendship"). The specific immigration of the vault individual is unconfirmed.
+- **Solvability**: MODERATE (Philadelphia passenger arrival records 1770s-1780s; Pennsylvania church records)
+- **Impact**: MODERATE (would confirm German immigrant ancestor and link to broader Seybold immigration)
+- **Status**: OPEN
+
 ## Data Acquisition Priorities
 
 | Priority | Record Type | Location | Expected Yield | Cost |
@@ -107,3 +125,6 @@ Research gaps and unresolved questions auto-detected during GEDCOM import on 202
 | 2 | Census records | Ancestry.com, FamilySearch.org | Household composition, ages, birthplaces | Free (FamilySearch) |
 | 3 | Church records | Local parishes, diocesan archives | Baptism, marriage, burial dates | Free to low cost |
 | 4 | Immigration records | NARA, Ancestry.com | Ship manifests, naturalization | Free (FamilySearch) |
+| 5 | Hedrich/Koller naturalization | Ancestry.com (Illinois Federal Naturalization Records); NARA Chicago (M1285); Cook County Clerk | Arrival date, ship, port, witnesses | Ancestry subscription |
+| 6 | Lieblinger Verein Chicago | lieblingerchicago.com; community contacts | Family immigration details, community records | Free |
+| 7 | Displaced persons records | NARA; IRO records; Truman Library | Ship manifests for DP arrivals 1948-1952 | Free (some online) |
