@@ -42,4 +42,4 @@ No biography written yet. See sources and vital information above.
 
 ## Data Discrepancies
 
-No discrepancies identified during import.
+1. **Marriage date error**: GEDCOM lists marriage to Henry T. Fletcher in 1829, Birmingham, Warwickshire, England. Mary was born 14 Nov 1838 and Henry was born 1 Dec 1840, making an 1829 marriage impossible. The date is clearly erroneous. Identified during Open Question Resolution (Prompt 08), 2026-03-20.

@@ -23,7 +23,7 @@ tags: [genealogy, joice\joyce, person]
 | Born | 6 November 1856 | GEDCOM import |
 | Birthplace | Teays Valley, Putnam, West Virginia, USA | GEDCOM import |
 | Died | 12 January 1929 | GEDCOM import |
-| Burial |  | GEDCOM import |
+| Burial | Mount Vernon Cemetery, Hurricane, Putnam County, WV | Find a Grave memorial #40912529 |
 | Father | [[Thomas_Joyce]] | GEDCOM import |
 | Mother | [[Malinda_Turner]] | GEDCOM import |
 | Spouse | [[Mary_Elizabeth_Fletcher_DL]] (m. 21 Mar 1895, Tazwell Co, Virginia, United States); [[Mary_Elizabeth_Fletcher]] (m. 15 Feb 1877, Putnam, West Virginia, United States) | GEDCOM import |
@@ -44,4 +44,5 @@ No biography written yet. See sources and vital information above.
 
 ## Data Discrepancies
 
-No discrepancies identified during import.
+1. **Cause of death**: Influenza and pneumonia. Source: Find a Grave memorial #40912529. Identified during Open Question Resolution (Prompt 08), 2026-03-20.
+2. **Marriage location**: Find a Grave states married 15 Feb 1877 at the home of Henry Fletcher in Putnam County. Vault also lists a second marriage date of 21 Mar 1895 in Tazewell Co., Virginia, to the same person (Mary Elizabeth Fletcher DL). The DL file and non-DL file appear to be duplicates of the same wife.

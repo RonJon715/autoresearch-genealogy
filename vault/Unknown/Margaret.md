@@ -42,4 +42,4 @@ No biography written yet. See sources and vital information above.
 
 ## Data Discrepancies
 
-No discrepancies identified during import.
+1. **Possible duplicate of Nancy Catherine McDaniel**: Both Margaret (b. ~1871) and [[Nancy_Catherine_McDaniel]] (b. 1862) are listed as spouses of [[George_Washington_Hale_Jr]] with the identical marriage date (31 Dec 1885, Hardin County, TN). These are likely the same person or a GEDCOM import artifact. Requires Hardin County marriage records to resolve. Identified during Open Question Resolution (Prompt 08), 2026-03-20.

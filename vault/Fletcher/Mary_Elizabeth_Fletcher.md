@@ -23,8 +23,8 @@ tags: [genealogy, fletcher, person]
 | Birthplace | Putnam, Virginia, United States | GEDCOM import |
 | Died | 25 Sep 1949 | GEDCOM import |
 | Burial |  | GEDCOM import |
-| Father | Unknown | GEDCOM import |
-| Mother | Unknown | GEDCOM import |
+| Father | [[Henry_T._FLETCHER]] | Find a Grave memorial #40912434; corroborated by DL duplicate file |
+| Mother | [[Mary_Melcina_Boyer]] | Find a Grave memorial #40912434; corroborated by DL duplicate file |
 | Spouse | [[George_Washington_JoiceJoyce]] (m. 15 Feb 1877, Putnam, West Virginia, United States) | GEDCOM import |
 | Children |  | GEDCOM import |
 

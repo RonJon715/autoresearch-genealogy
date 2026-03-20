@@ -46,4 +46,5 @@ No biography written yet. See sources and vital information above.
 
 ## Data Discrepancies
 
-No discrepancies identified during import.
+1. **Tentative mother identification**: One genealogy.com user tree identifies mother as Mary (Unknown) Turner (b. ~1775). No primary source confirmation. Confidence: Speculative. Identified during Open Question Resolution (Prompt 08), 2026-03-20.
+2. **Marriage location discrepancy**: Vault lists marriage to Thomas Joyce on 25 Jul 1843 in Patrick County, Virginia. Genealogy.com user tree says the marriage was recorded in Stokes County, NC. Needs verification against original records.

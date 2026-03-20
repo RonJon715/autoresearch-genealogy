@@ -42,4 +42,4 @@ No biography written yet. See sources and vital information above.
 
 ## Data Discrepancies
 
-No discrepancies identified during import.
+1. **Marriage date error**: GEDCOM lists marriage to Mary Melcina Boyer in 1829, Birmingham, Warwickshire, England. Henry was born 1 Dec 1840 and Mary was born 14 Nov 1838, making an 1829 marriage impossible. The date is clearly erroneous. The marriage likely occurred in the late 1850s or early 1860s, probably in Virginia or Putnam County, WV. Identified during Open Question Resolution (Prompt 08), 2026-03-20.

@@ -196,6 +196,266 @@ Chronological record of every archive searched, every query run, and every resul
 
 ---
 
+## 2026-03-20: Open Question Resolution (Prompt 08)
+
+### Systematic Search of 20 Individuals With Unknown Parents
+
+**Query**: Web searches for 20 individuals listed in Open_Questions.md as having vital records but no parent links. Multiple search strategies per individual: name + dates + location + "parents" + "genealogy"; site-specific searches (WikiTree, FamilySearch, Geni.com, Find a Grave); surname + location + broader family context searches.
+**Source**: Web search engines indexing WikiTree, FamilySearch, Geni.com, Find a Grave, genealogy.com, rootsweb, thomasandalexanderjoyceassociation.com, dvhh.org, banatbooks.com.
+
+---
+
+### Target 1: Mary Elizabeth Fletcher (b. 1858/1859, Putnam Co., WV)
+
+**Query**: "Mary Elizabeth Fletcher" born 1859 Putnam West Virginia parents genealogy
+**Source**: Find a Grave (memorial #40912434), vault duplicate file (Mary_Elizabeth_Fletcher_DL.md)
+**Results**: POSITIVE. Parents confirmed as Henry Fletcher (Henry T. Fletcher) and Mary E. Boyer (Mary Melcina Boyer). Find a Grave memorial for Mary Elizabeth Fletcher Joyce (1859-1949), buried at Mount Vernon Cemetery, Hurricane, Putnam County, WV, explicitly names parents. The DL version of her vault file already listed these parents from GEDCOM data.
+**Implication**: Strong Signal. Two independent sources (Find a Grave memorial and GEDCOM data in DL file) confirm parentage. Updated Mary_Elizabeth_Fletcher.md to add parent links. Henry T. Fletcher and Mary Melcina Boyer already exist in vault.
+**Next step**: Merge duplicate files Mary_Elizabeth_Fletcher.md and Mary_Elizabeth_Fletcher_DL.md.
+
+---
+
+### Target 2: Thomas Joyce (b. ~1803-1811, VA/NC?; d. 15 Jul 1879, Putnam Co., WV)
+
+**Query**: Multiple searches: "Thomas Joyce" born 1811 Putnam Virginia married "Malinda Turner" parents; Thomas Joyce Putnam County Virginia parents Alexander Joyce genealogy; site:genealogy.com Thomas Joyce Putnam Virginia Malinda Turner
+**Source**: genealogy.com (Thomas Joyce user tree), thomasandalexanderjoyceassociation.com, rootsweb (Kanawha County project, cwbush/genealogy/joyce.htm)
+**Results**: MIXED. Birth year likely ~1803-1805, not 1811 as in vault. Occupation listed as Laborer (1850) and Chair Maker (1870). Census records give contradictory birthplaces across four censuses: VA (1850), PA (1860), NY (1870), NC (death certificate, informant: widow). Family tradition says he came to Putnam County "running from the local sheriff." He is part of the broader Joyce lineage descending from Thomas Joyce (1722-1780) and Alexander Joyce (1719-1778) of Lunenburg County, VA (Scots Irish from County Down, Ireland). However, specific parentage for the Putnam County Thomas Joyce remains unidentified.
+**Implication**: Moderate Signal for broader family connection; Speculative for specific parents. The contradictory birthplaces suggest either deliberate evasion or census enumerator errors. A genealogy.com forum post titled "Unknown Joyce, father of Thomas" confirms that his parentage is an active research question in the Joyce genealogy community.
+**Next step**: Access original census images for 1850, 1860, 1870 to check household context. Obtain death certificate from Putnam County, WV. Check Stokes County, NC marriage records for 1843 (marriage to Malinda Turner was recorded there, per genealogy.com).
+
+---
+
+### Target 3: Malinda Turner (b. ~1812, VA; d. 9 Dec 1890, Putnam Co., WV)
+
+**Query**: "Malinda Turner" mother "Mary Turner" Virginia Putnam parents genealogy
+**Source**: genealogy.com (Thomas Joyce user tree), Geni.com
+**Results**: TENTATIVE. One user tree identifies mother as Mary (Unknown) Turner (b. ~1775). Father not identified. A Geni.com profile for Minerva Malinda Turner (b. 1873, Kanawha Co., WV) with parents Obadiah D Turner and Nancy Jane Dent is a different person. No primary source confirmation.
+**Implication**: Speculative. Single unsourced user tree claim for mother.
+**Next step**: Search Virginia marriage and census records for Turner families with daughter Malinda, b. ~1812.
+
+---
+
+### Target 4: Margaret (b. ~1871, TN)
+
+**Query**: "George Washington Hale" married Margaret 1885 Hardin Tennessee genealogy
+**Source**: WikiTree, FamilySearch, Geni.com
+**Results**: NEGATIVE for parent identification. However, discovered data quality issue: Margaret and Nancy Catherine McDaniel both listed as spouses of George Washington Hale Jr with identical marriage date (31 Dec 1885, Hardin Co., TN). These are likely the same person or a GEDCOM artifact.
+**Implication**: Data cleanup needed. No parent data found.
+**Next step**: Access Hardin County, TN marriage records (available from 1864) to verify whether one or two marriages occurred on that date.
+
+---
+
+### Target 5: Ruby D Faulkner (b. ~1917, MS) and Clent B Faulkner (b. ~1919, MS)
+
+**Query**: "Ruby D Faulkner" OR "Clent B Faulkner" 1920 census Hatley Monroe Mississippi parents
+**Source**: Web search
+**Results**: NEGATIVE. No specific results from web search. Both share the same 1920 census citation (Hatley, Monroe County, MS; Roll T625_886; Page 2A; ED 56), indicating they were in the same household and likely siblings.
+**Implication**: Requires subscription database (Ancestry.com or FamilySearch) to view the actual 1920 census image and identify the head of household (likely a parent).
+**Next step**: Access 1920 census image directly.
+
+---
+
+### Target 6: Author Faulkner (b. ~1880, TN)
+
+**Query**: "Author Faulkner" OR "Arthur Faulkner" McNairy Tennessee 1880 parents census
+**Source**: Web search
+**Results**: NEGATIVE. No specific results. "Author" is likely a phonetic census enumerator spelling of "Arthur."
+**Implication**: 1930 census (District 5, McNairy, TN; Page 3A; ED 0006) and 1940 census available on subscription databases.
+**Next step**: Access census images to identify parents or other household members.
+
+---
+
+### Target 7: May Lee Howell (b. 8 Nov 1888, Monroe Co., MS)
+
+**Query**: "May Lee Howell" Monroe Mississippi 1888 parents genealogy
+**Source**: Web search
+**Results**: NEGATIVE. No results.
+**Implication**: Requires subscription database or county records research.
+**Next step**: Search FamilySearch/Ancestry for Howell families in Monroe County, MS in 1900/1910 censuses.
+
+---
+
+### Target 8: Wilhelm Kind (b. 14 Jul 1858, Liebling, Timis, Hungary)
+
+**Query**: "Wilhelm Kind" Liebling Timis Hungary 1858 parents genealogy; Kind family Liebling Banat Donauschwaben genealogy
+**Source**: Web search; dvhh.org, banatbooks.com references
+**Results**: NEGATIVE for specific parent data. Identified specialized Donauschwaben genealogy resources: Familienbuch for Liebling (if exists), Stefan Stader's Sammelwerk Teil IV (covers surnames Kar through L), matricula-online.eu for Catholic parish registers, and the AKdFF research society.
+**Implication**: Banat German genealogy requires specialized resources not indexed by general web search engines. Liebling church records (Catholic) may be available on matricula-online.eu or through the Romanian National Archives in Timisoara.
+**Next step**: Check matricula-online.eu for Liebling parish registers. Check banatbooks.com for a Liebling Familienbuch.
+
+---
+
+### Target 9: Ollie Gertrude Watkins (b. May 1890, TN; d. Oct 1981)
+
+**Query**: "Ollie Gertrude Watkins" OR "Ollie Gertrude Faulkner" parents father "W Watkins" Tennessee McNairy
+**Source**: Web search
+**Results**: NEGATIVE. Vault already lists parents as [[W_Watkins]] (father) and [[J_Watkins]] (mother) but only by initials. Tennessee Death Records (1908-1965) may list full parent names.
+**Next step**: Access Tennessee death record for Ollie Gertrude to obtain full parent names.
+
+---
+
+### Target 10: Henry T. Fletcher (b. 1 Dec 1840, VA) and Mary Melcina Boyer (b. 14 Nov 1838, Fayette, VA)
+
+**Query**: "Henry T Fletcher" born 1840 Virginia parents genealogy wife "Mary Melcina Boyer"
+**Source**: Web search
+**Results**: NEGATIVE. No specific results. Noted GEDCOM error: marriage date listed as 1829, which predates both their births. Find a Grave memorial #40912529 (George Washington Joyce) confirms their daughter's marriage took place "at the home of Henry Fletcher," placing the family in Putnam County, WV.
+**Implication**: Marriage date is erroneous and should be corrected (likely 1858-1860 range).
+**Next step**: Search Putnam County, WV or Virginia marriage records for Fletcher-Boyer marriage. Check 1850-1860 Virginia census for Fletcher and Boyer families.
+
+---
+
+### Targets 11-16: Lyda Mae Lafon, Holland M Ray, Homer A Anderson, Joel Joseph Griffin, Robert Lee Graham, Rachel Elizabeth Hampton
+
+**Queries**: Individual searches for each person using name, birth year, location, and genealogy terms.
+**Source**: Web search, FamilySearch, WikiTree
+**Results**: NEGATIVE for all six individuals. No specific parent data found through web searches. Robert Lee Graham appears on FamilySearch with multiple records but no exact match confirmed. Rachel Elizabeth Hampton: multiple Hampton families found but no confirmed connection.
+**Implication**: All six require subscription database research (Ancestry.com, FamilySearch direct search) or county-level vital records.
+**Next step**: Systematic search on FamilySearch.org for each individual using their known vital data.
+
+---
+
+### Target 17: Nancy Catherine McDaniel (b. 15 Aug 1862, Hardin Co., TN)
+
+**Query**: "Nancy Catherine McDaniel" born 1862 Hardin County Tennessee parents genealogy married Hale
+**Source**: Web search
+**Results**: NEGATIVE. No results. See Margaret entry above for related data quality issue.
+**Next step**: Access Hardin County, TN vital records.
+
+---
+
+### Target 18: Martha Elizabeth Griffin-wilkins
+
+**Query**: "Martha Elizabeth Griffin" Wilkins parents genealogy
+**Source**: Web search
+**Results**: NEGATIVE. No results.
+**Next step**: Check Tishomingo County, MS records (parents Joel Joseph Griffin and Rachel Elizabeth Hampton are from that area).
+
+---
+
+### George Washington Joyce Burial Confirmation (incidental finding)
+
+**Query**: "George Washington Joyce" 1856 Putnam West Virginia parents "Thomas Joyce" "Malinda Turner"
+**Source**: Find a Grave (memorial #40912529), genealogy.com
+**Results**: POSITIVE. George Washington Joyce (b. 6 Nov 1856, Scott Depot, Putnam Co., WV; d. 12 Jan 1929). Parents: Thomas (Tommy) Joyce and Melinda Turner. Married Mary Elizabeth Fletcher on 15 Feb 1877 at the home of Henry Fletcher. Cause of death: influenza and pneumonia. Buried at Mount Vernon Cemetery, Hurricane, Putnam Co., WV.
+**Implication**: Confirms existing vault data for George Washington Joyce's parents. Also provides burial location not previously recorded.
+
+---
+
+## 2026-03-20: Timeline Gap Analysis (Prompt 07)
+
+### Overview
+
+Analyzed 25 priority persons from Family_Tree.md across 9 core family lines (Faulkner, Hale, Bowles, Monroe, Crum, McKinney, Moffett, Welch, Meador). Generated 251 expected life events; 216 OPEN gaps, 29 FOUND, 6 NOT_APPLICABLE. Full results saved to [[timeline_gaps]].
+
+---
+
+### Target 1: Ola Faulkner (b. 1891, Tennessee; d. 20 Jan 1947)
+
+**Query**: "Ola Faulkner" Capooth married Ramer McNairy Tennessee
+**Source**: Find a Grave (memorial #80541896, Gillion Marie Capooth Clark)
+**Results**: POSITIVE. Ola Faulkner married Edd Capooth and was known as "Ola Faulkner Capooth." Their daughter Gillion Marie Capooth (1920 to 1946) married Johnie D Clark, buried at Olive Hill Church Cemetery, Chewalla, McNairy County, Tennessee.
+**Implication**: Moderate Signal. Married name identified via daughter's burial record. Confirms Ramer, McNairy County connection.
+**Next step**: Updated Ola_Faulkner.md with spouse and child information. Search for Ola Faulkner Capooth death record in Tennessee death index.
+
+---
+
+### Target 2: Raymond Lee Faulkner (b. 2 Nov 1938, Guys, McNairy Co., TN; d. 4 May 2000)
+
+**Query**: Raymond Lee Faulkner 1938 Guys McNairy County Tennessee obituary death 2000
+**Source**: Web search (alternativefuneralcremation.com, legacy.com, deathindexes.com)
+**Results**: TENTATIVE. An obituary page exists at alternativefuneralcremation.com (obId=46812610) but the site returned HTTP 403 when fetched. Could not verify content. The 1940 Census source was already in the vault file.
+**Implication**: Person file already contains 1940 Census reference. Obituary may exist but could not be accessed.
+**Next step**: Manual check of alternativefuneralcremation.com obituary page. Search Tennessee death index at tslaindexes.tn.gov.
+
+---
+
+### Target 3: Joel Harvey Crum (b. 10/9/1841, Scottsburg, Scott, IN; d. 1911)
+
+**Query**: "Joel Harvey Crum" Civil War Indiana; site:wikitree.com "Joel Crum" Scott County Indiana; NPS Civil War soldiers "Joel Crum" Indiana; "Joel Harvey Crum" Shelby County Indiana
+**Source**: WikiTree (Crum-1026), shelbycountyindiana.org, NPS Civil War database (via web search)
+**Results**: NEGATIVE for this specific individual. Found Joel Crum of Shelby County (b. 1816, Pennsylvania), a different person. Found Harvey Crum Jr. (1847 to 1867) buried in Lorain County, Ohio, also different. No match on NPS Civil War soldier search. No Find a Grave memorial found.
+**Implication**: Joel Harvey Crum (b. 1841) does not appear in online indexed sources. May require direct searches on Ancestry.com, FamilySearch, or Fold3 for Indiana Civil War records, or contact with Scott County historical society.
+**Next step**: Search Ancestry.com Indiana Civil War Soldier Database Index (1861 to 1865) directly. Check 1870 and 1880 census on FamilySearch for Scott County, Indiana.
+
+---
+
+### Target 4: John Fielden Hale (b. 28 Jun 1847, Grayson County, VA; d. 21 Feb 1928)
+
+**Query**: "John Fielden Hale" 1847 Virginia Alabama Find a Grave; "Fielden Lewis Hale" children sons Grayson Virginia wikitree; "Rufus Marion Hale" Grayson Virginia "Margaret Isom"
+**Source**: Find a Grave (memorial #137542862, Fielden Lewis Hale), WikiTree (Hale-614, Hale-5791), New River Notes, vtcrewcat.wordpress.com
+**Results**: NEGATIVE for John Fielden Hale specifically. Found extensive documentation on Fielden Lewis Hale (1814 to 1894), Captain of Company D, 29th Virginia Infantry (CSA). His brother Chapman G. Hale married Margaret Isom. The vault file lists John Fielden Hale's mother as "Margaret Isom," suggesting John Fielden Hale may be a son of Chapman G. Hale (not Fielden Lewis Hale or Rufus Marion Hale).
+**Implication**: Speculative. The "Fielden" middle name plus the "Margaret Isom" mother strongly suggests a connection to Chapman G. Hale's family. The father listed in the vault ("Rufus Marion Hale") needs verification.
+**Next step**: Search 1850 and 1860 census for Chapman G. Hale household in Grayson County, Virginia. Verify whether "Rufus Marion Hale" is a son of Chapman G. Hale.
+
+---
+
+### Target 5: Frances "Fanny" Monroe (b. 14 Apr 1824, New York; d. 1906)
+
+**Query**: "Frances Monroe" 1824 "New York" death 1906 census obituary
+**Source**: Web search
+**Results**: NEGATIVE. No results returned. Name too common for the era.
+**Implication**: Census records (1850 through 1900) should exist but require direct database searches with additional household identifiers.
+**Next step**: Search FamilySearch or Ancestry using spouse/household members from Family_Tree.md.
+
+---
+
+### Target 6: Walter Bowles (b. 5 Aug 1884, WV; d. 1937)
+
+**Query**: Walter Bowles 1884 West Virginia 1937 census obituary death
+**Source**: Web search (deathindexes.com, WV Division of Culture and History)
+**Results**: NEGATIVE. General WV death record portals identified but no specific record found.
+**Implication**: WV death records searchable at archive.wvculture.org. Census records (1900 through 1930) should exist.
+**Next step**: Search WV Vital Records at archive.wvculture.org. Search FamilySearch for census records.
+
+---
+
+### Target 7: Seldon Welch Sr (b. 12 Feb 1890, Hardin Co., TN; d. 1960)
+
+**Query**: "Seldon Welch" 1890 "Red Sulphur Springs" Tennessee census death 1960
+**Source**: Web search
+**Results**: NEGATIVE. No results returned.
+**Next step**: Search Tennessee State Library death records index. Search FamilySearch for census records.
+
+---
+
+### Target 8: John Otis Moffett (b. 30 Mar 1892, Brinkley, AR; d. 1948)
+
+**Query**: "John Otis Moffett" 1892 Brinkley Arkansas McNairy Tennessee death 1948
+**Source**: Web search
+**Results**: NEGATIVE. No results returned.
+**Next step**: Search FamilySearch for WWI draft registration card. Search census records.
+
+---
+
+### Target 9: Arlie McKinney (b. 10 Jun 1914, Sandstone, WV; d. 1992)
+
+**Query**: "Arlie McKinney" 1914 Sandstone Summers "West Virginia" obituary death 1992
+**Source**: Web search
+**Results**: NEGATIVE. No results returned.
+**Next step**: Search FamilySearch for 1920, 1930, 1940 census and WWII draft card.
+
+---
+
+### Target 10: Remaining Persons (Negative Results Summary)
+
+**Persons searched**: Nancy Rosebelle McKinney (b. 1877, WV), Polly McKinney (b. 1792, NC), James Christian Crum (b. 1797, KY), Joseph Bowles (b. 1795, VA), Grady George Moffett (b. 1921, TN), Evelyn Welch (b. 1921, MS), Melba Louise Moffett (b. 1929, AR), Rubena Welch (b. 1929, MS), Jessie Bowles (b. 1934, WV), Robert E Bobby Hale (b. 1940, MS), Margaret Catherine Faulkner (b. 1942, FL)
+**Source**: Web search (various queries per individual)
+**Results**: NEGATIVE for all. None produced specific census, vital, or burial records through web search alone.
+**Implication**: These individuals require direct searches on FamilySearch.org, Ancestry.com, or Fold3.com, which have digitized census and vital record collections that are not fully indexed by general web search engines.
+**Next step**: Prioritize FamilySearch direct searches for 1940 census (fully indexed and free), then 1930 and 1920.
+
+---
+
+### Bulk Search: McNairy County, TN Faulkner Family Census Availability
+
+**Query**: Faulkner family Guys McNairy County Tennessee 1920 1930 census
+**Source**: FamilySearch wiki, Ancestry.com, TNGenWeb
+**Results**: POSITIVE for general availability. 1920, 1930, and 1940 federal census records for McNairy County are digitized and indexed. Found reference to Eddie Faulkner (1905 to 1933), son of Joseph Marcus Faulkner and Heneritta Climintine Crum Faulkner, in the 1930 census.
+**Implication**: Census records for all Faulkner family members in McNairy County should be findable via FamilySearch or Ancestry direct search.
+**Next step**: Systematically search each priority Faulkner individual in census records on FamilySearch.
+
+---
+
 ## Logging Convention
 
 Every search gets logged, positive or negative. Use this format:
