@@ -29,7 +29,7 @@ tags: [genealogy, burwell-ii-major-.--7mgf, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Lewis Burwell II (ca. 1651/1652, 19 December 1710) was born in Gloucester County, Virginia, the only child of Major Lewis Burwell I and Lucy Higginson. He was one of the wealthiest men in Virginia. In 1704, he paid taxes on 26,650 acres across six counties, making him one of the largest landowners in the colony. He resided at "King's Creek" in York County and "Carter's Creek" (Fairfield) in Gloucester County. He first married Abigail (Bacon) Smith ca. 1674; after her death, he married Martha, the widow of the Hon. William Cole. He had four sons and six daughters by his first wife and two sons and three daughters by his second. Governor Spotswood complained in 1713 about the Burwell family's influence on the Council. (Source: Encyclopedia Virginia)
 
 ## Document Sources
 
@@ -37,7 +37,10 @@ No biography written yet. See sources and vital information above.
 |---|---|---|
 | GEDCOM import from Ancestry.com | GEDCOM export | |
 | Geneanet Community Trees Index | Ancestry.com hint | |
+| Will of Lewis Burwell II (11 Oct 1710, proved 10 Feb 1710/11) | Will, York County VA | [[Lewis_Burwell_II_Will_1710]] |
+| Tombstone inscription, Abingdon Church, Gloucester County | Inscription | [[Lewis_Burwell_II_Will_1710]] |
 
 ## Data Discrepancies
 
-No discrepancies identified during import.
+- GEDCOM gives birth year as 1649. Encyclopedia Virginia and WikiTree give 1651 or 1652. The later date is more consistent with his father Lewis Burwell I dying ca. 1652/53.
+- GEDCOM lists mother as Unknown. Mother was Lucy Higginson, confirmed by tombstone inscription and Encyclopedia Virginia.

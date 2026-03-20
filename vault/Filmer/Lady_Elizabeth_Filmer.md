@@ -33,7 +33,11 @@ tags: [genealogy, filmer, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Lady Elizabeth Filmer was born 7 January 1593 at Sutton Manor, East Sutton, Kent, England, daughter of Sir Edward Henry Filmer VII (Knight of Chester and High Sheriff of Kent) and Dame Elizabeth Argall (Countess of Kent).
+
+**Immigration (Moderate Signal):** Elizabeth is listed in the "U.S. and Canada, Passenger and Immigration Lists Index, 1500s-1900s" (Ancestry.com hint, not yet verified) and associated with a Maryland land record dated 1665 (Place: Maryland; Year: 1665; Page Number: 97). She married William Faulkner on 6 February 1629 at St. Benet, Paul's Wharf, London. The Faulkner/Filmer family appears to have emigrated to the Colony of Maryland, where Elizabeth died on 19 December 1662 in Kent County, Maryland.
+
+**Unsourced claim**: The exact ship and date of immigration have not been identified. The immigration list index entry needs to be retrieved from Ancestry.com to determine the specific source being cited.
 
 ## Document Sources
 

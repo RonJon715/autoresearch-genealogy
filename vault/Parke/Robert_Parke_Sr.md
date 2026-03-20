@@ -31,7 +31,9 @@ tags: [genealogy, parke, person]
 
 ## Biography
 
-Robert Parke was baptized 3 June 1580 at Poslingford, Suffolk, England, son of Robert Parke and Alice Chaplin. He married his first cousin Martha Chaplin on 9 February 1601/2 at Semer, Suffolk. The couple lived in Hitcham and other parishes in Suffolk, where their children were baptized. In 1630, Robert and his family immigrated to New England as part of the Winthrop Fleet, initially settling in Roxbury, Massachusetts. By 1640 the family had removed to Wethersfield, Connecticut. Robert died in 1665.
+Robert Parke was baptized 3 June 1580 at Poslingford, Suffolk, England, son of Robert Parke and Alice Chaplin. He married his first cousin Martha Chaplin on 9 February 1601/2 at Semer, Suffolk. The couple lived in Hitcham and other parishes in Suffolk, where their children were baptized.
+
+**Immigration (Strong Signal):** Robert Parke sailed from Cowes on the Isle of Wight on 29 March 1630 aboard the ship Arbella, flagship of the Winthrop Fleet, arriving in Boston, Massachusetts on 17 June 1630 with approximately 76 passengers. During the voyage he served as Secretary to Governor John Winthrop. He initially settled in Roxbury, Massachusetts. By 1640 the family had removed to Wethersfield, Connecticut. He later moved to New London in 1649 and died in 1665 in Mystic, Connecticut. (WikiTree Parke-9; Geni.com; David Livingstone Parke, "Robert Parke, 1580-1665: Immigrant from England in 1630 with the Winthrop Fleet"; FamilySearch library item 524786; Encyclopedia article on Winthrop Fleet)
 
 ## Document Sources
 

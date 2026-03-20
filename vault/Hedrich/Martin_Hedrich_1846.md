@@ -30,7 +30,15 @@ tags: [genealogy, hedrich, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Martin Hedrich was a Donauschwabe (Danube Swabian) from the village of Liebling in the Banat region (then Austria-Hungary, now Timis County, Romania). The Hedrich family is documented in two Ortsfamilienbücher (parish family books) for Liebling:
+
+1. Johann Möhler, *Ortssippenbuch Liebling im Banat* (Altshausen, 1979), 836 pages, covering 6,303 families. Copies held at DZfG, Salt Lake City, Mannheim, and Staatsbibliothek Preussischer Kulturbesitz Berlin. (Strong Signal; published Ortsfamilienbuch based on parish records)
+
+2. Adam Arnold, *Lieblinger Familienbuch* (1994; 2001 CD-ROM edition). (Strong Signal; published Ortsfamilienbuch)
+
+The Hedrich surname appears in David Dreyer's Banat Ship List database, documenting emigration from Liebling to the United States and Canada. Hedrich family members emigrated to Chicago, Harrisburg (PA), and Winnipeg. One entry notes "Hedrich Baltasar, age 29, from Liebling, arrived 4 Apr 1929 via Cherbourg/Quebec on the ship Carinthia, destined for Winnipeg, MB, accompanied by wife Elisabeth (21), mother Maria Hedrich lived in Liebling." (Moderate Signal; Dreyer Database, extracted from passenger manifests)
+
+**Note**: The Liebling Ortsfamilienbuch (Möhler 1979) would contain detailed parish record data for Martin Hedrich and his family, but the book has not been digitized for free online access. The St. Louis County Library History and Genealogy Department holds Ortsfamilienbücher and offers up to three surname lookups by email with up to thirty pages scanned at no charge.
 
 ## Document Sources
 
@@ -39,6 +47,9 @@ No biography written yet. See sources and vital information above.
 | GEDCOM import from Ancestry.com | GEDCOM export | |
 | Ancestry Family Trees | Ancestry.com hint | |
 | Ancestry Family Tree | Ancestry.com hint | |
+| Johann Möhler, *Ortssippenbuch Liebling im Banat* (1979) | Published Ortsfamilienbuch (not yet consulted) | Held at DZfG, Salt Lake City, Mannheim, Berlin |
+| Adam Arnold, *Lieblinger Familienbuch* (1994/2001 CD-ROM) | Published Ortsfamilienbuch (not yet consulted) | |
+| David Dreyer's Banat Ship List database | Emigration records | freepages.rootsweb.com/~banatdata/genealogy/DDB/ |
 
 ## Data Discrepancies
 

@@ -25,12 +25,12 @@ tags: [genealogy, faulkner, person]
 | Burial |  | GEDCOM import |
 | Father | [[Joseph_Marcus_Faulkner]] | GEDCOM import |
 | Mother | [[Henrietta_Clemintine_Crum]] | GEDCOM import |
-| Spouse |  | GEDCOM import |
-| Children |  | GEDCOM import |
+| Spouse | Edd Capooth (married name: Ola Faulkner Capooth) | Find a Grave memorial #80541896 (daughter's memorial) |
+| Children | Gillion Marie Capooth Clark (1920 to 1946) | Find a Grave memorial #80541896 |
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Ola Faulkner married Edd Capooth and was known as Ola Faulkner Capooth. The family lived in the Ramer area of McNairy County, Tennessee. Their daughter Gillion Marie Capooth (1920 to 1946) married Johnie D Clark and is buried at Olive Hill Church Cemetery in Chewalla, McNairy County, Tennessee (Find a Grave memorial #80541896). Confidence: Moderate Signal (derived from daughter's burial record, not a direct primary source for Ola herself).
 
 ## Document Sources
 
@@ -39,7 +39,8 @@ No biography written yet. See sources and vital information above.
 | GEDCOM import from Ancestry.com | GEDCOM export | |
 | Ancestry Family Trees | Ancestry.com hint | |
 | Ancestry Family Tree | Ancestry.com hint | |
+| Find a Grave memorial #80541896 (Gillion Marie Capooth Clark) | Find a Grave | Identifies Ola Faulkner Capooth as mother; confirms Ramer, McNairy Co., TN connection |
 
 ## Data Discrepancies
 
-No discrepancies identified during import.
+Spouse field was empty in GEDCOM import. Find a Grave memorial for daughter identifies spouse as Edd Capooth.

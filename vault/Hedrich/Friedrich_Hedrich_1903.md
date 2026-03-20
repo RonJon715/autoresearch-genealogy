@@ -30,7 +30,11 @@ tags: [genealogy, hedrich, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Friedrich Hedrich was born on 19 July 1903 in Liebling, Timis, Hungary (now Romania), a Donauschwaben (Danube Swabian) village in the Banat region. His parents are unknown in the GEDCOM import.
+
+**Immigration (Moderate Signal):** Friedrich emigrated from the Romanian Banat to the United States as a post-WWII displaced person, arriving around 1950 with his family. The family settled in Chicago, Cook County, Illinois. He died on 24 July 1981 in Chicago.
+
+**Unsourced claim**: No primary source documents have been located for his specific immigration date or ship. The approximate arrival year of 1950 is inferred from the broader pattern of Donauschwaben displaced persons emigration under the Displaced Persons Act of 1948 and from the 1950 arrival date confirmed for a related Martin Hedrich family from Liebling (Legacy.com obituary, Martin Hedrich Sr., 2015).
 
 ## Document Sources
 

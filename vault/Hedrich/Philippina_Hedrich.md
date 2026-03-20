@@ -33,7 +33,11 @@ tags: [genealogy, hedrich, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Philippina Hedrich was born on 24 September 1906 in Liebling, Timis, Hungary (now Romania), a Donauschwaben (Danube Swabian) village in the Banat region. Her father was Martin Hedrich (b. 1882, Liebling) and her mother was Maria Barbara Kind.
+
+**Immigration (Moderate Signal):** Philippina emigrated from the Romanian Banat to the United States as a post-WWII displaced person, arriving around 1950. The Donauschwaben community in the Banat was displaced beginning in 1944 during the Soviet advance. She settled in Chicago, Cook County, Illinois, where a large Donauschwaben community existed.
+
+She married Friedrich Hedrich (b. 1903, Liebling). Philippina, 88, died on 30 July 1995 in Chicago. Her obituary was published in the Chicago Tribune on 1 August 1995. She was described as the devoted wife of the late Frederich, beloved mother of Fred (Maria) and Katherina (Stefan) Just. Visitation was at Drake Son Funeral Home, 5303 N. Western, Chicago, with interment at Rosehill Cemetery. (Chicago Tribune obituary, 1 Aug 1995; Newspapers.com)
 
 ## Document Sources
 

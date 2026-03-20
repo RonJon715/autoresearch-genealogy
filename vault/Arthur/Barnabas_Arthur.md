@@ -30,7 +30,7 @@ tags: [genealogy, arthur, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Barnabas Arthur (b. 1735/36, Bedford County, Colony of Virginia; d. before 2 March 1815, Bedford, Virginia). Son of John Arthur Sr. and Sarah Elizabeth Dixon. Married Elizabeth Talbot. "Barnabus Arthur Jr." appears on Bedford County militia rolls as a soldier engaged in warfare with the Indians, French, and British before the Declaration of Independence and during the Revolutionary War. The "Jr." designation in colonial records indicates relative age in the community, not necessarily father/son. (Sources: Bedford County militia records; Genealogy Trails Bedford County; Dunn, *Bedford County, Virginia Militia 1774-1783*)
 
 ## Document Sources
 
@@ -39,6 +39,7 @@ No biography written yet. See sources and vital information above.
 | GEDCOM import from Ancestry.com | GEDCOM export | |
 | Ancestry Family Trees | Ancestry.com hint | |
 | Ancestry Family Tree | Ancestry.com hint | |
+| Bedford County militia rolls (pre-1776 and Revolutionary War) | Military record | [[Barnabas_Arthur_Bedford_Militia]] |
 
 ## Data Discrepancies
 

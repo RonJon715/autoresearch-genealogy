@@ -33,7 +33,9 @@ tags: [genealogy, bourne, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+According to B.F. Nuckolls, *Pioneer Settlers of Grayson County, Virginia* (1914), Chapter II: Elizabeth was born March 20th, 1785, and married Capt. Lewis Hale. This confirms the vault's existing data (b. 20 March 1785, married Lewis Hale). (Moderate Signal; secondary source, local history)
+
+Note: Nuckolls was the grandson of Clark Nuckolls and Rosa Bourne Hale Nuckolls, making the Bourne/Hale connection a direct family tradition recorded in the book.
 
 ## Document Sources
 
@@ -45,6 +47,7 @@ No biography written yet. See sources and vital information above.
 | U.S., Sons of the American Revolution Membership Applications, 1889-1970 | Ancestry.com hint | |
 | Bristol, England, Select Church of England Parish Registers, 1720-1933 | Ancestry.com hint | |
 | U.S., Find A Grave Index, 1600s-Current | Ancestry.com hint | |
+| B.F. Nuckolls, *Pioneer Settlers of Grayson County, Virginia* (1914), Ch. II | Local history (secondary source) | Confirms birth date and marriage to Lewis Hale |
 
 ## Data Discrepancies
 
