@@ -456,6 +456,124 @@ Analyzed 25 priority persons from Family_Tree.md across 9 core family lines (Fau
 
 ---
 
+## 2026-03-20: Unresolved Persons Audit (Prompt 06)
+
+### Overview
+
+Extracted all named individuals mentioned across 2,274 person files, Family_Tree.md, and the Research Log. Cross referenced against existing person files. Identified 40 unresolved persons: 27 "Likely family," 12 "Community connection," and 1 "Cannot identify." Full results saved to [[unresolved_persons]].
+
+---
+
+### Search 1: Ann Ballard, wife of John Buckner, Virginia
+
+**Query**: Ann Ballard wife John Buckner Virginia colonial 1690s genealogy
+**Source**: WikiTree (Ballard-1916, Buckner-129), Geni.com, genealogy.com, ballardofvirginia.com
+**Results**: POSITIVE. Ann Ballard (b. ~1686, d. ~1727). Married John Buckner ~1700 in Virginia. Deed dated 17 Jul 1727, Essex Co., in which she gave 500 acres in St. Mary's Parish to son John Buckner Jr. Possible daughter of Thomas Ballard and Katherine Hubbard, but this parentage is marked uncertain on WikiTree. Siblings may include Katherine (Ballard) Buckner, William Ballard Sr, Elizabeth (Ballard) Smith, John Ballard Sr, Robert Ballard.
+**Implication**: Moderate Signal. The deed confirms her existence and role. Parents remain disputed.
+**Next step**: No person file created. Logged in unresolved_persons.md. Would need Ballard family Bible records or Essex County deed abstracts to confirm parentage.
+
+---
+
+### Search 2: "The Longs," neighbors of Elizabeth Buckner, Caroline County, VA
+
+**Query**: "the Longs" neighbors Elizabeth Buckner Caroline County Virginia 1740s genealogy
+**Source**: WikiTree (Buckner-1221, Buckner-1247), buckbd.com (Corrections to Crozier), FamilySearch
+**Results**: POSITIVE for land records context. A 6 May 1713 indenture identifies Richard Long of St. Mary's Parish, Essex Co., as a neighbor with land bounding on John Buckner. John Long also named as a neighbor. Elizabeth Buckner's maiden name remains unknown, but the Longs are "leading candidates for her birth family" per WikiTree Buckner-1221. Two widow Elizabeth Buckners may have existed in Caroline Co. simultaneously.
+**Implication**: Community connection; possibly family. Not enough evidence to establish a maiden name.
+**Next step**: Investigate Caroline County deed books and order books (1728 to 1760) for Long family documents naming Elizabeth.
+
+---
+
+### Search 3: Thomas Jordan III and siblings (sons of Thomas Jordan II)
+
+**Query**: Thomas Jordan III son Thomas Jordan II Nansemond County Virginia Quaker genealogy
+**Source**: WikiTree (Jordan-192), Geni.com, Find a Grave (memorial 98348055), Boddie's "Seventeenth Century Isle of Wight, Virginia," Hinshaw's "Encyclopedia of American Quaker Genealogy"
+**Results**: POSITIVE. All ten sons identified with birth years, spouses, and death dates. Thomas III (1660/61 to 1759) married Elizabeth Burgh. John (1663 to ~1712) married Margaret Burgh. James (1665/66 to 1732) married Elizabeth Ratcliff, then Anne Roseter. Robert (1668 to 1728) married Christian Taberer, then Mary Belser, then Dorothy Cary. Richard (1670 to 1739) married Rebecca Ratcliff. Joseph (1672 to ~1752) married Holia Christian (Philochristi Akehurst). Benjamin (1674 to 1715/16) married Sarah Ratcliff. Matthew (1676/77 to 1747) married Dorothy Newby, then Susanna Bressie. Samuel (1679 to aft. 1724) married Elizabeth Fleming. Joshua (1681 to 1716/17) married Elizabeth Sanbourne. Two daughters (Elizabeth and Margaret) also recorded.
+**Implication**: Strong Signal. Published genealogies (Boddie, Hinshaw) corroborate online databases. All ten sons are siblings of the existing [[Elizabeth_Jordan]] in the vault.
+**Next step**: Logged in unresolved_persons.md. Person files recommended as high priority. These would extend the Jordan branch of the tree significantly.
+
+---
+
+### Search 4: Robert Parke Jr and siblings (children of Robert Parke and Martha Chaplin)
+
+**Query**: Robert Parke Jr son Robert Parke Martha Chaplin Winthrop Fleet 1630 Connecticut genealogy
+**Source**: WikiTree (Parke-9), Geni.com, archive.org (Genealogy of the Parke Families of Connecticut), TAG vol. 82, no. 4 (2007)
+**Results**: POSITIVE. Children identified: Martha Parke (b. ~1603, Semer), Robert Parke Jr (bapt. 4 Jun 1605, Semer), William Parke (bapt. 21 Apr 1607, Semer, d. 11 May 1685, Roxbury; called "oldest son" in father's will; married Martha Holgrave), Thomas Parke (b. 13 Feb 1615/6, Hitcham; already in vault), Anne Parke (bapt. 3 Dec 1618, Hitcham), Samuel Parke (bapt. 20 Jun 1621, Bildeston; named in father's will; married Hannah, surname unknown). Robert Parke's will (14 May 1660, probated 14 Mar 1664/5) mentions only three children: William, Samuel, and Thomas. Robert Jr may have stayed in England.
+**Implication**: Strong Signal. Published genealogy and WikiTree agree. William Parke and Samuel Parke have Strong Signal confidence.
+**Next step**: Logged in unresolved_persons.md. Person files recommended for William Parke and Samuel Parke as second priority (siblings of [[Thomas_Deacon_Parke]]).
+
+---
+
+### Search 5: Ambrose Garland, Thomassin Tackle, and Peter Garland parentage
+
+**Query**: "Ambrose Garland" "Thomassin Tackle" Peter Garland Virginia genealogy
+**Source**: WikiTree (Garland-1079, Garland-251), Geni.com
+**Results**: MIXED. WikiTree lists Ambrose Garland (b. ~1601) as husband of Thomassin (Tackle) Garland and father of Peter Garland. Geni.com profile has a note "Do not see evidence for Ambrose Garland & Thomasin Tackle as parents," disconnected in Jun 2015. The alternative lineage (Peter Garland II "the Mariner" and Elizabeth Coles) also exists. WikiTree notes: "Ancestry genealogies have confused Peter the son of Peter and Elizabeth Coles with Peter the son of Ambrose."
+**Implication**: Disputed. Low confidence. No primary sources found for either parentage claim.
+**Next step**: No action. This dispute cannot be resolved with currently available online sources.
+
+---
+
+### Search 6: Elizabeth Bassenden, wife of Thomas Bourne Sr
+
+**Query**: "Elizabeth Bassenden" OR "Elizabeth Bisbee" wife Thomas Bourne Marshfield Plymouth Massachusetts genealogy
+**Source**: stanleyhistory.net (Bourne narrative), Geni.com
+**Results**: POSITIVE. Elizabeth Bassenden (b. 1590, Biddenden, Kent; d. 18 Jul 1660, Marshfield, MA). Married Thomas Bourne ~1614. All children born in England. Sons in law: John Bradford (married Martha Bourne), Josiah Winslow (married Margaret Bourne), Robert Waterman (married Elizabeth Bourne), Nehemiah Smith (married Ann Bourne), Nathaniel Tilden (married Lydia Bourne). Thomas Bourne's will (1664) names bequests to all daughters by married names. Connection between Bassenden/Baseden surnames noted: Alice Besbege (daughter in law)'s mother was Anne Baseden of Frittenden, Kent.
+**Implication**: Moderate Signal. The stanleyhistory.net narrative is secondary but cites will records. The "Bassenden" surname is speculative per WikiTree Bourne-2 which says "sometimes speculatively given as Bassenden." The Bassenden/Baseden overlap with the Bisbee family is intriguing but unconfirmed.
+**Next step**: Logged in unresolved_persons.md. Kent parish registers needed to confirm maiden name.
+
+---
+
+### Search 7: Thomas Bourne's daughters (Martha, Margaret, Elizabeth, Ann, Lydia)
+
+**Query**: Thomas Bourne Marshfield children daughters Martha Bradford Margaret Winslow Elizabeth Waterman Ann Smith Plymouth Colony
+**Source**: WikiTree (Bourne-2, Bourne-387, Bourne-1), stanleyhistory.net, minerdescent.com, Find a Grave (memorial 34321698)
+**Results**: POSITIVE. All five daughters identified with marriage dates and spouses. Martha married John Bradford (son of Governor William Bradford); later married Thomas Tracy; died 1689 at Norwich, CT. Margaret married Josiah Winslow ~1636; on Marshfield founder's monument. Elizabeth married Robert Waterman 9 Dec 1638; died before father's will. Ann married Nehemiah Smith 21 Jan 1639/40. Lydia married Nathaniel Tilden. Thomas Bourne's will details bequests: daughter Bradford (20 pounds, wife's gold ring), daughter Smith (9 pounds), daughter Winslow (2 cows), son Tilden (5 shillings), granddaughter Lydia Tilden (2 pounds), grandsons Waterman (2 pounds each), minister Mr. Arnold (20 shillings).
+**Implication**: Strong Signal. Will records corroborate online databases. Family_Tree.md currently says "and daughters" without naming them.
+**Next step**: Logged in unresolved_persons.md. These are not direct ancestors (the line continues through son John Bourne), so person files are lower priority unless tree scope expands to include collateral lines.
+
+---
+
+### Search 8: Alice Chaplin, mother of Robert Parke Sr
+
+**Query**: "Alice Chaplin" mother "Robert Parke" Poslingford Suffolk England genealogy WikiTree
+**Source**: WikiTree (Parke-16), TAG vol. 82 no. 4 (Oct 2007), Brouwer Genealogy blog
+**Results**: POSITIVE. Alice Chaplin, daughter of William Chaplin of Long Melford, Suffolk. Married Robert Parke 27 Sep 1579 at All Saints, Sudbury, Suffolk. Left land in Acton in her father's will. Her husband Robert Parke of Acton was buried 27 Feb 1592/3 at Acton; will dated 12 Feb 1592/3, proved 3 Apr 1593. Three sons: (1) Robert (b. 3 Jun 1580, the immigrant to New England), (2) Edmund (called second son in will, given land in Gestingthorpe), (3) William (youngest son). Published correction: Robert Parke of Acton is NOT the son of William Parke of Gestingthorpe (previously assumed).
+**Implication**: Strong Signal. Published genealogy in The American Genealogist confirms. Alice Chaplin is the paternal grandmother of [[Thomas_Deacon_Parke]].
+**Next step**: Logged in unresolved_persons.md. Person file for Alice Chaplin recommended; she extends the Parke line one generation further back.
+
+---
+
+### Search 9: George Coles, Alice Sergeant, and Elizabeth Coles (Garland connection)
+
+**Query**: "George Coles" "Alice Sergeant" parents "Elizabeth Coles" Petworth Sussex England genealogy
+**Source**: Geni.com (profiles for Elizabeth Garland and Peter the Mariner Garland)
+**Results**: TENTATIVE. Geni.com identifies Elizabeth Coles (b. 1602, Petworth, Sussex; d. 16 Feb 1688, Hampton, NH) as daughter of George Coles and Alice Sergeant. She married Peter Garland II on 3 Oct 1625. However, one profile note states he "married Elizabeth [likely not Coles (daughter of George Coles & Alice Sergeant)]," indicating doubt within the genealogical community.
+**Implication**: Speculative. Single source (Geni.com user trees) with noted skepticism. No parish register confirmation found.
+**Next step**: No action. Requires Petworth parish registers to confirm.
+
+---
+
+### Search 10: Robert Brasseur, father of Margaret Brasseur Jordan
+
+**Query**: "Robert Brasseur" Huguenot Nansemond Virginia father Margaret Brasseur Jordan genealogy
+**Source**: WikiTree (Brasseur-19, Brasseur-39), Geni.com, Find a Grave (memorial 260395126), genealogy.com, martygrant.com
+**Results**: POSITIVE. Robert Brasseur (bapt. ~1595, Bouches du Rhone, France; d. ~1659/60, Nansemond Co., VA). French Huguenot. Fled to Isle of Thanet, Kent, England. Five children registered there 1622 to 1632. Arrived Virginia ~1635. Patented 600 acres in Nansemond Co. (1636, 1638). 1,200 acre land grant 12 Apr 1653. Married Florence (surname unknown). Daughter Margaret Brasseur (b. Sep 1642) married Thomas Jordan II and became a Quaker elder. Robert moved family to Maryland ~1658. Debate exists whether the Robert Brasseur of Nansemond and the Robert Brasseur who died in Calvert Co., MD in 1665 are the same person.
+**Implication**: Strong Signal for existence and daughter connection. Identity question (one Robert or two) remains open.
+**Next step**: Logged in unresolved_persons.md. Person file recommended; would connect Jordan line to Huguenot origins. The two-Roberts question requires Maryland probate records.
+
+---
+
+### Search 11: Long family, Caroline County, VA (Buckner neighbor connection)
+
+**Query**: Long family Caroline County Virginia 1740 1750 neighbors Buckner genealogy
+**Source**: WikiTree (Buckner-1221, Buckner-183), buckbd.com, FamilySearch
+**Results**: POSITIVE for context. Richard Long and John Long documented as neighbors in St. Mary's Parish, Essex/Caroline Co. Richard Long appears in a 6 May 1713 indenture with land bounding on John Buckner. The Long family frequently witnessed legal documents for Elizabeth Buckner (widow). Leading theory: Elizabeth Buckner was born Elizabeth Long. No documentary proof found.
+**Implication**: Moderate Signal for neighborly connection. Speculative for family tie.
+**Next step**: Would require Caroline County deed books and order books research (J.F. Dorman, "Caroline County, Virginia Order Book 1732-1740 Part 1").
+
+---
+
 ## Logging Convention
 
 Every search gets logged, positive or negative. Use this format:
