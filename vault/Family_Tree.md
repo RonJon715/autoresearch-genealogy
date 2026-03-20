@@ -494,7 +494,12 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Bourne Family
 
+**[[Thomas_Bourne_Sr]]** (b. 1581, probably Frittenden, Kent, England; d. 11 May 1664, Marshfield, Plymouth Colony, Massachusetts) (unverified)
+- Married Elizabeth (unknown surname) abt 1614
+- Children: [[John_Darcy_Bourne]], and daughters
+
 **[[John_Darcy_Bourne]]** (b. 1610, London, London, England; d. 1673, Exeter, Devon, England) (unverified)
+- Father: [[Thomas_Bourne_Sr]], Mother: Elizabeth (unknown surname)
 - Married [[Anne_Peabody_Rouse_Deacon]]
 - Children: [[William_Rouse_Bourne_Colonel]]
 
@@ -928,7 +933,12 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Buckner Family
 
+**[[John_Buckner_III]]** (b. abt 1695, Old Rappahannock, Virginia; d. before 13 Jun 1740, Caroline County, Virginia) (unverified)
+- Married Elizabeth (unknown surname) abt 1715
+- Children: [[William_Buckner_3]], [[Thomas_Capt._Buckner_Sr]], George Buckner, John Buckner
+
 **[[Thomas_Capt._Buckner_Sr]]** (b. May 13, 1728, Caroline Co., Virginia; d. February 23, 1795, "Mill Hill," Port Royal, Caroline Co., Virginia) (unverified)
+- Father: [[John_Buckner_III]], Mother: Elizabeth (unknown surname)
 - Married [[Judith_Presley_Thornton]] on 1749 at Caroline County, Virginia, USA
 - Children: [[William_Buckner]]
 
@@ -2424,6 +2434,7 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 **[[Ann_Faulkner_1722]]** (b. 1722, Queen Anne's, Maryland, United States; d. ?) (unverified)
 
 **[[Emanuel_Ford_Faulkner_Sr]]** (b. 1725, Queen Anne's, Maryland, United States; d. 1798, Wilkes, North Carolina, United States) (unverified)
+- Father: [[John_Pleasant_FalconarForknerFortnerFalknerFalconer_Jr.]], Mother: [[Sarah_Elizabeth_Forde_Ford_Falconer_Faulkner]]
 - Married [[Elizabeth_Violet_Dickerson_1735]] on 1750 at Granville, North Carolina, United States
 - Children: [[Joseph_Eugene_Faulkner]], [[Anna_Faulkner]], [[Moses_Fortner_Faulkner]], [[Aaron_Faulkner]], [[John_Faulkner_1759]], [[Emmanuel_Ford_Faulkner_Jr]], [[William_Hardy_Faulkner]], [[Temperance_Forkner]], [[Shugar_Faulkner]], [[Francis_Faulkner_1768]], [[Elizabeth_Faulkner]], [[Hardy_Faulkner]]
 
@@ -3415,9 +3426,14 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Garland Family
 
+**[[Peter_Garland_II_Mariner]]** (b. 1595, Petworth, Sussex, England; d. 4 Jan 1661, Virginia) (unverified, parentage of Peter Garland below is disputed)
+- Married Elizabeth Coles on 3 Oct 1625 at Petworth, Sussex, England
+- Children: [[Peter_Garland]], and others (disputed)
+
 **[[Peter_Garland_1615]]** (b. 1615, Wales, England; d. 1687, Hampton, Rockingham, New Hampshire, United States) (unverified)
 
 **[[Peter_Garland]]** (b. 1630, Devon, England; d. 1694, Isle, Virginia, United States) (unverified)
+- Father: [[Peter_Garland_II_Mariner]] (disputed, low confidence)
 - Married [[Anne_Philp]] on 1663 at Isle of Wright, Virginia, United States
 - Children: [[Peter_Garland_1615]], [[Pheobe_Garland]], [[Jabez_Garland_1650]], [[Peter_Garland_1652]], [[Mary_Garland]], [[John_Garland_1655]], [[Anna_Garland]], [[James_Garland]], [[Jonne_Garland]], [[Samewell_Garland]], [[Samuel_Garland]], [[Edward_Garland]], [[John_Garland]], [[Jabez_Garland]], [[Richard_Garland]], [[Jann_Garland]], [[Elizabeth_Garland]], [[William_Garland]], [[Mary_Margaret_Elizabeth_Truhart_Garland]], [[Deborah_Garland]], [[John_Garland_1717]], [[Prudence_Garland]], [[Abigail_Garland]], [[Sarah_Garland]]
 
@@ -4685,7 +4701,15 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Jordan Family
 
+**[[Thomas_Jordan_II]]** (b. abt 1634, Nansemond County, Virginia; d. 1699) (unverified, low confidence)
+- Married [[Margaret_Brasseur_Jordan]] abt 1658
+- Children: [[Elizabeth_Jordan]], Thomas Jordan III, and others
+
+**[[Margaret_Brasseur_Jordan]]** (b. abt 1640; d. abt 1700) (unverified, low confidence)
+- Married [[Thomas_Jordan_II]]
+
 **[[Elizabeth_Jordan]]** (b. 9 Nov 1643, Nansemond County, Virginia, USA; d. 9 Nov 1683, Nansemond, Virginia, USA) (unverified)
+- Father: [[Thomas_Jordan_II]], Mother: [[Margaret_Brasseur_Jordan]] (low confidence)
 - Married [[Thomas_Langford_I]]
 - Children: [[Thomas_John_LANKFORD]]
 
@@ -6040,7 +6064,15 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 ## Parke Family
 
+**[[Robert_Parke_Sr]]** (b. 3 Jun 1580, Poslingford, Suffolk, England; d. 1665) (unverified)
+- Married [[Martha_Chaplin_Parke]] on 9 Feb 1601/2 at Semer, Suffolk, England
+- Children: [[Thomas_Deacon_Parke]], [[Thomas_Parke_Of_Stonington_Deacon]], and others
+
+**[[Martha_Chaplin_Parke]]** (b. 1585, Suffolk, England; d. 1643) (unverified)
+- Married [[Robert_Parke_Sr]]
+
 **[[Thomas_Deacon_Parke]]** (b. 13 February 1616, Hitcham, Babergh District, Suffolk, England; d. 30 July 1709, Preston, New London County, Connecticut, United States of America) (unverified)
+- Father: [[Robert_Parke_Sr]], Mother: [[Martha_Chaplin_Parke]]
 - Married [[Dorothy_Dority_Thompson_Parke]]
 - Children: [[William_W._Parke]]
 

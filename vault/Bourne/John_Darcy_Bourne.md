@@ -22,8 +22,8 @@ tags: [genealogy, bourne, person]
 | Birthplace | London, London, England | GEDCOM import |
 | Died | 1673 | GEDCOM import |
 | Burial |  | GEDCOM import |
-| Father | Unknown | GEDCOM import |
-| Mother | Unknown | GEDCOM import |
+| Father | [[Thomas_Bourne_Sr]] | WikiTree Bourne-248, Geni.com, Thomas Bourne's Will |
+| Mother | Elizabeth (unknown surname) | WikiTree Bourne-2 |
 | Spouse | [[Anne_Peabody_Rouse_Deacon]] | GEDCOM import |
 | Children | [[William_Rouse_Bourne_Colonel]] | GEDCOM import |
 

@@ -23,8 +23,8 @@ tags: [genealogy, faulkner, person]
 | Birthplace | Sussex, England | GEDCOM import |
 | Died | 1729 | GEDCOM import |
 | Burial |  | GEDCOM import |
-| Father | Unknown | GEDCOM import |
-| Mother | Unknown | GEDCOM import |
+| Father | [[Sir_William_Faulkner]] | WikiTree Faulkner-1144, Geni.com, Sir Edward Filmer's Will |
+| Mother | [[Lady_Elizabeth_Filmer]] | WikiTree Filmer-52, Geni.com, Sir Edward Filmer's Will |
 | Spouse | [[Elizabeth_Filmer_Faulkner]] (m. 1652, East Sutton, Kent, England) | GEDCOM import |
 | Children | [[John_Faulkner_1653]], [[Thomas_Faulkner_1655_2]] | GEDCOM import |
 

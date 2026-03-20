@@ -22,8 +22,8 @@ tags: [genealogy, jordan, person]
 | Birthplace | Nansemond County, Virginia, USA | GEDCOM import |
 | Died | 9 Nov 1683 | GEDCOM import |
 | Burial |  | GEDCOM import |
-| Father | Unknown | GEDCOM import |
-| Mother | Unknown | GEDCOM import |
+| Father | [[Thomas_Jordan_II]] | FamilyCentral, Geni.com (low confidence) |
+| Mother | [[Margaret_Brasseur_Jordan]] | FamilyCentral, Geni.com (low confidence) |
 | Spouse | [[Thomas_Langford_I]] | GEDCOM import |
 | Children | [[Thomas_John_LANKFORD]] | GEDCOM import |
 

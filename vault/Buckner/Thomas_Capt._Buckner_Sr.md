@@ -23,8 +23,8 @@ tags: [genealogy, buckner, person]
 | Birthplace | Caroline Co., Virginia | GEDCOM import |
 | Died | February 23, 1795 | GEDCOM import |
 | Burial |  | GEDCOM import |
-| Father | Unknown | GEDCOM import |
-| Mother | Unknown | GEDCOM import |
+| Father | [[John_Buckner_III]] | WikiTree Buckner-1221, Caroline Co. VA land records |
+| Mother | Elizabeth (unknown surname) | WikiTree Buckner-1221 |
 | Spouse | [[Judith_Presley_Thornton]] (m. 1749, Caroline County, Virginia, USA) | GEDCOM import |
 | Children | [[William_Buckner]] | GEDCOM import |
 

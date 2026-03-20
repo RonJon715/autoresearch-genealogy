@@ -22,8 +22,8 @@ tags: [genealogy, parke, person]
 | Birthplace | Hitcham, Babergh District, Suffolk, England | GEDCOM import |
 | Died | 30 July 1709 | GEDCOM import |
 | Burial |  | GEDCOM import |
-| Father | Unknown | GEDCOM import |
-| Mother | Unknown | GEDCOM import |
+| Father | [[Robert_Parke_Sr]] | WikiTree Parke-9, Geni.com, The American Genealogist vol. 82 no. 4 |
+| Mother | [[Martha_Chaplin_Parke]] | WikiTree Chaplin-4, Geni.com |
 | Spouse | [[Dorothy_Dority_Thompson_Parke]] | GEDCOM import |
 | Children | [[William_W._Parke]] | GEDCOM import |
 
