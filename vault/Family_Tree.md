@@ -539,7 +539,7 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 
 **[[Sarah_Sally_Bourne]]** (b. 1741, Knob Fork, Grayson, Virginia, United States; d. 1828, Greene, Ohio, United States) (unverified)
 
-**[[William_F_Bourne_Sr]]** (b. 23 Aug 1743, Richmond, Louisa, Virginia Colony, America; d. 8 Jun 1836, Knob Fork, Grayson, Virginia, USA) (unverified)
+**[[William_F_Bourne_Sr]]** (b. 23 Aug 1743, Richmond, Louisa, Virginia Colony, America; d. 8 Jun 1836, Knob Fork, Grayson, Virginia, USA) **(confirmed by local history: Nuckolls 1914)**
 - Married [[Rosamond_Rosa_Jones]] on Abt. 1776 at Richmond, Independent Cities, Virginia, USA
 - Children: [[Patience_Bourne]], [[Milly_Bourne]], [[Milly_Bourne_1773]], [[John_Bourne_-va]], [[Charity_Bourne_va-_-va]], [[Charity_Blair_va-_-va]], [[John_Bourne]], [[Stephen_Bourn_va-_-va]], [[Rosa_Bourne_1780]], [[Mary_or_Polly_Bourne_va-_-va]], [[Mary_Dickenson_va-va-va]], [[Elizabeth_Bourne]], [[Frances_Hale_va-va-va]], [[Frances_Bourne_va-va-va]], [[Celia_Bowin_Bourne]], [[William_Bourne_va-va-va-]], [[William_Henry_Bourne]]
 
