@@ -2286,6 +2286,7 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 **[[Mary_Elizabeth_Faulkner]]** (b. 1629, Wivelsfield, Sussex, England; d. 1665, Colony of Maryland) (unverified)
 
 **[[John_Snr_Faulkner]]** (b. 1633, Sussex, England; d. 1729, Queen Anne's, Maryland, United States) (unverified)
+- Father: [[Sir_William_Faulkner]], Mother: [[Lady_Elizabeth_Filmer]]
 - Married [[Elizabeth_Filmer_Faulkner]] on 1652 at East Sutton, Kent, England
 - Children: [[John_Faulkner_1653]], [[Thomas_Faulkner_1655_2]]
 
@@ -6086,6 +6087,7 @@ Complete merged family tree imported from Ancestry.com GEDCOM. All dates from GE
 ## Parke, Of Stonington, Deacon Family
 
 **[[Thomas_Parke_Of_Stonington_Deacon]]** (b. 13 Feb 1615, Hitcham, Suffolk, England; d. 30 Jul 1709, Preston, New London County, Connecticut, United States of America) (unverified)
+- Father: [[Robert_Parke_Sr]], Mother: [[Martha_Chaplin_Parke]]
 - Married [[Dorothy_Thompson]]
 - Children: [[Robert_Parke_8th_gg]]
 
