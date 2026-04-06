@@ -37,6 +37,10 @@ According to B.F. Nuckolls, *Pioneer Settlers of Grayson County, Virginia* (1914
 
 Note: Nuckolls was the grandson of Clark Nuckolls and Rosa Bourne Hale Nuckolls, making the Bourne/Hale connection a direct family tradition recorded in the book.
 
+### Monroe Presidential Connection
+
+Elizabeth Bourne's mother was [[Rosamond_Rosa_Jones]] (nee Monroe, 1750-1821), daughter of [[Col._Spence_Monroe_Father_of_James_Monroe_5th_U.S._Pres.]] (1727-1774) and [[Elizabeth_Jones_Monroe]]. Colonel Spence Monroe was also the father of [[President_James_Monroe]] (1758-1831), the 5th President of the United States. Rosamond Monroe Jones and President James Monroe were siblings, making James Monroe Elizabeth Bourne's uncle. Through this line, James Monroe is the user's 5th great uncle. (Strong Signal; confirmed through GEDCOM lineage, Ancestry family trees, and user verification.)
+
 ## Document Sources
 
 | Document | Type | Vault Note |

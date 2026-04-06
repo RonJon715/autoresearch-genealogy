@@ -33,7 +33,11 @@ tags: [genealogy, hail,, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Captain Lewis Hale (1781-1842) of Elk Creek, Grayson County, Virginia. He married [[Elizabeth_Bourne]] (1785-1866) on January 11, 1805 in Grayson County.
+
+### Monroe Presidential Connection
+
+Through his wife Elizabeth Bourne, Lewis Hale's children are connected to the Monroe presidential line. Elizabeth's mother was [[Rosamond_Rosa_Jones]] (nee Monroe, 1750-1821), who was a daughter of [[Col._Spence_Monroe_Father_of_James_Monroe_5th_U.S._Pres.]] (Colonel Spence Monroe, 1727-1774) and a sister of [[President_James_Monroe]] (1758-1831), the 5th President of the United States. (Strong Signal; confirmed through GEDCOM lineage and user verification.)
 
 ## Document Sources
 

@@ -73,6 +73,15 @@ Research gaps and unresolved questions auto-detected during GEDCOM import on 202
 ### 3. Individuals with no source citations
 - 203 individuals have no source citations whatsoever. These claims are entirely unsourced and should be treated as Tier 3 (speculative) until verified.
 
+## Resolved Questions
+
+### Monroe Presidential Connection
+- **The question**: What is the specific chain of descent connecting this family to President James Monroe (1758-1831)?
+- **Resolution**: RESOLVED (2026-04-06). The connection runs through [[Rosamond_Rosa_Jones]] (nee Monroe, 1750-1821), who was a daughter of [[Col._Spence_Monroe_Father_of_James_Monroe_5th_U.S._Pres.]] (Colonel Spence Monroe, 1727-1774) and [[Elizabeth_Jones_Monroe]]. Rosamond was a sibling of [[President_James_Monroe]]. Rosamond married [[William_F_Bourne_Sr]], and their daughter [[Elizabeth_Bourne]] (1785-1866) married [[Lewis_Hale_Captain_5th_Great_Uncle]] (Captain Lewis Hale, 1781-1842). President James Monroe is the user's 5th great uncle.
+- **Chain of descent**: Col. Spence Monroe (1727-1774) > Rosamond Monroe Jones (1750-1821) > Elizabeth Bourne (1785-1866) > [descendants through Lewis Hale Captain]
+- **Confidence**: Strong Signal. Confirmed through GEDCOM lineage, Ancestry family trees, and user verification.
+- **Status**: RESOLVED
+
 ## New Questions Discovered (2026-03-20 Research Pass)
 
 ### 4. Margaret / Nancy Catherine McDaniel duplicate spouse issue

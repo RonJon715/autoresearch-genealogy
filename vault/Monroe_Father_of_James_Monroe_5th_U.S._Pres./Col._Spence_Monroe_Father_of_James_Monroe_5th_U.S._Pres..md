@@ -30,7 +30,9 @@ tags: [genealogy, monroe-(**father-of-james-monroe-5th-u.s.-pres.***), person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Colonel Spence Monroe (1727-1774) of Westmoreland County, Virginia, was the father of [[President_James_Monroe]] (1758-1831), the 5th President of the United States. He was also the father of [[Rosamond_Rosa_Jones]] (Rosamond Monroe, 1750-1821), who married [[William_F_Bourne_Sr]] and became the mother of [[Elizabeth_Bourne]] (1785-1866). Elizabeth Bourne married [[Lewis_Hale_Captain_5th_Great_Uncle]] (Captain Lewis Hale, 1781-1842) in Grayson County, Virginia. Through the Rosamond Monroe line, President James Monroe is the user's 5th great uncle.
+
+Spence Monroe was the son of [[Andrew_Spence_Monroe]] and [[Christiana_Tyler]]. He married [[Elizabeth_Jones_Monroe]]. (Strong Signal; confirmed through GEDCOM lineage, Ancestry family trees, and user verification.)
 
 ## Document Sources
 

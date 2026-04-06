@@ -32,7 +32,11 @@ tags: [genealogy, jones, person]
 
 ## Biography
 
-No biography written yet. See sources and vital information above.
+Rosamond Monroe (1750-1821) was born in Knob Fork, Grayson County, Virginia, the daughter of [[Col._Spence_Monroe_Father_of_James_Monroe_5th_U.S._Pres.]] (Colonel Spence Monroe, 1727-1774) and [[Elizabeth_Jones_Monroe]]. She married [[William_F_Bourne_Sr]] circa 1776 in Richmond, Virginia, after which she was known as Rosamond Jones (taking the Jones surname through her mother's family).
+
+### Monroe Presidential Connection
+
+Rosamond was a sister of [[President_James_Monroe]] (1758-1831), the 5th President of the United States. Both were children of Colonel Spence Monroe. Through her daughter [[Elizabeth_Bourne]] (1785-1866), who married [[Lewis_Hale_Captain_5th_Great_Uncle]] (Captain Lewis Hale, 1781-1842), the Monroe presidential line connects to the Hale family of Grayson County, Virginia. President James Monroe is the user's 5th great uncle through this chain of descent. (Strong Signal; confirmed through GEDCOM lineage, Ancestry family trees, and user verification.)
 
 ## Document Sources
 
