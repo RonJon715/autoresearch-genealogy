@@ -32,7 +32,13 @@ tags: [genealogy, jones, person]
 
 ## Biography
 
-Rosamond Monroe (1750-1821) was born in Knob Fork, Grayson County, Virginia, the daughter of [[Col._Spence_Monroe_Father_of_James_Monroe_5th_U.S._Pres.]] (Colonel Spence Monroe, 1727-1774) and [[Elizabeth_Jones_Monroe]]. She married [[William_F_Bourne_Sr]] circa 1776 in Richmond, Virginia, after which she was known as Rosamond Jones (taking the Jones surname through her mother's family).
+Rosamond Jones (1750-1821) was born in Knob Fork, Grayson County, Virginia. She married [[William_F_Bourne_Sr]] (William Bourne, 1743-1836) in 1765 in Hanover County, Virginia.
+
+### Jones (Minitree) and Spottswood Parentage
+
+Rosamond was the daughter of [[Minitree_Jones_Sr]] (Minitree Thomas Jones, 1723-1808) and Mary Elizabeth Spottswood (1732-1791). Her brothers included Minitree Jones Jr., [[Spottswood_Jones]] (1754-1826), and Churchill Jones. The given name "Spottswood" in the family is notable: the Spottswood family is potentially connected to Governor Alexander Spotswood, Lt. Governor of Virginia from 1710 to 1722. (Speculative; the gubernatorial connection requires further primary source verification.)
+
+Note: The original GEDCOM import listed Rosamond's parents as [[Col._Spence_Monroe_Father_of_James_Monroe_5th_U.S._Pres.]] and [[Elizabeth_Jones_Monroe]]. Elizabeth Jones Monroe was the wife of both Spence Monroe and Minitree Jones Sr according to the GEDCOM data, and Rosamond appears as a child of the Jones union. The Monroe presidential connection runs through Elizabeth Jones Monroe's marriage to Spence Monroe, making President James Monroe a half sibling or step sibling of Rosamond through their shared mother. This parentage question requires further research against primary sources.
 
 ### Monroe Presidential Connection
 

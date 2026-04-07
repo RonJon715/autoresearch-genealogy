@@ -34,7 +34,11 @@ tags: [genealogy, bourne, person]
 
 According to B.F. Nuckolls, *Pioneer Settlers of Grayson County, Virginia* (Bristol, TN: King Printing Co., 1914), Chapter II, William Bourne was born in 1743 to Stephen and Hannah Bourne of Louisa County, Virginia. William and his brothers Stephen and John (also Grayson pioneers) grew up on the 300 acre land grant obtained by their grandfather, William Bourne II, in 1719. (Moderate Signal; secondary source, local history)
 
-William was "a man of much force and had a large share in developing the county." He married Rosamond (Rosa) Jones, born 1750, who grew up on a large land grant near Fredericksburg, Virginia; her parents were Thomas and Bette Jones. (Moderate Signal; Nuckolls, p. 17)
+William was "a man of much force and had a large share in developing the county." He married Rosamond (Rosa) Jones, born 1750, in 1765 in Hanover County, Virginia. Rosa grew up on a large land grant near Fredericksburg, Virginia; Nuckolls identifies her parents as Thomas and Bette Jones. (Moderate Signal; Nuckolls, p. 17)
+
+### Jones (Minitree) and Spottswood Connection
+
+Rosamond's father was [[Minitree_Jones_Sr]] (Minitree Thomas Jones, 1723-1808) and her mother was Mary Elizabeth Spottswood (1732-1791). Through Rosamond, the Bourne family connects to the Jones (Minitree) line and the Spottswood family of Virginia. The Spottswood name is potentially linked to Governor Alexander Spotswood, Lt. Governor of Virginia from 1710 to 1722. (Speculative; the gubernatorial connection requires primary source verification.) Rosamond's brothers included Minitree Jones Jr., [[Spottswood_Jones]] (1754-1826), and Churchill Jones. Notably, Minitree Jones served on the first court commission of Grayson County alongside William Bourne in 1798.
 
 William Bourne was appointed the first clerk of the court of Grayson County. The first court commission was held on the 21st day of May 1798, at the house of William Bourne in the County of Grayson. Other members of the first court included Flower Swift, Enoch Osbourne, Minitree Jones, Nathaniel Frisbie, Philip Gaines, Nathaniel Pope, Matthew Dickey, Lewis Hale, and Moses Foley. (Moderate Signal; Nuckolls, pp. 17, 37)
 

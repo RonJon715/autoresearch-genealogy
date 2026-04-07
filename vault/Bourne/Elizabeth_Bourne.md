@@ -39,7 +39,7 @@ Note: Nuckolls was the grandson of Clark Nuckolls and Rosa Bourne Hale Nuckolls,
 
 ### Monroe Presidential Connection
 
-Elizabeth Bourne's mother was [[Rosamond_Rosa_Jones]] (nee Monroe, 1750-1821), daughter of [[Col._Spence_Monroe_Father_of_James_Monroe_5th_U.S._Pres.]] (1727-1774) and [[Elizabeth_Jones_Monroe]]. Colonel Spence Monroe was also the father of [[President_James_Monroe]] (1758-1831), the 5th President of the United States. Rosamond Monroe Jones and President James Monroe were siblings, making James Monroe Elizabeth Bourne's uncle. Through this line, James Monroe is the user's 5th great uncle. (Strong Signal; confirmed through GEDCOM lineage, Ancestry family trees, and user verification.)
+Elizabeth Bourne's mother was [[Rosamond_Rosa_Jones]] (1750-1821), daughter of [[Minitree_Jones_Sr]] (Minitree Thomas Jones, 1723-1808) and Mary Elizabeth Spottswood (1732-1791). Through her maternal grandmother [[Elizabeth_Jones_Monroe]], who also married [[Col._Spence_Monroe_Father_of_James_Monroe_5th_U.S._Pres.]] (1727-1774), the Monroe presidential line connects to this family. The Spottswood surname in Rosamond's maternal line points to a potential connection to Governor Alexander Spotswood, Lt. Governor of Virginia 1710-1722. (Speculative; requires primary source verification.) Colonel Spence Monroe was also the father of [[President_James_Monroe]] (1758-1831), the 5th President of the United States. Rosamond Monroe Jones and President James Monroe were siblings, making James Monroe Elizabeth Bourne's uncle. Through this line, James Monroe is the user's 5th great uncle. (Strong Signal; confirmed through GEDCOM lineage, Ancestry family trees, and user verification.)
 
 ## Document Sources
 
